@@ -1,0 +1,1735 @@
+"Observed" "Estimator" "Est_s.e." "95% Lower" "95% Upper" "ResArea_Orig" "TimeWindow" "Order"
+45 46.141 1.621 45.145 53.952 "Agriculture" "1990_1995" 0
+44 45.994 2.256 44.337 55.813 "Agronomy" "1990_1995" 0
+3 4.5 2.872 3.132 20.083 "Allergy" "1990_1995" 0
+14 21.853 7.978 15.507 54.905 "Anatomy & Morphology" "1990_1995" 0
+22 36.073 10.941 25.657 76.154 "Anthropology" "1990_1995" 0
+3 5 2.921 3.246 19.244 "Archaeology" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Astronomy & Astrophysics" "1990_1995" 0
+13 28.333 15.825 15.889 94.382 "Behavioral Sciences" "1990_1995" 0
+22 45.872 18.143 28.355 111.665 "Biochemical Research Methods" "1990_1995" 0
+46 58.233 13.136 48.198 114.071 "Biochemistry & Molecular Biology" "1990_1995" 0
+40 61.032 16.362 45.461 120.996 "Biodiversity Conservation" "1990_1995" 0
+38 42.066 4.034 38.803 58.595 "Biology" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Biomedical Social Sciences" "1990_1995" 0
+23 27.822 4.771 23.955 47.347 "Biophysics" "1990_1995" 0
+42 48.104 6.059 43.204 72.939 "Biotechnology & Applied Microbiology" "1990_1995" 0
+9 14.859 7.106 9.908 46.791 "Business" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Cardiology" "1990_1995" 0
+32 36.062 4.03 32.802 52.578 "Cell Biology" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Cell & Tissue Engineering" "1990_1995" 0
+26 29.021 3.062 26.582 41.695 "Chemistry" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Clinical Neurology" "1990_1995" 0
+14 18.35 4.658 14.784 38.123 "Computer Science" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Crystallography" "1990_1995" 0
+1 1 0.312 1 2.549 "Demography" "1990_1995" 0
+5 11.667 9.775 5.817 59.411 "Dentistry, Oral Surgery & Medicine" "1990_1995" 0
+16 29.034 12.049 18.793 76.819 "Developmental Biology" "1990_1995" 0
+46 46.125 0.437 46.005 48.918 "Ecology" "1990_1995" 0
+8 11.733 4.964 8.517 34.975 "Economics" "1990_1995" 0
+1 1 0.312 1 2.549 "Education" "1990_1995" 0
+1 1 0.312 1 2.549 "Electrochemistry" "1990_1995" 0
+7 12.556 6.759 7.858 42.97 "Endocrinology & Metabolism" "1990_1995" 0
+6 16.714 14.743 7.421 86.784 "Energy & Fuels" "1990_1995" 0
+28 33.003 4.388 29.138 49.989 "Engineering" "1990_1995" 0
+34 39.303 4.904 35.136 58.755 "Entomology" "1990_1995" 0
+24 32.216 6.817 25.989 57.938 "Environmental Studies" "1990_1995" 0
+5 13 8.069 6.549 46.319 "Ethics" "1990_1995" 0
+1 1 0.312 1 2.549 "Ethnic Studies" "1990_1995" 0
+44 59.974 16.467 47.014 128.659 "Evolutionary Biology" "1990_1995" 0
+28 41.401 12.373 30.876 90.443 "Fisheries" "1990_1995" 0
+12 16.612 4.585 12.908 35.417 "Food Science & Technology" "1990_1995" 0
+32 48.596 14.785 35.71 106.237 "Forestry" "1990_1995" 0
+7 9.4 3.175 7.334 24.232 "Gastroenterology & Hepatology" "1990_1995" 0
+3 5 2.921 3.246 19.244 "General & Internal Medicine" "1990_1995" 0
+45 51.119 6.072 46.208 76.006 "Genetics & Heredity" "1990_1995" 0
+31 38.953 7.443 32.681 68.638 "Geography" "1990_1995" 0
+30 49.45 14.255 35.38 100.314 "Geology" "1990_1995" 0
+25 34.907 8.294 27.374 66.333 "Geosciences, Multidisciplinary" "1990_1995" 0
+1 1 0.312 1 2.549 "Geriatrics & Gerontology" "1990_1995" 0
+2 2.333 0.943 2.018 8.09 "Government & Law" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Health Care Sciences & Services" "1990_1995" 0
+1 1 0.312 1 2.549 "Health Policy & Services" "1990_1995" 0
+11 25.933 15.425 13.811 90.336 "Hematology" "1990_1995" 0
+4 8.5 5.275 4.727 31.843 "History" "1990_1995" 0
+41 49.608 6.792 43.201 74.659 "Horticulture" "1990_1995" 0
+1 1 0.312 1 2.549 "Hospitality, Leisure, Sport & Tourism" "1990_1995" 0
+6 18.5 11.242 8.764 62.521 "Imaging Science & Photographic Technology" "1990_1995" 0
+42 47.05 4.424 43.151 64.165 "Immunology" "1990_1995" 0
+1 1 0.312 1 2.549 "Industrial Relations & Labor" "1990_1995" 0
+28 37.892 8.283 30.371 69.279 "Infectious Diseases" "1990_1995" 0
+1 1 0.312 1 2.549 "Information Science & Library Science" "1990_1995" 0
+3 5 2.921 3.246 19.244 "Integrative & Complementary Medicine" "1990_1995" 0
+2 2.333 0.943 2.018 8.09 "Law" "1990_1995" 0
+38 42.066 4.034 38.803 58.595 "Life Sciences & Biomedicine - Other Topics" "1990_1995" 0
+24 44.045 19.989 27.934 126.149 "Limnology" "1990_1995" 0
+1 1 0.312 1 2.549 "Management" "1990_1995" 0
+38 41.121 3.654 38.505 57.279 "Marine & Freshwater Biology" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Materials Science" "1990_1995" 0
+15 34.575 19.531 18.839 114.823 "Mathematical & Computational Biology" "1990_1995" 0
+7 10.667 4.882 7.507 33.538 "Mathematics" "1990_1995" 0
+1 1 0.312 1 2.549 "Mechanics" "1990_1995" 0
+6 16.714 14.743 7.421 86.784 "Medical Subscience" "1990_1995" 0
+3 5 2.921 3.246 19.244 "Medicine, General & Internal" "1990_1995" 0
+18 34.279 14.513 21.636 90.879 "Medicine, Research & Experimental" "1990_1995" 0
+19 42.314 19.639 24.55 116.936 "Meteorology & Atmospheric Sciences" "1990_1995" 0
+42 48.113 6.067 43.206 72.981 "Microbiology" "1990_1995" 0
+9 37.8 35.679 13.35 199.677 "Microscopy" "1990_1995" 0
+1 1 0.312 1 2.549 "Mining & Mineral Processing" "1990_1995" 0
+36 43.974 7.461 37.685 73.729 "Multidisciplinary Sciences" "1990_1995" 0
+19 22.541 3.796 19.638 38.663 "Mycology" "1990_1995" 0
+30 40.424 7.579 32.907 67.37 "Neurosciences" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Nutrition & Dietetics" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Obstetrics & Gynecology" "1990_1995" 0
+30 31.555 1.947 30.232 40.433 "Oceanography" "1990_1995" 0
+18 28.473 10.093 20.139 69.281 "Oncology" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Operations Research & Management Science" "1990_1995" 0
+18 30.049 12.946 20.164 85.094 "Ornithology" "1990_1995" 0
+30 90.142 70.658 39.694 403.123 "Paleontology" "1990_1995" 0
+30 38.562 6.76 32.188 63.5 "Parasitology" "1990_1995" 0
+17 64.185 42.386 27.449 230.069 "Pathology" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Pediatrics" "1990_1995" 0
+19 46.228 22.415 25.648 130.511 "Pharmacology & Pharmacy" "1990_1995" 0
+30 34.057 4.026 30.801 50.557 "Physical Geography" "1990_1995" 0
+2 2.333 0.943 2.018 8.09 "Physics" "1990_1995" 0
+26 30.988 4.377 27.134 47.933 "Physiology" "1990_1995" 0
+3 5 2.921 3.246 19.244 "Planning & Development" "1990_1995" 0
+45 45.4 0.867 45.03 50.306 "Plant Sciences" "1990_1995" 0
+1 1 0.312 1 2.549 "Polymer Science" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Psychiatry" "1990_1995" 0
+6 14.75 8.841 7.691 51.286 "Psychology" "1990_1995" 0
+3 5 2.921 3.246 19.244 "Public Administration" "1990_1995" 0
+26 62.779 29.127 35.369 170.385 "Public, Environmental & Occupational Health" "1990_1995" 0
+3 5 2.921 3.246 19.244 "Radiology, Nuclear Medicine & Medical Imaging" "1990_1995" 0
+6 18.5 11.242 8.764 62.521 "Remote Sensing" "1990_1995" 0
+14 21.674 6.754 15.739 47.862 "Reproductive Biology" "1990_1995" 0
+18 34.279 14.513 21.636 90.879 "Research & Experimental Medicine" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Respiratory System" "1990_1995" 0
+36 43.974 7.461 37.685 73.729 "Science & Technology - Other Topics" "1990_1995" 0
+11 48.8 45.844 16.86 254.818 "Social Sciences" "1990_1995" 0
+10 39.538 36.583 14.463 205.498 "Sociology" "1990_1995" 0
+27 34.451 5.881 28.905 56.142 "Soil Science" "1990_1995" 0
+1 1 0.312 1 2.549 "Sport Sciences" "1990_1995" 0
+4 8.5 5.275 4.727 31.843 "Statistics & Probability" "1990_1995" 0
+2 2.333 0.943 2.018 8.09 "Surgery" "1990_1995" 0
+19 23.398 4.704 19.794 43.356 "Toxicology" "1990_1995" 0
+4 4.833 1.603 4.073 13.544 "Transplantation" "1990_1995" 0
+21 75.435 48.231 33.244 263.005 "Tropical Medicine" "1990_1995" 0
+15 34.552 19.509 18.834 114.707 "Urban Studies" "1990_1995" 0
+2 2.5 1.107 2.037 8.808 "Urology & Nephrology" "1990_1995" 0
+22 33.7 8.952 25.093 66.264 "Veterinary Sciences" "1990_1995" 0
+31 47.567 14.76 34.704 105.113 "Virology" "1990_1995" 0
+23 25.678 2.752 23.507 37.138 "Water Resources" "1990_1995" 0
+42 50.152 8.263 43.569 84.351 "Zoology" "1990_1995" 0
+27.558 28.95 1.185 27.558 31.272 "Agriculture" "1990_1995" 1
+27.022 28.966 1.5 27.022 31.905 "Agronomy" "1990_1995" 1
+2.828 4.891 3.117 2.828 11 "Allergy" "1990_1995" 1
+12.238 19.269 4.954 12.238 28.978 "Anatomy & Morphology" "1990_1995" 1
+17.433 27.292 5.102 17.433 37.291 "Anthropology" "1990_1995" 1
+3 7.184 2.413 3 11.914 "Archaeology" "1990_1995" 1
+2 3.375 1.15 2 5.628 "Astronomy & Astrophysics" "1990_1995" 1
+10.381 18.619 5.7 10.381 29.79 "Behavioral Sciences" "1990_1995" 1
+17.643 32.344 8.498 17.643 48.999 "Biochemical Research Methods" "1990_1995" 1
+25.509 26.592 0.992 25.509 28.537 "Biochemistry & Molecular Biology" "1990_1995" 1
+20.985 24.122 2.001 20.985 28.043 "Biodiversity Conservation" "1990_1995" 1
+24.25 26.623 1.578 24.25 29.715 "Biology" "1990_1995" 1
+2 3.375 1.12 2 5.569 "Biomedical Social Sciences" "1990_1995" 1
+18.69 23.795 2.387 19.116 28.474 "Biophysics" "1990_1995" 1
+25.558 27.864 1.765 25.558 31.324 "Biotechnology & Applied Microbiology" "1990_1995" 1
+7.743 12.656 3.478 7.743 19.472 "Business" "1990_1995" 1
+2 3.375 1.096 2 5.524 "Cardiology" "1990_1995" 1
+20.328 22.44 1.474 20.328 25.328 "Cell Biology" "1990_1995" 1
+2 3.375 1.106 2 5.543 "Cell & Tissue Engineering" "1990_1995" 1
+21.415 26.526 2.453 21.718 31.335 "Chemistry" "1990_1995" 1
+2 3.375 1.139 2 5.608 "Clinical Neurology" "1990_1995" 1
+11.806 16.522 2.872 11.806 22.15 "Computer Science" "1990_1995" 1
+2 3.375 1.075 2 5.482 "Crystallography" "1990_1995" 1
+1 0 0 1 0 "Demography" "1990_1995" 1
+4.762 12.419 6.43 4.762 25.022 "Dentistry, Oral Surgery & Medicine" "1990_1995" 1
+13.656 23.134 5.874 13.656 34.646 "Developmental Biology" "1990_1995" 1
+21.361 21.664 0.602 21.361 22.844 "Ecology" "1990_1995" 1
+6.916 10.48 3.034 6.916 16.426 "Economics" "1990_1995" 1
+1 0 0 1 0 "Education" "1990_1995" 1
+1 0 0 1 0 "Electrochemistry" "1990_1995" 1
+6.614 13.958 6.153 6.614 26.018 "Endocrinology & Metabolism" "1990_1995" 1
+5.742 17.62 9.452 5.742 36.145 "Energy & Fuels" "1990_1995" 1
+20.028 24.829 2.31 20.301 29.358 "Engineering" "1990_1995" 1
+22.154 25.034 1.885 22.154 28.729 "Entomology" "1990_1995" 1
+16.282 20.943 2.597 16.282 26.033 "Environmental Studies" "1990_1995" 1
+5 18.564 5.757 7.281 29.847 "Ethics" "1990_1995" 1
+1 0 0 1 0 "Ethnic Studies" "1990_1995" 1
+23.677 24.849 1.116 23.677 27.036 "Evolutionary Biology" "1990_1995" 1
+18.572 21.733 2.077 18.572 25.803 "Fisheries" "1990_1995" 1
+11.308 19.633 4.597 11.308 28.644 "Food Science & Technology" "1990_1995" 1
+15.285 16.98 1.453 15.285 19.828 "Forestry" "1990_1995" 1
+6.598 10.995 2.999 6.598 16.874 "Gastroenterology & Hepatology" "1990_1995" 1
+3 7.184 2.307 3 11.706 "General & Internal Medicine" "1990_1995" 1
+23.221 23.861 0.687 23.221 25.208 "Genetics & Heredity" "1990_1995" 1
+16.626 18.785 1.758 16.626 22.23 "Geography" "1990_1995" 1
+16.351 19.986 2.098 16.351 24.098 "Geology" "1990_1995" 1
+14.914 17.821 2.033 14.914 21.805 "Geosciences, Multidisciplinary" "1990_1995" 1
+1 0 0 1 0 "Geriatrics & Gerontology" "1990_1995" 1
+1.89 2.52 1.836 1.89 6.119 "Government & Law" "1990_1995" 1
+2 3.375 1.111 2 5.552 "Health Care Sciences & Services" "1990_1995" 1
+1 0 0 1 0 "Health Policy & Services" "1990_1995" 1
+10.009 23.653 11.285 10.009 45.77 "Hematology" "1990_1995" 1
+4 12.275 3.759 4.907 19.643 "History" "1990_1995" 1
+24.17 26.985 1.714 24.17 30.344 "Horticulture" "1990_1995" 1
+1 0 0 1 0 "Hospitality, Leisure, Sport & Tourism" "1990_1995" 1
+6 26.008 8.065 10.201 41.815 "Imaging Science & Photographic Technology" "1990_1995" 1
+21.931 23.35 1.181 21.931 25.665 "Immunology" "1990_1995" 1
+1 0 0 1 0 "Industrial Relations & Labor" "1990_1995" 1
+20.373 25.436 2.809 20.373 30.942 "Infectious Diseases" "1990_1995" 1
+1 0 0 1 0 "Information Science & Library Science" "1990_1995" 1
+3 7.184 2.413 3 11.914 "Integrative & Complementary Medicine" "1990_1995" 1
+1.89 2.52 1.91 1.89 6.262 "Law" "1990_1995" 1
+24.25 26.623 1.499 24.25 29.561 "Life Sciences & Biomedicine - Other Topics" "1990_1995" 1
+15.678 19.452 2.702 15.678 24.747 "Limnology" "1990_1995" 1
+1 0 0 1 0 "Management" "1990_1995" 1
+19.36 19.883 0.729 19.36 21.313 "Marine & Freshwater Biology" "1990_1995" 1
+2 3.375 1.075 2 5.482 "Materials Science" "1990_1995" 1
+11.833 20.599 5.853 11.833 32.07 "Mathematical & Computational Biology" "1990_1995" 1
+6 9.636 3.581 6 16.654 "Mathematics" "1990_1995" 1
+1 0 0 1 0 "Mechanics" "1990_1995" 1
+5.742 17.62 9.337 5.742 35.92 "Medical Subscience" "1990_1995" 1
+3 7.184 2.329 3 11.748 "Medicine, General & Internal" "1990_1995" 1
+13.041 19.671 4.21 13.041 27.922 "Medicine, Research & Experimental" "1990_1995" 1
+15.242 27.833 6.969 15.242 41.492 "Meteorology & Atmospheric Sciences" "1990_1995" 1
+23.411 24.57 1.119 23.411 26.764 "Microbiology" "1990_1995" 1
+8.706 39.078 18.195 8.706 74.74 "Microscopy" "1990_1995" 1
+1 0 0 1 0 "Mining & Mineral Processing" "1990_1995" 1
+20.614 22.225 1.36 20.614 24.891 "Multidisciplinary Sciences" "1990_1995" 1
+13.778 16.85 1.923 13.778 20.619 "Mycology" "1990_1995" 1
+23.115 31.141 3.697 23.896 38.387 "Neurosciences" "1990_1995" 1
+2 3.375 1.143 2 5.615 "Nutrition & Dietetics" "1990_1995" 1
+2 3.375 1.128 2 5.586 "Obstetrics & Gynecology" "1990_1995" 1
+18.346 19.832 1.241 18.346 22.263 "Oceanography" "1990_1995" 1
+12.241 16.103 2.848 12.241 21.685 "Oncology" "1990_1995" 1
+2 3.375 1.161 2 5.651 "Operations Research & Management Science" "1990_1995" 1
+12.949 16.615 2.446 12.949 21.409 "Ornithology" "1990_1995" 1
+18.122 22.006 2.328 18.122 26.569 "Paleontology" "1990_1995" 1
+19.724 24.08 2.516 19.724 29.011 "Parasitology" "1990_1995" 1
+11.713 31.258 16.302 11.713 63.211 "Pathology" "1990_1995" 1
+2 3.375 1.164 2 5.656 "Pediatrics" "1990_1995" 1
+16.032 34.049 14.247 16.032 61.972 "Pharmacology & Pharmacy" "1990_1995" 1
+16.944 19.038 1.694 16.944 22.358 "Physical Geography" "1990_1995" 1
+1.89 2.52 1.76 1.89 5.97 "Physics" "1990_1995" 1
+20.247 26.085 2.765 20.666 31.505 "Physiology" "1990_1995" 1
+3 7.184 2.427 3 11.94 "Planning & Development" "1990_1995" 1
+23.558 24.066 0.693 23.558 25.424 "Plant Sciences" "1990_1995" 1
+1 0 0 1 0 "Polymer Science" "1990_1995" 1
+2 3.375 1.111 2 5.552 "Psychiatry" "1990_1995" 1
+5.299 13.143 6.743 5.299 26.359 "Psychology" "1990_1995" 1
+3 7.184 2.445 3 11.976 "Public Administration" "1990_1995" 1
+21.254 37.525 7.882 22.077 52.973 "Public, Environmental & Occupational Health" "1990_1995" 1
+3 7.184 2.392 3 11.873 "Radiology, Nuclear Medicine & Medical Imaging" "1990_1995" 1
+6 26.008 7.922 10.481 41.534 "Remote Sensing" "1990_1995" 1
+13.192 25.134 7.235 13.192 39.315 "Reproductive Biology" "1990_1995" 1
+13.041 19.671 4.295 13.041 28.089 "Research & Experimental Medicine" "1990_1995" 1
+2 3.375 1.124 2 5.578 "Respiratory System" "1990_1995" 1
+20.614 22.225 1.365 20.614 24.901 "Science & Technology - Other Topics" "1990_1995" 1
+9.449 31.934 17.295 9.449 65.832 "Social Sciences" "1990_1995" 1
+9.068 30.187 20.304 9.068 69.982 "Sociology" "1990_1995" 1
+20.371 27.068 3.194 20.808 33.327 "Soil Science" "1990_1995" 1
+1 0 0 1 0 "Sport Sciences" "1990_1995" 1
+4 12.275 3.939 4.555 19.995 "Statistics & Probability" "1990_1995" 1
+1.89 2.52 1.898 1.89 6.24 "Surgery" "1990_1995" 1
+16.859 22.524 2.774 17.088 27.96 "Toxicology" "1990_1995" 1
+3.78 5.605 2.323 3.78 10.157 "Transplantation" "1990_1995" 1
+18.528 49.746 26.376 18.528 101.442 "Tropical Medicine" "1990_1995" 1
+12.16 21.575 6.341 12.16 34.003 "Urban Studies" "1990_1995" 1
+2 3.375 1.136 2 5.601 "Urology & Nephrology" "1990_1995" 1
+18.426 29.499 5.362 18.989 40.008 "Veterinary Sciences" "1990_1995" 1
+18.273 21.135 2.049 18.273 25.151 "Virology" "1990_1995" 1
+18.386 23.162 2.462 18.386 27.987 "Water Resources" "1990_1995" 1
+21.098 22.12 1.092 21.098 24.262 "Zoology" "1990_1995" 1
+19.692 20.483 1.253 19.692 22.94 "Agriculture" "1990_1995" 2
+18.782 19.793 1.583 18.782 22.896 "Agronomy" "1990_1995" 2
+2.667 6 1.856 2.667 9.637 "Allergy" "1990_1995" 2
+10.903 18.056 3.96 10.903 25.816 "Anatomy & Morphology" "1990_1995" 2
+13.829 19.708 4.198 13.829 27.935 "Anthropology" "1990_1995" 2
+3 3 0.559 3 4.096 "Archaeology" "1990_1995" 2
+2 2 0.489 2 2.958 "Astronomy & Astrophysics" "1990_1995" 2
+8.229 12 4.582 8.229 20.98 "Behavioral Sciences" "1990_1995" 2
+13.954 21.171 6.322 13.954 33.562 "Biochemical Research Methods" "1990_1995" 2
+17.37 17.782 0.961 17.37 19.665 "Biochemistry & Molecular Biology" "1990_1995" 2
+12.444 13.107 1.562 12.444 16.168 "Biodiversity Conservation" "1990_1995" 2
+17.468 18.755 1.761 17.468 22.207 "Biology" "1990_1995" 2
+2 2 0.464 2 2.909 "Biomedical Social Sciences" "1990_1995" 2
+15.565 20.344 2.811 15.565 25.853 "Biophysics" "1990_1995" 2
+17.047 18.031 1.648 17.047 21.261 "Biotechnology & Applied Microbiology" "1990_1995" 2
+6.737 10.909 4.708 6.737 20.137 "Business" "1990_1995" 2
+2 2 0.475 2 2.931 "Cardiology" "1990_1995" 2
+14.925 16.072 1.38 14.925 18.778 "Cell Biology" "1990_1995" 2
+2 2 0.455 2 2.892 "Cell & Tissue Engineering" "1990_1995" 2
+18.253 23.903 2.74 18.533 29.272 "Chemistry" "1990_1995" 2
+2 2 0.468 2 2.917 "Clinical Neurology" "1990_1995" 2
+10.227 15 2.768 10.227 20.425 "Computer Science" "1990_1995" 2
+2 2 0.48 2 2.94 "Crystallography" "1990_1995" 2
+1 1 0 1 1 "Demography" "1990_1995" 2
+4.5 15 4.785 5.621 24.379 "Dentistry, Oral Surgery & Medicine" "1990_1995" 2
+11.845 19.333 5.21 11.845 29.544 "Developmental Biology" "1990_1995" 2
+12.605 12.694 0.571 12.605 13.813 "Ecology" "1990_1995" 2
+6.081 9.545 3.106 6.081 15.633 "Economics" "1990_1995" 2
+1 1 0 1 1 "Education" "1990_1995" 2
+1 1 0 1 1 "Electrochemistry" "1990_1995" 2
+6.231 18 8.293 6.231 34.253 "Endocrinology & Metabolism" "1990_1995" 2
+5.444 21 6.777 7.718 34.282 "Energy & Fuels" "1990_1995" 2
+14.479 17.246 2.882 14.479 22.894 "Engineering" "1990_1995" 2
+16.401 18.004 1.607 16.401 21.154 "Entomology" "1990_1995" 2
+11.379 13.36 2.575 11.379 18.408 "Environmental Studies" "1990_1995" 2
+5 5 2.8 5 10.488 "Ethics" "1990_1995" 2
+1 1 0 1 1 "Ethnic Studies" "1990_1995" 2
+17.006 17.457 0.867 17.006 19.156 "Evolutionary Biology" "1990_1995" 2
+14.606 16.23 1.432 14.606 19.037 "Fisheries" "1990_1995" 2
+10.704 27.2 4.729 17.931 36.469 "Food Science & Technology" "1990_1995" 2
+9.261 9.597 0.964 9.261 11.487 "Forestry" "1990_1995" 2
+6.25 15 3.481 8.177 21.823 "Gastroenterology & Hepatology" "1990_1995" 2
+3 3 0.494 3 3.969 "General & Internal Medicine" "1990_1995" 2
+16.763 17.036 0.658 16.763 18.325 "Genetics & Heredity" "1990_1995" 2
+9.757 10.287 1.485 9.757 13.198 "Geography" "1990_1995" 2
+11.224 12.182 1.419 11.224 14.963 "Geology" "1990_1995" 2
+10.791 11.889 1.37 10.791 14.573 "Geosciences, Multidisciplinary" "1990_1995" 2
+1 1 0 1 1 "Geriatrics & Gerontology" "1990_1995" 2
+1.8 3 0.914 1.8 4.792 "Government & Law" "1990_1995" 2
+2 2 0.47 2 2.92 "Health Care Sciences & Services" "1990_1995" 2
+1 1 0 1 1 "Health Policy & Services" "1990_1995" 2
+9 21 14.578 9 49.572 "Hematology" "1990_1995" 2
+4 4 1.372 4 6.688 "History" "1990_1995" 2
+16.715 17.866 1.695 16.715 21.188 "Horticulture" "1990_1995" 2
+1 1 0 1 1 "Hospitality, Leisure, Sport & Tourism" "1990_1995" 2
+6 6 4.545 6 14.908 "Imaging Science & Photographic Technology" "1990_1995" 2
+15.357 15.924 0.941 15.357 17.769 "Immunology" "1990_1995" 2
+1 1 0 1 1 "Industrial Relations & Labor" "1990_1995" 2
+15.812 18.846 2.366 15.812 23.483 "Infectious Diseases" "1990_1995" 2
+1 1 0 1 1 "Information Science & Library Science" "1990_1995" 2
+3 3 0.602 3 4.179 "Integrative & Complementary Medicine" "1990_1995" 2
+1.8 3 0.844 1.8 4.654 "Law" "1990_1995" 2
+17.468 18.755 1.698 17.468 22.083 "Life Sciences & Biomedicine - Other Topics" "1990_1995" 2
+11.383 12.732 1.756 11.383 16.175 "Limnology" "1990_1995" 2
+1 1 0 1 1 "Management" "1990_1995" 2
+13.877 14.104 0.635 13.877 15.348 "Marine & Freshwater Biology" "1990_1995" 2
+2 2 0.48 2 2.94 "Materials Science" "1990_1995" 2
+9.574 13.594 3.778 9.574 20.999 "Mathematical & Computational Biology" "1990_1995" 2
+5.143 8.25 3.278 5.143 14.676 "Mathematics" "1990_1995" 2
+1 1 0 1 1 "Mechanics" "1990_1995" 2
+5.444 21 6.879 7.517 34.483 "Medical Subscience" "1990_1995" 2
+3 3 0.476 3 3.933 "Medicine, General & Internal" "1990_1995" 2
+9.995 12.718 2.795 9.995 18.197 "Medicine, Research & Experimental" "1990_1995" 2
+12.374 18.594 5.251 12.374 28.885 "Meteorology & Atmospheric Sciences" "1990_1995" 2
+15.892 16.357 1.274 15.892 18.855 "Microbiology" "1990_1995" 2
+8.333 45 15.371 14.873 75.127 "Microscopy" "1990_1995" 2
+1 1 0 1 1 "Mining & Mineral Processing" "1990_1995" 2
+14.681 15.361 1.124 14.681 17.564 "Multidisciplinary Sciences" "1990_1995" 2
+10.482 12.449 2.187 10.482 16.736 "Mycology" "1990_1995" 2
+18.753 24.569 3.315 18.753 31.066 "Neurosciences" "1990_1995" 2
+2 2 0.457 2 2.896 "Nutrition & Dietetics" "1990_1995" 2
+2 2 0.475 2 2.931 "Obstetrics & Gynecology" "1990_1995" 2
+13.819 14.704 1.118 13.819 16.894 "Oceanography" "1990_1995" 2
+8.976 10.532 2.166 8.976 14.777 "Oncology" "1990_1995" 2
+2 2 0.477 2 2.934 "Operations Research & Management Science" "1990_1995" 2
+9.818 11.509 2.149 9.818 15.721 "Ornithology" "1990_1995" 2
+13.885 15.038 1.371 13.885 17.725 "Paleontology" "1990_1995" 2
+14.117 16.111 2.091 14.117 20.209 "Parasitology" "1990_1995" 2
+7.078 9.237 7.172 7.078 23.293 "Pathology" "1990_1995" 2
+2 2 0.462 2 2.905 "Pediatrics" "1990_1995" 2
+13.235 22.895 8.481 13.235 39.516 "Pharmacology & Pharmacy" "1990_1995" 2
+10.507 11.184 1.555 10.507 14.231 "Physical Geography" "1990_1995" 2
+1.8 3 0.824 1.8 4.614 "Physics" "1990_1995" 2
+16.056 20.709 3.121 16.056 26.826 "Physiology" "1990_1995" 2
+3 3 0.544 3 4.066 "Planning & Development" "1990_1995" 2
+15.933 16.158 0.689 15.933 17.507 "Plant Sciences" "1990_1995" 2
+1 1 0 1 1 "Polymer Science" "1990_1995" 2
+2 2 0.473 2 2.927 "Psychiatry" "1990_1995" 2
+4.571 9.333 6.822 4.571 22.705 "Psychology" "1990_1995" 2
+3 3 0.574 3 4.125 "Public Administration" "1990_1995" 2
+18.027 27.061 4.737 18.027 36.345 "Public, Environmental & Occupational Health" "1990_1995" 2
+3 3 0.476 3 3.933 "Radiology, Nuclear Medicine & Medical Imaging" "1990_1995" 2
+6 6 4.539 6 14.896 "Remote Sensing" "1990_1995" 2
+12.448 34.2 6.379 21.697 46.703 "Reproductive Biology" "1990_1995" 2
+9.995 12.718 2.867 9.995 18.337 "Research & Experimental Medicine" "1990_1995" 2
+2 2 0.483 2 2.946 "Respiratory System" "1990_1995" 2
+14.681 15.361 1.098 14.681 17.514 "Science & Technology - Other Topics" "1990_1995" 2
+7.759 15 19.943 7.759 54.088 "Social Sciences" "1990_1995" 2
+8.048 19.5 21.22 8.048 61.091 "Sociology" "1990_1995" 2
+15.622 19.982 3.579 15.622 26.998 "Soil Science" "1990_1995" 2
+1 1 0 1 1 "Sport Sciences" "1990_1995" 2
+4 4 1.464 4 6.869 "Statistics & Probability" "1990_1995" 2
+1.8 3 0.879 1.8 4.724 "Surgery" "1990_1995" 2
+15.365 23.073 2.859 17.47 28.677 "Toxicology" "1990_1995" 2
+3.6 7.5 2.725 3.6 12.841 "Transplantation" "1990_1995" 2
+16.288 33.214 12.291 16.288 57.304 "Tropical Medicine" "1990_1995" 2
+10.133 15.037 4.587 10.133 24.027 "Urban Studies" "1990_1995" 2
+2 2 0.481 2 2.943 "Urology & Nephrology" "1990_1995" 2
+15.385 24.375 5.283 15.385 34.73 "Veterinary Sciences" "1990_1995" 2
+12.888 13.875 1.498 12.888 16.812 "Virology" "1990_1995" 2
+15.188 19.891 2.757 15.188 25.296 "Water Resources" "1990_1995" 2
+13.249 13.55 1.005 13.249 15.52 "Zoology" "1990_1995" 2
+41 42.998 3.739 41.181 63.111 "Agriculture" "1996_2000" 0
+40 52.485 17.119 41.663 133.724 "Agronomy" "1996_2000" 0
+4 5.714 3.245 4.153 23.247 "Allergy" "1996_2000" 0
+18 20.505 2.755 18.438 32.342 "Anatomy & Morphology" "1996_2000" 0
+31 44.972 10.324 34.832 81.943 "Anthropology" "1996_2000" 0
+7 9.4 3.175 7.334 24.232 "Archaeology" "1996_2000" 0
+2 2 0.46 2 3.596 "Area Studies" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Art" "1996_2000" 0
+6 18.5 11.242 8.764 62.521 "Astronomy & Astrophysics" "1996_2000" 0
+9 17.308 9.425 10.397 58.395 "Automation & Control Systems" "1996_2000" 0
+18 21.546 3.801 18.639 37.688 "Behavioral Sciences" "1996_2000" 0
+27 35.024 7.036 28.826 62.259 "Biochemical Research Methods" "1996_2000" 0
+46 53.995 11.655 46.987 110.779 "Biochemistry & Molecular Biology" "1996_2000" 0
+42 43.124 1.768 42.126 52.013 "Biodiversity Conservation" "1996_2000" 0
+39 47.984 10.156 40.518 92.188 "Biology" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Biomedical Social Sciences" "1996_2000" 0
+33 60.914 20.748 40.608 135.412 "Biophysics" "1996_2000" 0
+47 55.158 8.269 48.57 89.382 "Biotechnology & Applied Microbiology" "1996_2000" 0
+18 25.843 7.347 19.655 55.16 "Business" "1996_2000" 0
+8 29.778 27.696 11.185 156.921 "Cardiology" "1996_2000" 0
+33 43.637 10.243 35.174 85.036 "Cell Biology" "1996_2000" 0
+1 1 0.312 1 2.549 "Cell & Tissue Engineering" "1996_2000" 0
+33 87.787 34.882 50.463 204.882 "Chemistry" "1996_2000" 0
+4 6.5 3.655 4.307 24.328 "Clinical Neurology" "1996_2000" 0
+1 1 0.312 1 2.549 "Communication" "1996_2000" 0
+24 27.568 3.821 24.643 43.791 "Computer Science" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Crystallography" "1996_2000" 0
+2 2.333 0.943 2.018 8.09 "Demography" "1996_2000" 0
+8 19.667 16.021 9.551 95.744 "Dentistry, Oral Surgery & Medicine" "1996_2000" 0
+5 11.667 9.775 5.817 59.411 "Dermatology" "1996_2000" 0
+20 27.873 7.373 21.662 57.29 "Developmental Biology" "1996_2000" 0
+47 48 2.327 47.069 61.47 "Ecology" "1996_2000" 0
+17 20.996 3.973 17.787 37.293 "Economics" "1996_2000" 0
+4 8.5 5.275 4.727 31.843 "Education" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Electrochemistry" "1996_2000" 0
+13 20.579 7.118 14.595 49.013 "Endocrinology & Metabolism" "1996_2000" 0
+15 72.87 68.004 24.325 374.129 "Energy & Fuels" "1996_2000" 0
+29 39.61 10.219 31.168 80.913 "Engineering" "1996_2000" 0
+35 41.237 7.536 35.971 75.05 "Entomology" "1996_2000" 0
+31 41.619 10.227 33.171 82.957 "Environmental Studies" "1996_2000" 0
+1 1 0.312 1 2.549 "Ergonomics" "1996_2000" 0
+7 16.333 9.445 8.8 55.392 "Ethics" "1996_2000" 0
+45 49.497 7.189 45.495 85.889 "Evolutionary Biology" "1996_2000" 0
+38 40.993 3.234 38.534 54.78 "Fisheries" "1996_2000" 0
+18 23.995 5.959 19.181 48.438 "Food Science & Technology" "1996_2000" 0
+41 44.596 3.847 41.649 60.923 "Forestry" "1996_2000" 0
+17 23.018 5.98 18.186 47.543 "Gastroenterology & Hepatology" "1996_2000" 0
+10 21.375 12.248 12.038 73.501 "General & Internal Medicine" "1996_2000" 0
+44 48.498 7.19 44.495 84.897 "Genetics & Heredity" "1996_2000" 0
+4 8.5 5.275 4.727 31.843 "Geochemistry & Geophysics" "1996_2000" 0
+40 46.112 6.066 41.206 70.973 "Geography" "1996_2000" 0
+33 34.995 2.64 33.278 47.329 "Geology" "1996_2000" 0
+33 37.069 4.036 33.803 53.606 "Geosciences, Multidisciplinary" "1996_2000" 0
+1 1 0.312 1 2.549 "Geriatrics & Gerontology" "1996_2000" 0
+4 8.5 5.275 4.727 31.843 "Government & Law" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Health Care Sciences & Services" "1996_2000" 0
+1 1 0.312 1 2.549 "Health Policy & Services" "1996_2000" 0
+13 36.529 22.843 17.764 129.201 "Hematology" "1996_2000" 0
+7 9.118 3.215 7.248 25.055 "History" "1996_2000" 0
+33 38.986 6.466 34.068 66.548 "Horticulture" "1996_2000" 0
+2 2.333 0.943 2.018 8.09 "Hospitality, Leisure, Sport & Tourism" "1996_2000" 0
+12 16.612 4.585 12.908 35.417 "Imaging Science & Photographic Technology" "1996_2000" 0
+41 44.595 3.846 41.649 60.916 "Immunology" "1996_2000" 0
+33 39.378 5.904 34.365 62.806 "Infectious Diseases" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Information Science & Library Science" "1996_2000" 0
+6 18.5 11.242 8.764 62.521 "Instruments & Instrumentation" "1996_2000" 0
+11 44.6 23.833 20.615 128.419 "Integrative & Complementary Medicine" "1996_2000" 0
+5 13 8.069 6.549 46.319 "International Relations" "1996_2000" 0
+1 1 0.312 1 2.549 "Language & Linguistics" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Law" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Legal Medicine" "1996_2000" 0
+39 47.984 10.156 40.518 92.188 "Life Sciences & Biomedicine - Other Topics" "1996_2000" 0
+32 39.101 5.872 33.726 61.222 "Limnology" "1996_2000" 0
+1 1 0.312 1 2.549 "Linguistics" "1996_2000" 0
+3 4.5 2.872 3.132 20.083 "Management" "1996_2000" 0
+43 55.493 17.129 44.664 136.782 "Marine & Freshwater Biology" "1996_2000" 0
+9 41 22.675 18.166 120.713 "Materials Science" "1996_2000" 0
+16 17.966 2.607 16.273 30.156 "Mathematical & Computational Biology" "1996_2000" 0
+1 1 0.312 1 2.549 "Mathematical Methods In Social Sciences" "1996_2000" 0
+17 32.59 16.082 19.939 99.693 "Mathematics" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Mechanics" "1996_2000" 0
+11 41 37.148 15.534 209.511 "Medical Subscience" "1996_2000" 0
+10 21.375 12.248 12.038 73.501 "Medicine, General & Internal" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Medicine, Legal" "1996_2000" 0
+18 21.535 3.79 18.636 37.632 "Medicine, Research & Experimental" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Metallurgy & Metallurgical Engineering" "1996_2000" 0
+20 25.235 4.848 21.119 44.477 "Meteorology & Atmospheric Sciences" "1996_2000" 0
+46 46.666 1.305 46.057 53.801 "Microbiology" "1996_2000" 0
+10 17.538 7.678 11.443 49.388 "Microscopy" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Mineralogy" "1996_2000" 0
+5 11.667 9.775 5.817 59.411 "Mining & Mineral Processing" "1996_2000" 0
+39 42.493 3.494 39.683 56.866 "Multidisciplinary Sciences" "1996_2000" 0
+33 40.96 7.449 34.682 70.669 "Mycology" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Nanoscience & Nanotechnology" "1996_2000" 0
+24 27.569 3.823 24.644 43.798 "Neurosciences" "1996_2000" 0
+4 8.5 5.275 4.727 31.843 "Nuclear Science & Technology" "1996_2000" 0
+6 9.5 4.677 6.481 31.447 "Nutrition & Dietetics" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Obstetrics & Gynecology" "1996_2000" 0
+35 38.119 3.651 35.505 54.266 "Oceanography" "1996_2000" 0
+27 52.254 17.671 34.328 114.031 "Oncology" "1996_2000" 0
+4 6.5 3.655 4.307 24.328 "Operations Research & Management Science" "1996_2000" 0
+1 1 0.312 1 2.549 "Ophthalmology" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Optics" "1996_2000" 0
+23 26.574 3.827 23.644 42.818 "Ornithology" "1996_2000" 0
+33 39.107 6.061 34.205 63.951 "Paleontology" "1996_2000" 0
+37 121.149 96.665 50.94 544.964 "Parasitology" "1996_2000" 0
+25 27.426 2.525 25.452 38.008 "Pathology" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Pediatrics" "1996_2000" 0
+4 8.5 5.275 4.727 31.843 "Peripheral Vascular Disease" "1996_2000" 0
+26 34.101 8.215 27.559 68.107 "Pharmacology & Pharmacy" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Philosophy" "1996_2000" 0
+37 39.078 2.501 37.325 50.277 "Physical Geography" "1996_2000" 0
+9 20.136 12.001 10.993 71.23 "Physics" "1996_2000" 0
+26 97.314 82.779 37.665 461.976 "Physiology" "1996_2000" 0
+8 22.286 12.873 11.152 72.742 "Planning & Development" "1996_2000" 0
+45 47.999 4.617 45.346 71.011 "Plant Sciences" "1996_2000" 0
+1 1 0.312 1 2.549 "Political Science" "1996_2000" 0
+1 1 0.312 1 2.549 "Polymer Science" "1996_2000" 0
+1 1 0.312 1 2.549 "Psychiatry" "1996_2000" 0
+8 13.769 7.003 8.894 45.251 "Psychology" "1996_2000" 0
+8 22.318 12.902 11.16 72.887 "Public Administration" "1996_2000" 0
+29 38.914 8.3 31.376 70.361 "Public, Environmental & Occupational Health" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Radiology, Nuclear Medicine & Medical Imaging" "1996_2000" 0
+1 1 0.312 1 2.549 "Religion" "1996_2000" 0
+18 23.586 4.89 19.274 42.498 "Remote Sensing" "1996_2000" 0
+13 24.812 12.701 15.12 78.832 "Reproductive Biology" "1996_2000" 0
+18 21.535 3.79 18.636 37.632 "Research & Experimental Medicine" "1996_2000" 0
+3 4.5 2.872 3.132 20.083 "Respiratory System" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Robotics" "1996_2000" 0
+39 43.075 4.042 39.805 59.634 "Science & Technology - Other Topics" "1996_2000" 0
+11 41.72 38.03 15.644 214.212 "Social Sciences" "1996_2000" 0
+9 23.444 13.036 12.182 74.573 "Sociology" "1996_2000" 0
+28 28.745 1.256 28.077 35.238 "Soil Science" "1996_2000" 0
+4 8.5 5.275 4.727 31.843 "Spectroscopy" "1996_2000" 0
+14 24.256 9.895 16.092 64.285 "Statistics & Probability" "1996_2000" 0
+1 1 0.312 1 2.549 "Substance Abuse" "1996_2000" 0
+6 18.5 11.242 8.764 62.521 "Surgery" "1996_2000" 0
+1 1 0.312 1 2.549 "Telecommunications" "1996_2000" 0
+3 5 2.921 3.246 19.244 "Thermodynamics" "1996_2000" 0
+28 32.048 4.018 28.799 48.515 "Toxicology" "1996_2000" 0
+2 2.5 1.107 2.037 8.808 "Transplantation" "1996_2000" 0
+1 1 0.312 1 2.549 "Transportation" "1996_2000" 0
+26 27.545 1.938 26.23 36.384 "Tropical Medicine" "1996_2000" 0
+23 25.538 2.784 23.444 37.489 "Urban Studies" "1996_2000" 0
+5 13 8.069 6.549 46.319 "Urology & Nephrology" "1996_2000" 0
+29 43.947 12.331 32.641 90.354 "Veterinary Sciences" "1996_2000" 0
+35 40.984 6.465 36.068 68.54 "Virology" "1996_2000" 0
+29 45.548 14.744 32.699 103.032 "Water Resources" "1996_2000" 0
+40 43.122 3.655 40.505 59.285 "Zoology" "1996_2000" 0
+25.529 26.024 0.602 25.529 27.204 "Agriculture" "1996_2000" 1
+23.063 23.786 0.742 23.063 25.24 "Agronomy" "1996_2000" 1
+3.586 5.357 2.038 3.586 9.351 "Allergy" "1996_2000" 1
+15.539 20.738 2.752 15.539 26.132 "Anatomy & Morphology" "1996_2000" 1
+19.009 23.064 2.584 19.009 28.13 "Anthropology" "1996_2000" 1
+6.598 10.995 3.198 6.598 17.264 "Archaeology" "1996_2000" 1
+1.649 1.853 0.474 1.649 2.782 "Area Studies" "1996_2000" 1
+2 3.375 1.111 2 5.552 "Art" "1996_2000" 1
+6 26.008 8.193 9.949 42.066 "Astronomy & Astrophysics" "1996_2000" 1
+8.151 16.359 6.661 8.151 29.414 "Automation & Control Systems" "1996_2000" 1
+10.854 12.936 1.694 10.854 16.256 "Behavioral Sciences" "1996_2000" 1
+19.15 22.923 2.155 19.15 27.147 "Biochemical Research Methods" "1996_2000" 1
+21.139 21.499 0.613 21.139 22.701 "Biochemistry & Molecular Biology" "1996_2000" 1
+18.336 18.674 0.585 18.336 19.819 "Biodiversity Conservation" "1996_2000" 1
+20.884 21.811 0.984 20.884 23.74 "Biology" "1996_2000" 1
+2 3.375 1.128 2 5.586 "Biomedical Social Sciences" "1996_2000" 1
+20.027 25.248 3 20.027 31.127 "Biophysics" "1996_2000" 1
+23.939 24.644 0.748 23.939 26.111 "Biotechnology & Applied Microbiology" "1996_2000" 1
+10.931 14.421 2.818 10.931 19.944 "Business" "1996_2000" 1
+7.715 30.944 14.992 7.715 60.327 "Cardiology" "1996_2000" 1
+16.88 17.996 1.079 16.88 20.11 "Cell Biology" "1996_2000" 1
+1 0 0 1 0 "Cell & Tissue Engineering" "1996_2000" 1
+21.289 24.239 1.705 21.289 27.582 "Chemistry" "1996_2000" 1
+3.464 6.072 2.689 3.464 11.343 "Clinical Neurology" "1996_2000" 1
+1 0 0 1 0 "Communication" "1996_2000" 1
+16.582 18.909 1.456 16.582 21.762 "Computer Science" "1996_2000" 1
+3 7.184 2.364 3 11.818 "Crystallography" "1996_2000" 1
+1.89 2.52 1.872 1.89 6.188 "Demography" "1996_2000" 1
+6.42 11.753 4.571 6.42 20.712 "Dentistry, Oral Surgery & Medicine" "1996_2000" 1
+4.762 12.419 7.473 4.762 27.067 "Dermatology" "1996_2000" 1
+13.218 16.815 2.695 13.218 22.097 "Developmental Biology" "1996_2000" 1
+21.172 21.275 0.301 21.172 21.864 "Ecology" "1996_2000" 1
+10.054 12.888 2.257 10.054 17.311 "Economics" "1996_2000" 1
+4 12.275 3.81 4.808 19.742 "Education" "1996_2000" 1
+2 3.375 1.069 2 5.47 "Electrochemistry" "1996_2000" 1
+11.931 21.79 8.663 11.931 38.769 "Endocrinology & Metabolism" "1996_2000" 1
+12.776 37.746 15.726 12.776 68.569 "Energy & Fuels" "1996_2000" 1
+18.794 20.984 1.433 18.794 23.792 "Engineering" "1996_2000" 1
+17.776 18.612 1.017 17.776 20.605 "Entomology" "1996_2000" 1
+17.539 19.31 1.412 17.539 22.078 "Environmental Studies" "1996_2000" 1
+1 0 0 1 0 "Ergonomics" "1996_2000" 1
+5.13 8.687 2.911 5.13 14.392 "Ethics" "1996_2000" 1
+20.168 20.534 0.58 20.168 21.672 "Evolutionary Biology" "1996_2000" 1
+20.371 21.377 1.063 20.371 23.46 "Fisheries" "1996_2000" 1
+14.639 19.345 2.45 14.639 24.146 "Food Science & Technology" "1996_2000" 1
+21.067 21.627 0.662 21.067 22.925 "Forestry" "1996_2000" 1
+11.045 13.771 1.81 11.045 17.319 "Gastroenterology & Hepatology" "1996_2000" 1
+9.076 19.807 7.59 9.076 34.684 "General & Internal Medicine" "1996_2000" 1
+20.085 20.346 0.515 20.085 21.354 "Genetics & Heredity" "1996_2000" 1
+4 12.275 3.852 4.726 19.824 "Geochemistry & Geophysics" "1996_2000" 1
+21.289 22.45 1.105 21.289 24.616 "Geography" "1996_2000" 1
+18.831 19.752 0.94 18.831 21.595 "Geology" "1996_2000" 1
+18.949 20.321 1.094 18.949 22.465 "Geosciences, Multidisciplinary" "1996_2000" 1
+1 0 0 1 0 "Geriatrics & Gerontology" "1996_2000" 1
+4 12.275 3.944 4.545 20.005 "Government & Law" "1996_2000" 1
+2 3.375 1.143 2 5.615 "Health Care Sciences & Services" "1996_2000" 1
+1 0 0 1 0 "Health Policy & Services" "1996_2000" 1
+11.897 32.564 16.207 11.897 64.33 "Hematology" "1996_2000" 1
+5.538 7.326 1.666 5.538 10.591 "History" "1996_2000" 1
+20.299 21.314 0.882 20.299 23.042 "Horticulture" "1996_2000" 1
+1.89 2.52 1.777 1.89 6.002 "Hospitality, Leisure, Sport & Tourism" "1996_2000" 1
+11.308 19.633 4.857 11.308 29.153 "Imaging Science & Photographic Technology" "1996_2000" 1
+18.739 19.419 0.855 18.739 21.095 "Immunology" "1996_2000" 1
+18.383 19.757 1.181 18.383 22.072 "Infectious Diseases" "1996_2000" 1
+3 7.184 2.385 3 11.859 "Information Science & Library Science" "1996_2000" 1
+6 26.008 7.855 10.612 41.404 "Instruments & Instrumentation" "1996_2000" 1
+9.666 31.141 21.422 9.666 73.128 "Integrative & Complementary Medicine" "1996_2000" 1
+5 18.564 5.744 7.305 29.823 "International Relations" "1996_2000" 1
+1 0 0 1 0 "Language & Linguistics" "1996_2000" 1
+3 7.184 2.453 3 11.993 "Law" "1996_2000" 1
+3 7.184 2.415 3 11.918 "Legal Medicine" "1996_2000" 1
+20.884 21.811 0.87 20.884 23.517 "Life Sciences & Biomedicine - Other Topics" "1996_2000" 1
+18.714 21.216 1.548 18.714 24.25 "Limnology" "1996_2000" 1
+1 0 0 1 0 "Linguistics" "1996_2000" 1
+2.828 4.891 3.43 2.828 11.613 "Management" "1996_2000" 1
+20.753 21.078 0.523 20.753 22.103 "Marine & Freshwater Biology" "1996_2000" 1
+9 55.044 15.771 24.134 85.955 "Materials Science" "1996_2000" 1
+11.6 13.677 1.57 11.6 16.754 "Mathematical & Computational Biology" "1996_2000" 1
+1 0 0 1 0 "Mathematical Methods In Social Sciences" "1996_2000" 1
+13.747 20.808 4.737 13.747 30.092 "Mathematics" "1996_2000" 1
+3 7.184 2.393 3 11.874 "Mechanics" "1996_2000" 1
+9.718 26.776 15.975 9.718 58.086 "Medical Subscience" "1996_2000" 1
+9.076 19.807 9.284 9.076 38.004 "Medicine, General & Internal" "1996_2000" 1
+3 7.184 2.453 3 11.992 "Medicine, Legal" "1996_2000" 1
+12.294 15.227 2.084 12.294 19.313 "Medicine, Research & Experimental" "1996_2000" 1
+2 3.375 1.051 2 5.435 "Metallurgy & Metallurgical Engineering" "1996_2000" 1
+14.613 18.942 2.517 14.613 23.875 "Meteorology & Atmospheric Sciences" "1996_2000" 1
+23.479 23.821 0.604 23.479 25.005 "Microbiology" "1996_2000" 1
+9.441 19.763 8.324 9.441 36.077 "Microscopy" "1996_2000" 1
+2 3.375 1.069 2 5.47 "Mineralogy" "1996_2000" 1
+4.762 12.419 6.369 4.762 24.902 "Mining & Mineral Processing" "1996_2000" 1
+20.462 21.387 0.831 20.462 23.016 "Multidisciplinary Sciences" "1996_2000" 1
+19.836 22.105 1.551 19.836 25.146 "Mycology" "1996_2000" 1
+3 7.184 2.363 3 11.815 "Nanoscience & Nanotechnology" "1996_2000" 1
+14.352 16.278 1.475 14.352 19.169 "Neurosciences" "1996_2000" 1
+4 12.275 4.084 4.271 20.279 "Nuclear Science & Technology" "1996_2000" 1
+5.657 10.706 6.877 5.657 24.184 "Nutrition & Dietetics" "1996_2000" 1
+2 3.375 1.143 2 5.615 "Obstetrics & Gynecology" "1996_2000" 1
+18.337 19.102 0.864 18.337 20.796 "Oceanography" "1996_2000" 1
+14.13 20.458 3.519 14.13 27.355 "Oncology" "1996_2000" 1
+3.464 6.072 2.636 3.464 11.24 "Operations Research & Management Science" "1996_2000" 1
+1 0 0 1 0 "Ophthalmology" "1996_2000" 1
+3 7.184 2.348 3 11.786 "Optics" "1996_2000" 1
+12.692 14.079 1.227 12.692 16.483 "Ornithology" "1996_2000" 1
+18.733 19.931 1.012 18.733 21.914 "Paleontology" "1996_2000" 1
+21.401 25.392 2.174 21.401 29.653 "Parasitology" "1996_2000" 1
+14.198 16.44 1.704 14.198 19.78 "Pathology" "1996_2000" 1
+3 7.184 2.362 3 11.814 "Pediatrics" "1996_2000" 1
+4 12.275 3.778 4.87 19.681 "Peripheral Vascular Disease" "1996_2000" 1
+19.197 22.172 1.872 19.197 25.841 "Pharmacology & Pharmacy" "1996_2000" 1
+2 3.375 1.111 2 5.552 "Philosophy" "1996_2000" 1
+20.576 21.603 0.989 20.576 23.542 "Physical Geography" "1996_2000" 1
+8.549 21.892 11.098 8.549 43.644 "Physics" "1996_2000" 1
+16.037 21.984 3.758 16.037 29.348 "Physiology" "1996_2000" 1
+4.971 8.063 2.469 4.971 12.903 "Planning & Development" "1996_2000" 1
+23.724 23.948 0.487 23.724 24.904 "Plant Sciences" "1996_2000" 1
+1 0 0 1 0 "Political Science" "1996_2000" 1
+1 0 0 1 0 "Polymer Science" "1996_2000" 1
+1 0 0 1 0 "Psychiatry" "1996_2000" 1
+6.856 12.028 4.204 6.856 20.268 "Psychology" "1996_2000" 1
+4.821 7.651 2.303 4.821 12.165 "Public Administration" "1996_2000" 1
+18.816 22.578 2.219 18.816 26.927 "Public, Environmental & Occupational Health" "1996_2000" 1
+3 7.184 2.378 3 11.845 "Radiology, Nuclear Medicine & Medical Imaging" "1996_2000" 1
+1 0 0 1 0 "Religion" "1996_2000" 1
+16.533 26.227 4.134 18.124 34.33 "Remote Sensing" "1996_2000" 1
+10.409 16.312 4.701 10.409 25.524 "Reproductive Biology" "1996_2000" 1
+12.294 15.227 2.126 12.294 19.394 "Research & Experimental Medicine" "1996_2000" 1
+2.828 4.891 3.056 2.828 10.881 "Respiratory System" "1996_2000" 1
+2 3.375 1.075 2 5.482 "Robotics" "1996_2000" 1
+20.608 21.546 0.937 20.608 23.383 "Science & Technology - Other Topics" "1996_2000" 1
+7.051 13.515 5.906 7.051 25.091 "Social Sciences" "1996_2000" 1
+5.5 8.177 2.334 5.5 12.753 "Sociology" "1996_2000" 1
+21.931 24.373 1.447 21.931 27.209 "Soil Science" "1996_2000" 1
+4 12.275 4.054 4.33 20.221 "Spectroscopy" "1996_2000" 1
+11.572 19.051 5.076 11.572 29.001 "Statistics & Probability" "1996_2000" 1
+1 0 0 1 0 "Substance Abuse" "1996_2000" 1
+6 26.008 8.007 10.315 41.701 "Surgery" "1996_2000" 1
+1 0 0 1 0 "Telecommunications" "1996_2000" 1
+3 7.184 2.474 3 12.033 "Thermodynamics" "1996_2000" 1
+21.314 24.783 1.805 21.314 28.32 "Toxicology" "1996_2000" 1
+2 3.375 1.132 2 5.593 "Transplantation" "1996_2000" 1
+1 0 0 1 0 "Transportation" "1996_2000" 1
+20.033 23.542 1.906 20.033 27.276 "Tropical Medicine" "1996_2000" 1
+17.495 20.988 1.968 17.495 24.845 "Urban Studies" "1996_2000" 1
+5 18.564 5.663 7.464 29.664 "Urology & Nephrology" "1996_2000" 1
+22.485 29.587 3.695 22.485 36.829 "Veterinary Sciences" "1996_2000" 1
+18.586 19.689 1.129 18.586 21.903 "Virology" "1996_2000" 1
+19.489 23.004 2.224 19.489 27.363 "Water Resources" "1996_2000" 1
+17.217 17.557 0.622 17.217 18.776 "Zoology" "1996_2000" 1
+20.407 20.764 0.605 20.407 21.949 "Agriculture" "1996_2000" 2
+18.254 18.644 0.639 18.254 19.896 "Agronomy" "1996_2000" 2
+3.267 5.25 2.898 3.267 10.931 "Allergy" "1996_2000" 2
+13.46 20.027 3.365 13.46 26.623 "Anatomy & Morphology" "1996_2000" 2
+14.111 15.75 1.585 14.111 18.856 "Anthropology" "1996_2000" 2
+6.25 15 3.549 8.045 21.955 "Archaeology" "1996_2000" 2
+1.471 1.667 0.549 1.471 2.743 "Area Studies" "1996_2000" 2
+2 2 0.468 2 2.917 "Art" "1996_2000" 2
+6 6 4.462 6 14.746 "Astronomy & Astrophysics" "1996_2000" 2
+7.348 15.6 5.258 7.348 25.905 "Automation & Control Systems" "1996_2000" 2
+7.114 7.84 1.523 7.114 10.826 "Behavioral Sciences" "1996_2000" 2
+15.225 17.611 2.018 15.225 21.567 "Biochemical Research Methods" "1996_2000" 2
+13.019 13.118 0.6 13.019 14.293 "Biochemistry & Molecular Biology" "1996_2000" 2
+12.167 12.281 0.484 12.167 13.23 "Biodiversity Conservation" "1996_2000" 2
+15.022 15.405 0.813 15.022 16.998 "Biology" "1996_2000" 2
+2 2 0.477 2 2.934 "Biomedical Social Sciences" "1996_2000" 2
+13.896 15.4 1.968 13.896 19.258 "Biophysics" "1996_2000" 2
+17.096 17.38 0.715 17.096 18.781 "Biotechnology & Applied Microbiology" "1996_2000" 2
+6.391 7.163 1.987 6.391 11.057 "Business" "1996_2000" 2
+7.364 36 11.86 12.756 59.244 "Cardiology" "1996_2000" 2
+10.595 10.89 0.996 10.595 12.842 "Cell Biology" "1996_2000" 2
+1 1 0 1 1 "Cell & Tissue Engineering" "1996_2000" 2
+16.658 17.738 1.286 16.658 20.26 "Chemistry" "1996_2000" 2
+3 5 2.16 3 9.234 "Clinical Neurology" "1996_2000" 2
+1 1 0 1 1 "Communication" "1996_2000" 2
+12.859 14.382 1.558 12.859 17.435 "Computer Science" "1996_2000" 2
+3 3 0.574 3 4.125 "Crystallography" "1996_2000" 2
+1.8 3 0.9 1.8 4.764 "Demography" "1996_2000" 2
+5.233 7.5 4.02 5.233 15.379 "Dentistry, Oral Surgery & Medicine" "1996_2000" 2
+4.5 15 4.692 5.804 24.196 "Dermatology" "1996_2000" 2
+9.041 10.388 2.048 9.041 14.402 "Developmental Biology" "1996_2000" 2
+14.678 14.719 0.256 14.678 15.221 "Ecology" "1996_2000" 2
+5.679 6.322 1.858 5.679 9.962 "Economics" "1996_2000" 2
+4 4 1.492 4 6.925 "Education" "1996_2000" 2
+2 2 0.468 2 2.917 "Electrochemistry" "1996_2000" 2
+10.939 24.429 5.621 13.411 35.446 "Endocrinology & Metabolism" "1996_2000" 2
+10.796 19.462 11.564 10.796 42.126 "Energy & Fuels" "1996_2000" 2
+14.913 16.112 1.249 14.913 18.56 "Engineering" "1996_2000" 2
+11.986 12.278 0.817 11.986 13.88 "Entomology" "1996_2000" 2
+11.008 11.52 1.32 11.008 14.108 "Environmental Studies" "1996_2000" 2
+1 1 0 1 1 "Ergonomics" "1996_2000" 2
+4.091 5.25 1.742 4.091 8.664 "Ethics" "1996_2000" 2
+12.816 12.926 0.558 12.816 14.019 "Evolutionary Biology" "1996_2000" 2
+14.44 14.887 0.835 14.44 16.523 "Fisheries" "1996_2000" 2
+12.623 16.891 2.382 12.623 21.559 "Food Science & Technology" "1996_2000" 2
+14.746 14.978 0.696 14.746 16.342 "Forestry" "1996_2000" 2
+7.983 9.12 1.629 7.983 12.313 "Gastroenterology & Hepatology" "1996_2000" 2
+8.167 18.2 8.483 8.167 34.826 "General & Internal Medicine" "1996_2000" 2
+12.871 12.952 0.447 12.871 13.829 "Genetics & Heredity" "1996_2000" 2
+4 4 1.479 4 6.898 "Geochemistry & Geophysics" "1996_2000" 2
+15.415 15.916 0.953 15.415 17.784 "Geography" "1996_2000" 2
+13.89 14.376 0.849 13.89 16.04 "Geology" "1996_2000" 2
+14.056 14.736 0.997 14.056 16.69 "Geosciences, Multidisciplinary" "1996_2000" 2
+1 1 0 1 1 "Geriatrics & Gerontology" "1996_2000" 2
+4 4 1.442 4 6.827 "Government & Law" "1996_2000" 2
+2 2 0.478 2 2.937 "Health Care Sciences & Services" "1996_2000" 2
+1 1 0 1 1 "Health Policy & Services" "1996_2000" 2
+10.704 27.2 19.69 10.704 65.792 "Hematology" "1996_2000" 2
+4.587 5.913 1.707 4.587 9.258 "History" "1996_2000" 2
+16.363 16.989 0.923 16.363 18.798 "Horticulture" "1996_2000" 2
+1.8 3 0.879 1.8 4.724 "Hospitality, Leisure, Sport & Tourism" "1996_2000" 2
+10.704 27.2 5.08 17.243 37.157 "Imaging Science & Photographic Technology" "1996_2000" 2
+11.832 12.031 0.675 11.832 13.354 "Immunology" "1996_2000" 2
+12.705 13.236 1.073 12.705 15.339 "Infectious Diseases" "1996_2000" 2
+3 3 0.512 3 4.003 "Information Science & Library Science" "1996_2000" 2
+6 6 4.447 6 14.716 "Instruments & Instrumentation" "1996_2000" 2
+8.333 17.5 18.532 8.333 53.822 "Integrative & Complementary Medicine" "1996_2000" 2
+5 5 2.724 5 10.339 "International Relations" "1996_2000" 2
+1 1 0 1 1 "Language & Linguistics" "1996_2000" 2
+3 3 0.544 3 4.066 "Law" "1996_2000" 2
+3 3 0.574 3 4.125 "Legal Medicine" "1996_2000" 2
+15.022 15.405 0.827 15.022 17.026 "Life Sciences & Biomedicine - Other Topics" "1996_2000" 2
+13.249 14.278 1.519 13.249 17.255 "Limnology" "1996_2000" 2
+1 1 0 1 1 "Linguistics" "1996_2000" 2
+2.667 6 1.761 2.667 9.451 "Management" "1996_2000" 2
+14.442 14.555 0.489 14.442 15.514 "Marine & Freshwater Biology" "1996_2000" 2
+9 9 12.498 9 33.495 "Materials Science" "1996_2000" 2
+8.899 10.331 1.652 8.899 13.569 "Mathematical & Computational Biology" "1996_2000" 2
+1 1 0 1 1 "Mathematical Methods In Social Sciences" "1996_2000" 2
+11.436 15.766 3.282 11.436 22.199 "Mathematics" "1996_2000" 2
+3 3 0.476 3 3.933 "Mechanics" "1996_2000" 2
+8.533 17.143 14.669 8.533 45.894 "Medical Subscience" "1996_2000" 2
+8.167 18.2 9.422 8.167 36.667 "Medicine, General & Internal" "1996_2000" 2
+3 3 0.494 3 3.969 "Medicine, Legal" "1996_2000" 2
+8.38 9.706 2.033 8.38 13.691 "Medicine, Research & Experimental" "1996_2000" 2
+2 2 0.464 2 2.909 "Metallurgy & Metallurgical Engineering" "1996_2000" 2
+10.962 13.5 2.444 10.962 18.29 "Meteorology & Atmospheric Sciences" "1996_2000" 2
+16.048 16.197 0.606 16.048 17.385 "Microbiology" "1996_2000" 2
+8.895 26 10.354 8.895 46.293 "Microscopy" "1996_2000" 2
+2 2 0.475 2 2.931 "Mineralogy" "1996_2000" 2
+4.5 15 4.783 5.626 24.374 "Mining & Mineral Processing" "1996_2000" 2
+14.996 15.419 0.811 14.996 17.009 "Multidisciplinary Sciences" "1996_2000" 2
+13.917 14.873 1.436 13.917 17.687 "Mycology" "1996_2000" 2
+3 3 0.633 3 4.24 "Nanoscience & Nanotechnology" "1996_2000" 2
+9.55 10.303 1.341 9.55 12.931 "Neurosciences" "1996_2000" 2
+4 4 1.474 4 6.889 "Nuclear Science & Technology" "1996_2000" 2
+5.333 14 6.606 5.333 26.947 "Nutrition & Dietetics" "1996_2000" 2
+2 2 0.475 2 2.931 "Obstetrics & Gynecology" "1996_2000" 2
+12.994 13.321 0.801 12.994 14.89 "Oceanography" "1996_2000" 2
+7.36 8.063 2.054 7.36 12.088 "Oncology" "1996_2000" 2
+3 5 2.474 3 9.85 "Operations Research & Management Science" "1996_2000" 2
+1 1 0 1 1 "Ophthalmology" "1996_2000" 2
+3 3 0.476 3 3.933 "Optics" "1996_2000" 2
+8.548 9.046 1.063 8.548 11.13 "Ornithology" "1996_2000" 2
+14.313 14.907 0.862 14.313 16.596 "Paleontology" "1996_2000" 2
+15.051 15.987 1.573 15.051 19.069 "Parasitology" "1996_2000" 2
+8.969 9.737 1.574 8.969 12.823 "Pathology" "1996_2000" 2
+3 3 0.457 3 3.896 "Pediatrics" "1996_2000" 2
+4 4 1.376 4 6.697 "Peripheral Vascular Disease" "1996_2000" 2
+15.863 18.023 1.613 15.863 21.184 "Pharmacology & Pharmacy" "1996_2000" 2
+2 2 0.483 2 2.946 "Philosophy" "1996_2000" 2
+15.275 15.813 0.955 15.275 17.684 "Physical Geography" "1996_2000" 2
+8.067 27.5 11.32 8.067 49.687 "Physics" "1996_2000" 2
+11.17 12.381 1.93 11.17 16.163 "Physiology" "1996_2000" 2
+3.706 4.286 1.483 3.706 7.193 "Planning & Development" "1996_2000" 2
+17.58 17.694 0.394 17.58 18.466 "Plant Sciences" "1996_2000" 2
+1 1 0 1 1 "Political Science" "1996_2000" 2
+1 1 0 1 1 "Polymer Science" "1996_2000" 2
+1 1 0 1 1 "Psychiatry" "1996_2000" 2
+5.828 9.75 4.815 5.828 19.187 "Psychology" "1996_2000" 2
+3.559 4.053 1.272 3.559 6.546 "Public Administration" "1996_2000" 2
+12.988 14.5 2.127 12.988 18.67 "Public, Environmental & Occupational Health" "1996_2000" 2
+3 3 0.416 3 3.815 "Radiology, Nuclear Medicine & Medical Imaging" "1996_2000" 2
+1 1 0 1 1 "Religion" "1996_2000" 2
+15.291 31.231 4.489 22.432 40.03 "Remote Sensing" "1996_2000" 2
+8.711 12.194 3.108 8.711 18.285 "Reproductive Biology" "1996_2000" 2
+8.38 9.706 2.013 8.38 13.651 "Research & Experimental Medicine" "1996_2000" 2
+2.667 6 1.765 2.667 9.46 "Respiratory System" "1996_2000" 2
+2 2 0.488 2 2.956 "Robotics" "1996_2000" 2
+15.119 15.547 0.83 15.119 17.173 "Science & Technology - Other Topics" "1996_2000" 2
+5 6 1.92 5 9.763 "Social Sciences" "1996_2000" 2
+4.073 4.618 1.04 4.073 6.657 "Sociology" "1996_2000" 2
+18.156 20.692 1.743 18.156 24.109 "Soil Science" "1996_2000" 2
+4 4 1.582 4 7.1 "Spectroscopy" "1996_2000" 2
+9.657 14.773 4.059 9.657 22.729 "Statistics & Probability" "1996_2000" 2
+1 1 0 1 1 "Substance Abuse" "1996_2000" 2
+6 6 4.493 6 14.806 "Surgery" "1996_2000" 2
+1 1 0 1 1 "Telecommunications" "1996_2000" 2
+3 3 0.512 3 4.003 "Thermodynamics" "1996_2000" 2
+17.896 21.01 1.863 17.896 24.661 "Toxicology" "1996_2000" 2
+2 2 0.468 2 2.917 "Transplantation" "1996_2000" 2
+1 1 0 1 1 "Transportation" "1996_2000" 2
+15.654 18.699 2.415 15.654 23.431 "Tropical Medicine" "1996_2000" 2
+14.019 16.964 2.3 14.019 21.471 "Urban Studies" "1996_2000" 2
+5 5 2.729 5 10.349 "Urology & Nephrology" "1996_2000" 2
+18.478 23.333 3.136 18.478 29.48 "Veterinary Sciences" "1996_2000" 2
+12.531 12.932 0.978 12.531 14.849 "Virology" "1996_2000" 2
+15.52 17.316 1.6 15.52 20.452 "Water Resources" "1996_2000" 2
+11.573 11.681 0.426 11.573 12.516 "Zoology" "1996_2000" 2
+42 43.599 2.161 42.217 53.787 "Agriculture" "2001_2005" 0
+39 47.994 10.167 40.519 92.243 "Agronomy" "2001_2005" 0
+6 7.333 2.073 6.152 17.707 "Allergy" "2001_2005" 0
+17 23.016 5.978 18.185 47.534 "Anatomy & Morphology" "2001_2005" 0
+28 28.56 1.009 28.053 33.91 "Anthropology" "2001_2005" 0
+14 71.979 68.132 23.343 373.804 "Archaeology" "2001_2005" 0
+1 1 0.312 1 2.549 "Architecture" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Area Studies" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Asian Studies" "2001_2005" 0
+9 14.938 7.195 9.921 47.259 "Astronomy & Astrophysics" "2001_2005" 0
+11 15.39 7.026 11.482 50.973 "Automation & Control Systems" "2001_2005" 0
+24 30.334 5.867 25.354 53.622 "Behavioral Sciences" "2001_2005" 0
+32 45.458 12.423 34.889 94.692 "Biochemical Research Methods" "2001_2005" 0
+44 46.249 3.395 44.266 63.033 "Biochemistry & Molecular Biology" "2001_2005" 0
+42 42.666 1.305 42.057 49.802 "Biodiversity Conservation" "2001_2005" 0
+37 43.244 7.546 37.972 77.097 "Biology" "2001_2005" 0
+9 14.5 5.979 9.974 40.06 "Biomedical Social Sciences" "2001_2005" 0
+23 43.145 20.085 26.954 125.639 "Biophysics" "2001_2005" 0
+44 46.249 3.394 44.266 63.03 "Biotechnology & Applied Microbiology" "2001_2005" 0
+16 16.662 1.298 16.056 23.761 "Business" "2001_2005" 0
+7 20.333 12.006 9.945 67.375 "Cardiology" "2001_2005" 0
+31 31.399 0.866 31.03 36.303 "Cell Biology" "2001_2005" 0
+4 6.5 3.655 4.307 24.328 "Cell & Tissue Engineering" "2001_2005" 0
+35 39.076 4.042 35.805 55.638 "Chemistry" "2001_2005" 0
+8 26.9 15.504 12.633 85.102 "Clinical Neurology" "2001_2005" 0
+1 1 0.312 1 2.549 "Communication" "2001_2005" 0
+28 28.333 0.757 28.024 32.681 "Computer Science" "2001_2005" 0
+4 8.5 5.275 4.727 31.843 "Construction & Building Technology" "2001_2005" 0
+8 19.765 16.152 9.565 96.461 "Crystallography" "2001_2005" 0
+1 1 0.312 1 2.549 "Cultural Studies" "2001_2005" 0
+4 7.6 5.817 4.391 37.177 "Demography" "2001_2005" 0
+8 11.733 4.964 8.517 34.975 "Dentistry, Oral Surgery & Medicine" "2001_2005" 0
+5 9 6.429 5.437 41.618 "Dermatology" "2001_2005" 0
+22 27.956 6.436 23.062 55.396 "Developmental Biology" "2001_2005" 0
+46 49 4.619 46.346 72.025 "Ecology" "2001_2005" 0
+16 16.496 1.025 16.04 22.204 "Economics" "2001_2005" 0
+6 16.714 14.743 7.421 86.784 "Education" "2001_2005" 0
+1 1 0.312 1 2.549 "Electrochemistry" "2001_2005" 0
+16 32.204 14.448 19.619 88.556 "Endocrinology & Metabolism" "2001_2005" 0
+9 9.972 1.826 9.087 19.811 "Energy & Fuels" "2001_2005" 0
+32 37.985 6.466 33.068 65.546 "Engineering" "2001_2005" 0
+37 43.391 5.915 38.368 66.862 "Entomology" "2001_2005" 0
+33 35.717 2.785 33.516 47.302 "Environmental Studies" "2001_2005" 0
+8 15.733 11.285 8.953 70.737 "Ethics" "2001_2005" 0
+1 1 0.312 1 2.549 "Ethnic Studies" "2001_2005" 0
+42 44.249 3.395 42.266 61.032 "Evolutionary Biology" "2001_2005" 0
+1 1 0.312 1 2.549 "Family Studies" "2001_2005" 0
+38 41.595 3.847 38.649 57.919 "Fisheries" "2001_2005" 0
+1 1 0.312 1 2.549 "Folklore" "2001_2005" 0
+29 30.776 2.179 29.271 40.622 "Food Science & Technology" "2001_2005" 0
+38 39.499 2.29 38.174 50.878 "Forestry" "2001_2005" 0
+17 23.163 7.453 17.959 56.61 "Gastroenterology & Hepatology" "2001_2005" 0
+5 6.929 2.958 5.223 21.648 "General & Internal Medicine" "2001_2005" 0
+46 54.997 10.171 47.52 99.263 "Genetics & Heredity" "2001_2005" 0
+10 12.93 3.456 10.47 28.265 "Geochemistry & Geophysics" "2001_2005" 0
+37 37.899 1.462 37.097 45.354 "Geography" "2001_2005" 0
+37 43.741 5.875 38.545 66.414 "Geology" "2001_2005" 0
+36 44.087 7.087 37.842 71.512 "Geosciences, Multidisciplinary" "2001_2005" 0
+6 14.75 8.841 7.691 51.286 "Geriatrics & Gerontology" "2001_2005" 0
+7 9.152 3.262 7.253 25.311 "Government & Law" "2001_2005" 0
+1 1 0.312 1 2.549 "Health Care Sciences & Services" "2001_2005" 0
+11 12.548 2.104 11.209 22.492 "Hematology" "2001_2005" 0
+11 31.447 16.815 15.999 94.64 "History" "2001_2005" 0
+37 50.482 12.444 39.894 99.801 "Horticulture" "2001_2005" 0
+1 1 0.312 1 2.549 "Hospitality, Leisure, Sport & Tourism" "2001_2005" 0
+1 1 0.312 1 2.549 "Humanities, Multidisciplinary" "2001_2005" 0
+17 23.176 7.468 17.961 56.69 "Imaging Science & Photographic Technology" "2001_2005" 0
+37 37.749 1.261 37.077 44.269 "Immunology" "2001_2005" 0
+34 49.972 16.464 37.014 118.646 "Infectious Diseases" "2001_2005" 0
+8 21.929 12.557 11.072 71.157 "Information Science & Library Science" "2001_2005" 0
+10 24.318 12.944 13.148 75.128 "Instruments & Instrumentation" "2001_2005" 0
+6 6.955 2.129 6.069 19.114 "Integrative & Complementary Medicine" "2001_2005" 0
+5 5.889 1.692 5.079 15.052 "International Relations" "2001_2005" 0
+1 1 0.312 1 2.549 "Language & Linguistics" "2001_2005" 0
+7 9.125 3.225 7.249 25.109 "Law" "2001_2005" 0
+7 7.241 0.71 7.013 11.614 "Legal Medicine" "2001_2005" 0
+37 43.244 7.546 37.972 77.097 "Life Sciences & Biomedicine - Other Topics" "2001_2005" 0
+32 63.908 39.486 36.826 242.97 "Limnology" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Linguistics" "2001_2005" 0
+1 1 0.312 1 2.549 "Literature" "2001_2005" 0
+4 4.833 1.603 4.073 13.544 "Management" "2001_2005" 0
+43 44.999 3.741 43.181 65.122 "Marine & Freshwater Biology" "2001_2005" 0
+16 29.179 12.176 18.826 77.457 "Materials Science" "2001_2005" 0
+23 25.483 2.941 23.396 38.557 "Mathematical & Computational Biology" "2001_2005" 0
+6 9.5 4.677 6.481 31.447 "Mathematical Methods In Social Sciences" "2001_2005" 0
+23 39.556 14.75 26.701 97.063 "Mathematics" "2001_2005" 0
+3 5 2.921 3.246 19.244 "Mechanics" "2001_2005" 0
+6 6.115 0.415 6.005 8.776 "Medical Subscience" "2001_2005" 0
+5 6.929 2.958 5.223 21.648 "Medicine, General & Internal" "2001_2005" 0
+7 7.241 0.71 7.013 11.614 "Medicine, Legal" "2001_2005" 0
+20 24.031 4.003 20.795 40.442 "Medicine, Research & Experimental" "2001_2005" 0
+1 1 0.312 1 2.549 "Metallurgy & Metallurgical Engineering" "2001_2005" 0
+22 42.087 20.029 25.942 124.353 "Meteorology & Atmospheric Sciences" "2001_2005" 0
+47 50.999 5.29 47.557 75.713 "Microbiology" "2001_2005" 0
+6 16.714 14.743 7.421 86.784 "Microscopy" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Mineralogy" "2001_2005" 0
+7 18.458 15.741 8.523 93.222 "Mining & Mineral Processing" "2001_2005" 0
+37 54.982 23.598 39.529 164.837 "Multidisciplinary Sciences" "2001_2005" 0
+31 35.491 4.794 31.813 55.811 "Mycology" "2001_2005" 0
+7 20.75 12.375 10.038 69.225 "Nanoscience & Nanotechnology" "2001_2005" 0
+24 24.331 0.754 24.023 28.668 "Neurosciences" "2001_2005" 0
+3 5 2.921 3.246 19.244 "Nuclear Science & Technology" "2001_2005" 0
+11 15.286 4.596 11.771 34.809 "Nutrition & Dietetics" "2001_2005" 0
+4 4.833 1.603 4.073 13.544 "Obstetrics & Gynecology" "2001_2005" 0
+43 52.989 8.358 45.396 84.65 "Oceanography" "2001_2005" 0
+21 25.458 4.762 21.806 45.652 "Oncology" "2001_2005" 0
+14 18.054 4.762 14.654 39.149 "Operations Research & Management Science" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Ophthalmology" "2001_2005" 0
+5 13 8.069 6.549 46.319 "Optics" "2001_2005" 0
+27 87.227 70.757 36.708 400.65 "Ornithology" "2001_2005" 0
+34 36.567 2.811 34.451 48.623 "Paleontology" "2001_2005" 0
+33 36.592 3.844 33.648 52.904 "Parasitology" "2001_2005" 0
+21 27.067 6.025 22.196 51.77 "Pathology" "2001_2005" 0
+7 10.636 4.845 7.502 33.34 "Pediatrics" "2001_2005" 0
+4 7.6 5.817 4.391 37.177 "Peripheral Vascular Disease" "2001_2005" 0
+31 51.182 20.122 34.961 133.826 "Pharmacology & Pharmacy" "2001_2005" 0
+37 37.749 1.261 37.077 44.268 "Physical Geography" "2001_2005" 0
+16 40.138 23.42 20.891 135.127 "Physics" "2001_2005" 0
+23 35.424 17.037 24.655 116.281 "Physiology" "2001_2005" 0
+13 40.282 20.745 20.259 115.532 "Planning & Development" "2001_2005" 0
+47 59.497 17.135 48.665 140.814 "Plant Sciences" "2001_2005" 0
+1 1 0.08 1 1.165 "Political Science" "2001_2005" 0
+2 2.333 0.943 2.018 8.09 "Polymer Science" "2001_2005" 0
+5 6.818 3.426 5.163 25.295 "Psychiatry" "2001_2005" 0
+11 15.235 4.547 11.761 34.563 "Psychology" "2001_2005" 0
+14 49.163 24.974 24.049 137.045 "Public Administration" "2001_2005" 0
+26 27.12 1.762 26.126 35.983 "Public, Environmental & Occupational Health" "2001_2005" 0
+5 13 8.069 6.549 46.319 "Radiology, Nuclear Medicine & Medical Imaging" "2001_2005" 0
+20 60.082 48.587 26.218 278.378 "Remote Sensing" "2001_2005" 0
+14 29.667 16.159 16.954 97.086 "Reproductive Biology" "2001_2005" 0
+20 24.031 4.003 20.795 40.442 "Research & Experimental Medicine" "2001_2005" 0
+7 10.667 4.882 7.507 33.538 "Respiratory System" "2001_2005" 0
+7 7.933 1.764 7.083 17.457 "Robotics" "2001_2005" 0
+37 54.982 23.599 39.529 164.839 "Science & Technology - Other Topics" "2001_2005" 0
+16 55.825 48.278 22.178 272.735 "Social Sciences" "2001_2005" 0
+13 17.085 4.796 13.659 38.319 "Sociology" "2001_2005" 0
+29 69.37 48.933 35.263 289.213 "Soil Science" "2001_2005" 0
+5 9.05 6.506 5.443 42.048 "Spectroscopy" "2001_2005" 0
+6 18.5 11.242 8.764 62.521 "Sport Sciences" "2001_2005" 0
+16 22.175 7.466 16.961 55.679 "Statistics & Probability" "2001_2005" 0
+3 5 2.921 3.246 19.244 "Substance Abuse" "2001_2005" 0
+9 20.136 12.001 10.993 71.23 "Surgery" "2001_2005" 0
+7 9.077 3.16 7.243 24.752 "Telecommunications" "2001_2005" 0
+3 5 2.921 3.246 19.244 "Thermodynamics" "2001_2005" 0
+32 40.952 6.759 34.4 65.391 "Toxicology" "2001_2005" 0
+10 18.526 9.661 11.436 60.621 "Transplantation" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Transportation" "2001_2005" 0
+27 42.022 12.389 30.661 88.645 "Tropical Medicine" "2001_2005" 0
+20 27.918 7.412 21.673 57.487 "Urban Studies" "2001_2005" 0
+2 2.5 1.107 2.037 8.808 "Urology & Nephrology" "2001_2005" 0
+28 31.977 3.723 28.84 46.829 "Veterinary Sciences" "2001_2005" 0
+31 35.494 4.796 31.813 55.825 "Virology" "2001_2005" 0
+35 39.559 4.234 35.972 56.384 "Water Resources" "2001_2005" 0
+41 44.598 3.849 41.649 60.932 "Zoology" "2001_2005" 0
+17.337 17.511 0.419 17.337 18.333 "Agriculture" "2001_2005" 1
+16.796 17.075 0.49 16.796 18.036 "Agronomy" "2001_2005" 1
+5.67 8.696 2.493 5.67 13.582 "Allergy" "2001_2005" 1
+10.692 13.385 2.082 10.692 17.467 "Anatomy & Morphology" "2001_2005" 1
+15.938 17.013 1.202 15.938 19.368 "Anthropology" "2001_2005" 1
+10.351 28.586 14.78 10.351 57.555 "Archaeology" "2001_2005" 1
+1 0 0 1 0 "Architecture" "2001_2005" 1
+2 3.375 1.169 2 5.666 "Area Studies" "2001_2005" 1
+2 3.375 1.12 2 5.569 "Asian Studies" "2001_2005" 1
+6.802 10.08 3.02 6.802 15.999 "Astronomy & Astrophysics" "2001_2005" 1
+8.844 10.671 1.606 8.844 13.819 "Automation & Control Systems" "2001_2005" 1
+14.692 17.431 1.868 14.692 21.092 "Behavioral Sciences" "2001_2005" 1
+13.388 14.415 1.046 13.388 16.466 "Biochemical Research Methods" "2001_2005" 1
+16.628 16.743 0.334 16.628 17.399 "Biochemistry & Molecular Biology" "2001_2005" 1
+15.037 15.165 0.324 15.037 15.8 "Biodiversity Conservation" "2001_2005" 1
+16.573 16.902 0.525 16.573 17.931 "Biology" "2001_2005" 1
+8.485 16.526 6.828 8.485 29.908 "Biomedical Social Sciences" "2001_2005" 1
+9.368 10.44 1.161 9.368 12.715 "Biophysics" "2001_2005" 1
+15.576 15.752 0.398 15.576 16.533 "Biotechnology & Applied Microbiology" "2001_2005" 1
+8.755 9.316 0.933 8.755 11.145 "Business" "2001_2005" 1
+6.24 17.912 10.007 6.24 37.526 "Cardiology" "2001_2005" 1
+13.683 14.061 0.685 13.683 15.403 "Cell Biology" "2001_2005" 1
+3.464 6.072 1.976 3.464 9.946 "Cell & Tissue Engineering" "2001_2005" 1
+11.213 11.62 0.646 11.213 12.886 "Chemistry" "2001_2005" 1
+7.192 23.539 14.235 7.192 51.439 "Clinical Neurology" "2001_2005" 1
+1 0 0 1 0 "Communication" "2001_2005" 1
+14.073 14.505 0.658 14.073 15.796 "Computer Science" "2001_2005" 1
+4 12.275 3.885 4.661 19.889 "Construction & Building Technology" "2001_2005" 1
+6.008 10.248 3.987 6.008 18.062 "Crystallography" "2001_2005" 1
+1 0 0 1 0 "Cultural Studies" "2001_2005" 1
+3.789 8.182 4.507 3.789 17.015 "Demography" "2001_2005" 1
+6.916 10.48 2.87 6.916 16.105 "Dentistry, Oral Surgery & Medicine" "2001_2005" 1
+4.166 6.861 2.873 4.166 12.493 "Dermatology" "2001_2005" 1
+11.883 13.256 1.45 11.883 16.097 "Developmental Biology" "2001_2005" 1
+17.623 17.667 0.193 17.623 18.045 "Ecology" "2001_2005" 1
+8.617 9.188 0.95 8.617 11.051 "Economics" "2001_2005" 1
+5.742 17.62 8.773 5.742 34.814 "Education" "2001_2005" 1
+1 0 0 1 0 "Electrochemistry" "2001_2005" 1
+10.644 16.89 4.409 10.644 25.531 "Endocrinology & Metabolism" "2001_2005" 1
+7.088 8.149 1 7.088 10.108 "Energy & Fuels" "2001_2005" 1
+15.555 16.342 0.862 15.555 18.032 "Engineering" "2001_2005" 1
+16.007 16.509 0.646 16.007 17.776 "Entomology" "2001_2005" 1
+10.605 11.008 0.65 10.605 12.282 "Environmental Studies" "2001_2005" 1
+4.757 6.114 1.586 4.757 9.222 "Ethics" "2001_2005" 1
+1 0 0 1 0 "Ethnic Studies" "2001_2005" 1
+19.032 19.182 0.385 19.032 19.937 "Evolutionary Biology" "2001_2005" 1
+1 0 0 1 0 "Family Studies" "2001_2005" 1
+16.514 16.999 0.713 16.514 18.397 "Fisheries" "2001_2005" 1
+1 0 0 1 0 "Folklore" "2001_2005" 1
+16.267 17.791 1.361 16.267 20.458 "Food Science & Technology" "2001_2005" 1
+16.179 16.379 0.42 16.179 17.203 "Forestry" "2001_2005" 1
+11.976 14.164 1.758 11.976 17.609 "Gastroenterology & Hepatology" "2001_2005" 1
+4.711 7.924 3.385 4.711 14.56 "General & Internal Medicine" "2001_2005" 1
+19.343 19.495 0.335 19.343 20.152 "Genetics & Heredity" "2001_2005" 1
+9.208 14.376 3.198 9.208 20.643 "Geochemistry & Geophysics" "2001_2005" 1
+16.317 16.65 0.523 16.317 17.676 "Geography" "2001_2005" 1
+15.072 15.55 0.579 15.072 16.685 "Geology" "2001_2005" 1
+15.032 15.618 0.715 15.032 17.019 "Geosciences, Multidisciplinary" "2001_2005" 1
+5.299 13.143 7.624 5.299 28.085 "Geriatrics & Gerontology" "2001_2005" 1
+4.564 5.614 1.03 4.564 7.633 "Government & Law" "2001_2005" 1
+1 0 0 1 0 "Health Care Sciences & Services" "2001_2005" 1
+7.484 9.295 1.637 7.484 12.503 "Hematology" "2001_2005" 1
+6.535 9.351 2.621 6.535 14.488 "History" "2001_2005" 1
+16.748 17.326 0.708 16.748 18.714 "Horticulture" "2001_2005" 1
+1 0 0 1 0 "Hospitality, Leisure, Sport & Tourism" "2001_2005" 1
+1 0 0 1 0 "Humanities, Multidisciplinary" "2001_2005" 1
+11.694 13.476 1.476 11.694 16.37 "Imaging Science & Photographic Technology" "2001_2005" 1
+13.848 14.115 0.525 13.848 15.143 "Immunology" "2001_2005" 1
+12.747 13.323 0.749 12.747 14.791 "Infectious Diseases" "2001_2005" 1
+6.227 12.824 7.453 6.227 27.432 "Information Science & Library Science" "2001_2005" 1
+7.935 13.217 4.337 7.935 21.717 "Instruments & Instrumentation" "2001_2005" 1
+4.449 5.201 0.798 4.449 6.766 "Integrative & Complementary Medicine" "2001_2005" 1
+4.586 6.346 1.815 4.586 9.904 "International Relations" "2001_2005" 1
+1 0 0 1 0 "Language & Linguistics" "2001_2005" 1
+5.43 7.073 1.454 5.43 9.924 "Law" "2001_2005" 1
+5.757 6.477 0.893 5.757 8.227 "Legal Medicine" "2001_2005" 1
+16.573 16.902 0.57 16.573 18.018 "Life Sciences & Biomedicine - Other Topics" "2001_2005" 1
+17.902 19.351 1.195 17.902 21.694 "Limnology" "2001_2005" 1
+2 3.375 1.038 2 5.409 "Linguistics" "2001_2005" 1
+1 0 0 1 0 "Literature" "2001_2005" 1
+3.78 5.605 2.326 3.78 10.163 "Management" "2001_2005" 1
+18.187 18.319 0.35 18.187 19.005 "Marine & Freshwater Biology" "2001_2005" 1
+9.9 14.248 3.139 9.9 20.401 "Materials Science" "2001_2005" 1
+11.857 13.008 1.14 11.857 15.243 "Mathematical & Computational Biology" "2001_2005" 1
+5.657 10.706 4.394 5.657 19.318 "Mathematical Methods In Social Sciences" "2001_2005" 1
+12.274 14.047 1.428 12.274 16.845 "Mathematics" "2001_2005" 1
+3 7.184 2.441 3 11.969 "Mechanics" "2001_2005" 1
+5.539 6.902 1.524 5.539 9.89 "Medical Subscience" "2001_2005" 1
+4.711 7.924 2.799 4.711 13.41 "Medicine, General & Internal" "2001_2005" 1
+5.757 6.477 0.91 5.757 8.26 "Medicine, Legal" "2001_2005" 1
+11.415 13.522 1.934 11.415 17.313 "Medicine, Research & Experimental" "2001_2005" 1
+1 0 0 1 0 "Metallurgy & Metallurgical Engineering" "2001_2005" 1
+12.367 14.566 1.74 12.367 17.976 "Meteorology & Atmospheric Sciences" "2001_2005" 1
+14.961 15.07 0.319 14.961 15.694 "Microbiology" "2001_2005" 1
+5.742 17.62 9.232 5.742 35.714 "Microscopy" "2001_2005" 1
+2 3.375 1.139 2 5.608 "Mineralogy" "2001_2005" 1
+5.467 11.107 5.937 5.467 22.744 "Mining & Mineral Processing" "2001_2005" 1
+15.622 16.036 0.552 15.622 17.118 "Multidisciplinary Sciences" "2001_2005" 1
+13.08 13.582 0.731 13.08 15.015 "Mycology" "2001_2005" 1
+4.899 10.86 4.873 4.899 20.411 "Nanoscience & Nanotechnology" "2001_2005" 1
+15.071 16.348 1.354 15.071 19.001 "Neurosciences" "2001_2005" 1
+3 7.184 2.259 3 11.613 "Nuclear Science & Technology" "2001_2005" 1
+8.43 12.627 2.654 8.43 17.828 "Nutrition & Dietetics" "2001_2005" 1
+3.78 5.605 2.197 3.78 9.911 "Obstetrics & Gynecology" "2001_2005" 1
+18.846 19.44 0.681 18.846 20.773 "Oceanography" "2001_2005" 1
+11.827 13.429 1.312 11.827 16.002 "Oncology" "2001_2005" 1
+11.416 14.846 2.489 11.416 19.724 "Operations Research & Management Science" "2001_2005" 1
+2 3.375 1.139 2 5.608 "Ophthalmology" "2001_2005" 1
+5 18.564 5.785 7.225 29.903 "Optics" "2001_2005" 1
+14.19 16.331 1.568 14.19 19.405 "Ornithology" "2001_2005" 1
+15.56 16.097 0.688 15.56 17.445 "Paleontology" "2001_2005" 1
+13.957 14.568 0.829 13.957 16.192 "Parasitology" "2001_2005" 1
+11.422 13.116 1.453 11.422 15.964 "Pathology" "2001_2005" 1
+6.336 10.619 4.114 6.336 18.683 "Pediatrics" "2001_2005" 1
+3.789 8.182 5.063 3.789 18.105 "Peripheral Vascular Disease" "2001_2005" 1
+12.378 13.455 1.07 12.378 15.552 "Pharmacology & Pharmacy" "2001_2005" 1
+16.707 17.085 0.553 16.707 18.17 "Physical Geography" "2001_2005" 1
+13.14 25.115 9.126 13.14 43.001 "Physics" "2001_2005" 1
+12.134 13.445 1.493 12.134 16.372 "Physiology" "2001_2005" 1
+7.453 11.423 3.241 7.453 17.775 "Planning & Development" "2001_2005" 1
+17.845 17.959 0.272 17.845 18.492 "Plant Sciences" "2001_2005" 1
+1 1 0 1 1 "Political Science" "2001_2005" 1
+1.89 2.52 1.757 1.89 5.963 "Polymer Science" "2001_2005" 1
+4.341 5.898 1.787 4.341 9.4 "Psychiatry" "2001_2005" 1
+10.106 16.643 4.325 10.106 25.12 "Psychology" "2001_2005" 1
+7.706 12.062 3.559 7.706 19.037 "Public Administration" "2001_2005" 1
+15.237 16.274 1.117 15.237 18.463 "Public, Environmental & Occupational Health" "2001_2005" 1
+5 18.564 5.577 7.633 29.495 "Radiology, Nuclear Medicine & Medical Imaging" "2001_2005" 1
+12.768 16.201 2.19 12.768 20.492 "Remote Sensing" "2001_2005" 1
+7.925 10.736 2.158 7.925 14.966 "Reproductive Biology" "2001_2005" 1
+11.415 13.522 1.914 11.415 17.274 "Research & Experimental Medicine" "2001_2005" 1
+6 9.636 3.2 6 15.907 "Respiratory System" "2001_2005" 1
+6.45 8.423 1.59 6.45 11.541 "Robotics" "2001_2005" 1
+15.579 15.986 0.615 15.579 17.191 "Science & Technology - Other Topics" "2001_2005" 1
+8.472 12.032 2.769 8.472 17.46 "Social Sciences" "2001_2005" 1
+7.792 9.329 1.46 7.792 12.19 "Sociology" "2001_2005" 1
+15.038 16.435 1.167 15.038 18.722 "Soil Science" "2001_2005" 1
+3.893 6.105 2.743 3.893 11.482 "Spectroscopy" "2001_2005" 1
+6 26.008 7.866 10.591 41.425 "Sport Sciences" "2001_2005" 1
+10.664 12.254 1.287 10.664 14.776 "Statistics & Probability" "2001_2005" 1
+3 7.184 2.4 3 11.888 "Substance Abuse" "2001_2005" 1
+8.549 21.892 14.076 8.549 49.48 "Surgery" "2001_2005" 1
+6.326 9.124 2.449 6.326 13.923 "Telecommunications" "2001_2005" 1
+3 7.184 2.376 3 11.841 "Thermodynamics" "2001_2005" 1
+14.036 15.841 1.408 14.036 18.6 "Toxicology" "2001_2005" 1
+8.03 13.324 4.212 8.03 21.58 "Transplantation" "2001_2005" 1
+2 3.375 1.159 2 5.646 "Transportation" "2001_2005" 1
+11.555 13.446 1.657 11.555 16.694 "Tropical Medicine" "2001_2005" 1
+10.009 11.682 1.411 10.009 14.448 "Urban Studies" "2001_2005" 1
+2 3.375 1.106 2 5.543 "Urology & Nephrology" "2001_2005" 1
+13.678 15.14 1.354 13.678 17.793 "Veterinary Sciences" "2001_2005" 1
+11.848 12.157 0.536 11.848 13.207 "Virology" "2001_2005" 1
+16.18 17.111 1.025 16.18 19.119 "Water Resources" "2001_2005" 1
+15.671 15.879 0.39 15.671 16.644 "Zoology" "2001_2005" 1
+11.058 11.108 0.368 11.058 11.829 "Agriculture" "2001_2005" 2
+11.176 11.253 0.435 11.176 12.106 "Agronomy" "2001_2005" 2
+5.4 12 2.584 6.935 17.065 "Allergy" "2001_2005" 2
+7.327 8.28 1.602 7.327 11.419 "Anatomy & Morphology" "2001_2005" 2
+10.628 11.103 1.167 10.628 13.389 "Anthropology" "2001_2005" 2
+7.579 10.615 5.611 7.579 21.613 "Archaeology" "2001_2005" 2
+1 1 0 1 1 "Architecture" "2001_2005" 2
+2 2 0.475 2 2.931 "Area Studies" "2001_2005" 2
+2 2 0.466 2 2.913 "Asian Studies" "2001_2005" 2
+5.405 7.037 2.603 5.405 12.138 "Astronomy & Astrophysics" "2001_2005" 2
+7.676 9.213 1.392 7.676 11.943 "Automation & Control Systems" "2001_2005" 2
+10.02 11.059 1.782 10.02 14.552 "Behavioral Sciences" "2001_2005" 2
+8.42 8.622 0.674 8.42 9.943 "Biochemical Research Methods" "2001_2005" 2
+10.551 10.581 0.28 10.551 11.13 "Biochemistry & Molecular Biology" "2001_2005" 2
+9.892 9.927 0.253 9.892 10.423 "Biodiversity Conservation" "2001_2005" 2
+11.004 11.103 0.462 11.004 12.009 "Biology" "2001_2005" 2
+8 22 8.417 8 38.497 "Biomedical Social Sciences" "2001_2005" 2
+5.656 5.797 0.619 5.656 7.01 "Biophysics" "2001_2005" 2
+9.453 9.491 0.283 9.453 10.046 "Biotechnology & Applied Microbiology" "2001_2005" 2
+5.364 5.543 0.849 5.364 7.208 "Business" "2001_2005" 2
+5.4 12 10.267 5.4 32.124 "Cardiology" "2001_2005" 2
+8.351 8.457 0.506 8.351 9.449 "Cell Biology" "2001_2005" 2
+3 5 2.184 3 9.281 "Cell & Tissue Engineering" "2001_2005" 2
+6.014 6.066 0.438 6.014 6.925 "Chemistry" "2001_2005" 2
+6.25 15 12.795 6.25 40.077 "Clinical Neurology" "2001_2005" 2
+1 1 0 1 1 "Communication" "2001_2005" 2
+10.055 10.251 0.583 10.055 11.394 "Computer Science" "2001_2005" 2
+4 4 1.479 4 6.899 "Construction & Building Technology" "2001_2005" 2
+4.738 6.182 2.967 4.738 11.997 "Crystallography" "2001_2005" 2
+1 1 0 1 1 "Cultural Studies" "2001_2005" 2
+3.571 10 3.191 3.746 16.254 "Demography" "2001_2005" 2
+6.081 9.545 3.27 6.081 15.954 "Dentistry, Oral Surgery & Medicine" "2001_2005" 2
+3.522 5.143 2.979 3.522 10.982 "Dermatology" "2001_2005" 2
+8.007 8.445 1.043 8.007 10.49 "Developmental Biology" "2001_2005" 2
+11.925 11.938 0.163 11.925 12.257 "Ecology" "2001_2005" 2
+5.288 5.47 0.767 5.288 6.973 "Economics" "2001_2005" 2
+5.444 21 6.801 7.67 34.33 "Education" "2001_2005" 2
+1 1 0 1 1 "Electrochemistry" "2001_2005" 2
+7.364 9 2.198 7.364 13.308 "Endocrinology & Metabolism" "2001_2005" 2
+6.113 7.159 1.134 6.113 9.382 "Energy & Fuels" "2001_2005" 2
+10.219 10.458 0.737 10.219 11.904 "Engineering" "2001_2005" 2
+10.991 11.14 0.599 10.991 12.315 "Entomology" "2001_2005" 2
+6.025 6.085 0.433 6.025 6.934 "Environmental Studies" "2001_2005" 2
+3.435 3.75 1.111 3.435 5.927 "Ethics" "2001_2005" 2
+1 1 0 1 1 "Ethnic Studies" "2001_2005" 2
+13.484 13.543 0.327 13.484 14.184 "Evolutionary Biology" "2001_2005" 2
+1 1 0 1 1 "Family Studies" "2001_2005" 2
+10.768 10.909 0.546 10.768 11.98 "Fisheries" "2001_2005" 2
+1 1 0 1 1 "Folklore" "2001_2005" 2
+10.031 10.558 1.349 10.031 13.202 "Food Science & Technology" "2001_2005" 2
+10.804 10.869 0.359 10.804 11.573 "Forestry" "2001_2005" 2
+9.391 10.65 1.391 9.391 13.376 "Gastroenterology & Hepatology" "2001_2005" 2
+4.455 10.5 4.436 4.455 19.195 "General & Internal Medicine" "2001_2005" 2
+13.477 13.525 0.307 13.477 14.126 "Genetics & Heredity" "2001_2005" 2
+8.533 17.143 3.631 10.026 24.26 "Geochemistry & Geophysics" "2001_2005" 2
+11.432 11.558 0.453 11.432 12.445 "Geography" "2001_2005" 2
+10.394 10.525 0.466 10.394 11.439 "Geology" "2001_2005" 2
+10.245 10.401 0.526 10.245 11.432 "Geosciences, Multidisciplinary" "2001_2005" 2
+4.571 9.333 7.536 4.571 24.104 "Geriatrics & Gerontology" "2001_2005" 2
+3.369 3.776 1.007 3.369 5.749 "Government & Law" "2001_2005" 2
+1 1 0 1 1 "Health Care Sciences & Services" "2001_2005" 2
+5.309 6.2 1.782 5.309 9.692 "Hematology" "2001_2005" 2
+4.846 5.408 1.241 4.846 7.84 "History" "2001_2005" 2
+11.412 11.569 0.613 11.412 12.771 "Horticulture" "2001_2005" 2
+1 1 0 1 1 "Hospitality, Leisure, Sport & Tourism" "2001_2005" 2
+1 1 0 1 1 "Humanities, Multidisciplinary" "2001_2005" 2
+9.347 10.378 1.173 9.347 12.676 "Imaging Science & Photographic Technology" "2001_2005" 2
+8.696 8.762 0.396 8.696 9.539 "Immunology" "2001_2005" 2
+7.917 8.016 0.451 7.917 8.901 "Infectious Diseases" "2001_2005" 2
+4.9 7 4.029 4.9 14.896 "Information Science & Library Science" "2001_2005" 2
+6.722 9.24 2.665 6.722 14.464 "Instruments & Instrumentation" "2001_2005" 2
+3.559 4.053 0.975 3.559 5.964 "Integrative & Complementary Medicine" "2001_2005" 2
+4.263 7.2 2.177 4.263 11.466 "International Relations" "2001_2005" 2
+1 1 0 1 1 "Language & Linguistics" "2001_2005" 2
+4.5 5.667 1.68 4.5 8.959 "Law" "2001_2005" 2
+5.036 5.884 0.943 5.036 7.733 "Legal Medicine" "2001_2005" 2
+11.004 11.103 0.466 11.004 12.016 "Life Sciences & Biomedicine - Other Topics" "2001_2005" 2
+13.478 13.979 0.862 13.478 15.669 "Limnology" "2001_2005" 2
+2 2 0.481 2 2.943 "Linguistics" "2001_2005" 2
+1 1 0 1 1 "Literature" "2001_2005" 2
+3.6 7.5 3.277 3.6 13.923 "Management" "2001_2005" 2
+12.568 12.615 0.295 12.568 13.194 "Marine & Freshwater Biology" "2001_2005" 2
+6.345 7.297 2.072 6.345 11.358 "Materials Science" "2001_2005" 2
+7.977 8.377 0.986 7.977 10.309 "Mathematical & Computational Biology" "2001_2005" 2
+5.333 14 6.884 5.333 27.493 "Mathematical Methods In Social Sciences" "2001_2005" 2
+9.154 9.684 0.897 9.154 11.442 "Mathematics" "2001_2005" 2
+3 3 0.476 3 3.933 "Mechanics" "2001_2005" 2
+5.121 7.8 1.839 5.121 11.405 "Medical Subscience" "2001_2005" 2
+4.455 10.5 4.655 4.455 19.624 "Medicine, General & Internal" "2001_2005" 2
+5.036 5.884 0.966 5.036 7.777 "Medicine, Legal" "2001_2005" 2
+7.141 7.76 1.255 7.141 10.219 "Medicine, Research & Experimental" "2001_2005" 2
+1 1 0 1 1 "Metallurgy & Metallurgical Engineering" "2001_2005" 2
+9.263 9.93 1.015 9.263 11.918 "Meteorology & Atmospheric Sciences" "2001_2005" 2
+8.771 8.79 0.22 8.771 9.222 "Microbiology" "2001_2005" 2
+5.444 21 6.622 8.021 33.979 "Microscopy" "2001_2005" 2
+2 2 0.485 2 2.951 "Mineralogy" "2001_2005" 2
+4.235 6 3.821 4.235 13.489 "Mining & Mineral Processing" "2001_2005" 2
+9.896 9.986 0.468 9.896 10.903 "Multidisciplinary Sciences" "2001_2005" 2
+7.981 8.094 0.5 7.981 9.075 "Mycology" "2001_2005" 2
+3.429 4.4 3.54 3.429 11.338 "Nanoscience & Nanotechnology" "2001_2005" 2
+10.236 10.898 1.278 10.236 13.402 "Neurosciences" "2001_2005" 2
+3 3 0.615 3 4.205 "Nuclear Science & Technology" "2001_2005" 2
+6.211 8.4 2.998 6.211 14.275 "Nutrition & Dietetics" "2001_2005" 2
+3.6 7.5 2.896 3.6 13.177 "Obstetrics & Gynecology" "2001_2005" 2
+13.504 13.692 0.465 13.504 14.604 "Oceanography" "2001_2005" 2
+7.807 8.338 1.118 7.807 10.529 "Oncology" "2001_2005" 2
+9.709 12.808 2.377 9.709 17.466 "Operations Research & Management Science" "2001_2005" 2
+2 2 0.487 2 2.954 "Ophthalmology" "2001_2005" 2
+5 5 2.722 5 10.335 "Optics" "2001_2005" 2
+10.585 11.065 0.845 10.585 12.721 "Ornithology" "2001_2005" 2
+10.946 11.14 0.615 10.946 12.345 "Paleontology" "2001_2005" 2
+8.512 8.656 0.57 8.512 9.773 "Parasitology" "2001_2005" 2
+7.592 8.1 1.081 7.592 10.22 "Pathology" "2001_2005" 2
+5.762 11 4.452 5.762 19.725 "Pediatrics" "2001_2005" 2
+3.571 10 3.048 4.026 15.974 "Peripheral Vascular Disease" "2001_2005" 2
+7.061 7.208 0.728 7.061 8.634 "Pharmacology & Pharmacy" "2001_2005" 2
+12.027 12.182 0.476 12.027 13.116 "Physical Geography" "2001_2005" 2
+10.922 16.917 5.42 10.922 27.54 "Physics" "2001_2005" 2
+7.174 7.455 1.102 7.174 9.614 "Physiology" "2001_2005" 2
+4.709 5.218 1.511 4.709 8.18 "Planning & Development" "2001_2005" 2
+11.654 11.681 0.259 11.654 12.188 "Plant Sciences" "2001_2005" 2
+1 1 0 1 1 "Political Science" "2001_2005" 2
+1.8 3 0.868 1.8 4.702 "Polymer Science" "2001_2005" 2
+3.903 5.5 1.99 3.903 9.4 "Psychiatry" "2001_2005" 2
+9.323 19.429 4.24 11.119 27.738 "Psychology" "2001_2005" 2
+4.853 5.343 1.321 4.853 7.933 "Public Administration" "2001_2005" 2
+9.921 10.357 1.125 9.921 12.563 "Public, Environmental & Occupational Health" "2001_2005" 2
+5 5 2.677 5 10.247 "Radiology, Nuclear Medicine & Medical Imaging" "2001_2005" 2
+9.957 10.981 1.475 9.957 13.871 "Remote Sensing" "2001_2005" 2
+5.565 6.164 1.047 5.565 8.216 "Reproductive Biology" "2001_2005" 2
+7.141 7.76 1.448 7.141 10.598 "Research & Experimental Medicine" "2001_2005" 2
+5.143 8.25 2.997 5.143 14.123 "Respiratory System" "2001_2005" 2
+6.081 9.545 1.692 6.228 12.863 "Robotics" "2001_2005" 2
+9.87 9.959 0.431 9.87 10.803 "Science & Technology - Other Topics" "2001_2005" 2
+5.471 5.92 1.205 5.471 8.281 "Social Sciences" "2001_2005" 2
+5.233 5.717 1.205 5.233 8.079 "Sociology" "2001_2005" 2
+10.574 10.91 0.811 10.574 12.5 "Soil Science" "2001_2005" 2
+3.125 4.091 2.763 3.125 9.506 "Spectroscopy" "2001_2005" 2
+6 6 4.474 6 14.768 "Sport Sciences" "2001_2005" 2
+8.515 9.375 1.098 8.515 11.527 "Statistics & Probability" "2001_2005" 2
+3 3 0.494 3 3.969 "Substance Abuse" "2001_2005" 2
+8.067 27.5 13.272 8.067 53.513 "Surgery" "2001_2005" 2
+5.828 9.75 2.572 5.828 14.791 "Telecommunications" "2001_2005" 2
+3 3 0.528 3 4.035 "Thermodynamics" "2001_2005" 2
+8.484 8.838 0.895 8.484 10.593 "Toxicology" "2001_2005" 2
+6.564 9.5 3.649 6.564 16.652 "Transplantation" "2001_2005" 2
+2 2 0.457 2 2.896 "Transportation" "2001_2005" 2
+6.526 6.783 0.968 6.526 8.681 "Tropical Medicine" "2001_2005" 2
+6.369 6.742 0.901 6.369 8.508 "Urban Studies" "2001_2005" 2
+2 2 0.484 2 2.949 "Urology & Nephrology" "2001_2005" 2
+8.376 8.754 1.016 8.376 10.744 "Veterinary Sciences" "2001_2005" 2
+7.658 7.729 0.383 7.658 8.479 "Virology" "2001_2005" 2
+10.438 10.704 0.873 10.438 12.416 "Water Resources" "2001_2005" 2
+10.726 10.785 0.336 10.726 11.443 "Zoology" "2001_2005" 2
+1 1 0.312 1 2.549 "Acoustics" "2006_2012" 0
+37 37.5 1.03 37.04 43.236 "Agriculture" "2006_2012" 0
+35 35.666 1.304 35.057 42.799 "Agronomy" "2006_2012" 0
+13 64.765 32.802 29.576 174.656 "Allergy" "2006_2012" 0
+16 21.903 6.384 17.052 49.126 "Anatomy & Morphology" "2006_2012" 0
+22 24.241 3.384 22.265 40.974 "Anthropology" "2006_2012" 0
+12 15.892 5.159 12.541 40.013 "Archaeology" "2006_2012" 0
+3 4.5 2.872 3.132 20.083 "Architecture" "2006_2012" 0
+2 2 0.461 2 3.671 "Area Studies" "2006_2012" 0
+4 4.917 2.004 4.068 16.289 "Astronomy & Astrophysics" "2006_2012" 0
+18 25.857 7.359 19.659 55.221 "Automation & Control Systems" "2006_2012" 0
+24 36.156 13.057 26.184 91.665 "Behavioral Sciences" "2006_2012" 0
+26 40.962 13.7 29.242 95.054 "Biochemical Research Methods" "2006_2012" 0
+43 45.666 3.485 43.377 61.858 "Biochemistry & Molecular Biology" "2006_2012" 0
+37 39.249 3.395 37.266 56.033 "Biodiversity Conservation" "2006_2012" 0
+35 52.986 23.603 37.53 162.865 "Biology" "2006_2012" 0
+5 9 6.429 5.437 41.618 "Biomedical Social Sciences" "2006_2012" 0
+19 26.948 11.588 19.981 83.41 "Biophysics" "2006_2012" 0
+38 40.249 3.395 38.266 57.032 "Biotechnology & Applied Microbiology" "2006_2012" 0
+21 25.478 4.781 21.81 45.748 "Business" "2006_2012" 0
+3 3.417 1.133 3.024 10.27 "Cardiology" "2006_2012" 0
+27 39.225 13.129 29.197 95.032 "Cell Biology" "2006_2012" 0
+3 5 2.921 3.246 19.244 "Cell & Tissue Engineering" "2006_2012" 0
+33 37.494 4.797 33.814 57.827 "Chemistry" "2006_2012" 0
+2 2.5 1.107 2.037 8.808 "Clinical Neurology" "2006_2012" 0
+3 4.5 2.872 3.132 20.083 "Communication" "2006_2012" 0
+27 27.998 1.868 27.09 38.049 "Computer Science" "2006_2012" 0
+4 6.5 3.655 4.307 24.328 "Construction & Building Technology" "2006_2012" 0
+10 12.545 3.344 10.358 28.122 "Crystallography" "2006_2012" 0
+2 2.5 1.107 2.037 8.808 "Cultural Studies" "2006_2012" 0
+2 2 0.465 2 3.569 "Demography" "2006_2012" 0
+8 19.667 16.021 9.551 95.744 "Dentistry, Oral Surgery & Medicine" "2006_2012" 0
+3 3.8 1.734 3.06 13.615 "Dermatology" "2006_2012" 0
+21 25.472 4.775 21.809 45.717 "Developmental Biology" "2006_2012" 0
+44 44.667 1.305 44.057 51.804 "Ecology" "2006_2012" 0
+16 18.238 3.379 16.264 34.949 "Economics" "2006_2012" 0
+5 6.818 3.426 5.163 25.295 "Education" "2006_2012" 0
+7 16.231 9.343 8.78 54.877 "Electrochemistry" "2006_2012" 0
+11 19.69 9.838 12.465 62.537 "Endocrinology & Metabolism" "2006_2012" 0
+15 21.178 7.47 15.961 54.7 "Energy & Fuels" "2006_2012" 0
+31 32.996 2.641 31.278 45.335 "Engineering" "2006_2012" 0
+33 73.458 49.039 39.277 293.774 "Entomology" "2006_2012" 0
+26 34.987 10.16 27.518 79.206 "Environmental Studies" "2006_2012" 0
+1 1 0.312 1 2.549 "Ergonomics" "2006_2012" 0
+4 4 0.496 4 5.408 "Ethics" "2006_2012" 0
+1 1 0.312 1 2.549 "Ethnic Studies" "2006_2012" 0
+40 40.167 0.536 40.008 43.532 "Evolutionary Biology" "2006_2012" 0
+34 40.117 6.071 35.207 64.997 "Fisheries" "2006_2012" 0
+1 1 0.312 1 2.549 "Folklore" "2006_2012" 0
+32 36.884 4.826 32.969 56.621 "Food Science & Technology" "2006_2012" 0
+35 62.982 21.474 42.373 141.199 "Forestry" "2006_2012" 0
+18 22.115 4.827 18.664 43.483 "Gastroenterology & Hepatology" "2006_2012" 0
+4 7.6 5.817 4.391 37.177 "General & Internal Medicine" "2006_2012" 0
+43 55.497 17.135 44.665 136.809 "Genetics & Heredity" "2006_2012" 0
+6 14.75 8.841 7.691 51.286 "Geochemistry & Geophysics" "2006_2012" 0
+35 39.496 4.798 35.814 59.835 "Geography" "2006_2012" 0
+34 51.981 23.598 36.529 161.834 "Geology" "2006_2012" 0
+32 38.243 7.543 32.972 72.086 "Geosciences, Multidisciplinary" "2006_2012" 0
+1 1 0.284 1 1.799 "Geriatrics & Gerontology" "2006_2012" 0
+8 8.971 1.825 8.087 18.804 "Government & Law" "2006_2012" 0
+6 16.714 14.743 7.421 86.784 "Health Care Sciences & Services" "2006_2012" 0
+5 11.667 9.775 5.817 59.411 "Health Policy & Services" "2006_2012" 0
+9 23.167 12.79 12.119 73.34 "Hematology" "2006_2012" 0
+12 12.327 0.747 12.023 16.629 "History" "2006_2012" 0
+31 31.399 0.866 31.03 36.302 "Horticulture" "2006_2012" 0
+3 4.5 2.872 3.132 20.083 "Hospitality, Leisure, Sport & Tourism" "2006_2012" 0
+3 3.8 1.734 3.06 13.615 "Humanities, Multidisciplinary" "2006_2012" 0
+20 37.824 23.394 22.507 146.735 "Imaging Science & Photographic Technology" "2006_2012" 0
+33 38.993 6.474 34.069 66.585 "Immunology" "2006_2012" 0
+34 47.478 12.441 36.894 96.783 "Infectious Diseases" "2006_2012" 0
+7 22.75 20.717 9.209 119.289 "Information Science & Library Science" "2006_2012" 0
+8 11.733 4.964 8.517 34.975 "Instruments & Instrumentation" "2006_2012" 0
+9 9.648 1.275 9.055 16.635 "Integrative & Complementary Medicine" "2006_2012" 0
+7 11.312 6.907 7.473 46.305 "International Relations" "2006_2012" 0
+8 10.167 3.282 8.255 26.419 "Law" "2006_2012" 0
+6 8.833 4.185 6.344 29.336 "Legal Medicine" "2006_2012" 0
+35 52.986 23.603 37.53 162.865 "Life Sciences & Biomedicine - Other Topics" "2006_2012" 0
+27 30.989 5.278 27.555 55.646 "Limnology" "2006_2012" 0
+1 1 0.312 1 2.549 "Literature" "2006_2012" 0
+10 21.605 12.486 12.081 74.728 "Management" "2006_2012" 0
+37 38.6 2.161 37.217 48.788 "Marine & Freshwater Biology" "2006_2012" 0
+16 16.493 1.02 16.039 22.177 "Materials Science" "2006_2012" 0
+26 30.152 4.867 26.671 51.69 "Mathematical & Computational Biology" "2006_2012" 0
+2 2.333 0.943 2.018 8.09 "Mathematical Methods In Social Sciences" "2006_2012" 0
+23 35.17 13.071 25.187 90.737 "Mathematics" "2006_2012" 0
+7 25 14.753 11.417 80.359 "Mechanics" "2006_2012" 0
+11 41.4 37.638 15.595 212.123 "Medical Subscience" "2006_2012" 0
+4 7.6 5.817 4.391 37.177 "Medicine, General & Internal" "2006_2012" 0
+6 8.833 4.185 6.344 29.336 "Medicine, Legal" "2006_2012" 0
+12 19.882 11.495 12.972 75.9 "Medicine, Research & Experimental" "2006_2012" 0
+19 23.452 4.756 19.805 43.621 "Meteorology & Atmospheric Sciences" "2006_2012" 0
+40 42.249 3.395 40.266 59.034 "Microbiology" "2006_2012" 0
+10 21.375 12.248 12.038 73.501 "Microscopy" "2006_2012" 0
+2 2.333 0.943 2.018 8.09 "Mineralogy" "2006_2012" 0
+2 2.5 1.107 2.037 8.808 "Mining & Mineral Processing" "2006_2012" 0
+33 45.489 17.124 34.664 126.751 "Multidisciplinary Sciences" "2006_2012" 0
+31 41.646 10.252 33.176 83.08 "Mycology" "2006_2012" 0
+13 16.03 3.56 13.488 31.798 "Nanoscience & Nanotechnology" "2006_2012" 0
+21 29.924 10.091 22.507 73.849 "Neurosciences" "2006_2012" 0
+1 1 0.312 1 2.549 "Nuclear Science & Technology" "2006_2012" 0
+11 22.74 12.625 13.106 76.444 "Nutrition & Dietetics" "2006_2012" 0
+7 18.25 15.462 8.494 91.699 "Obstetrics & Gynecology" "2006_2012" 0
+30 38.99 10.163 31.519 83.222 "Oceanography" "2006_2012" 0
+17 18.981 2.624 17.275 31.247 "Oncology" "2006_2012" 0
+18 37.636 16.981 22.539 102.943 "Operations Research & Management Science" "2006_2012" 0
+9 25.875 22.169 11.371 129.127 "Optics" "2006_2012" 0
+24 48.413 31 27.577 190.628 "Ornithology" "2006_2012" 0
+2 2.5 1.107 2.037 8.808 "Orthopedics" "2006_2012" 0
+28 31.993 5.283 28.556 56.675 "Paleontology" "2006_2012" 0
+33 37.491 4.793 33.813 57.809 "Parasitology" "2006_2012" 0
+16 17.977 2.62 16.275 30.226 "Pathology" "2006_2012" 0
+7 18.458 15.741 8.523 93.222 "Pediatrics" "2006_2012" 0
+3 4.5 2.872 3.132 20.083 "Peripheral Vascular Disease" "2006_2012" 0
+28 36.973 10.145 29.516 81.128 "Pharmacology & Pharmacy" "2006_2012" 0
+2 2.5 1.107 2.037 8.808 "Philosophy" "2006_2012" 0
+35 39.495 4.798 35.814 59.832 "Physical Geography" "2006_2012" 0
+14 20.081 7.359 14.945 53.119 "Physics" "2006_2012" 0
+19 25.197 7.491 19.965 58.81 "Physiology" "2006_2012" 0
+11 23.222 16.766 12.627 102.804 "Planning & Development" "2006_2012" 0
+39 39.25 0.729 39.013 43.732 "Plant Sciences" "2006_2012" 0
+6 11.4 6.367 6.867 39.651 "Political Science" "2006_2012" 0
+5 10.333 6.257 5.861 38.034 "Polymer Science" "2006_2012" 0
+7 22.75 20.717 9.209 119.289 "Psychiatry" "2006_2012" 0
+11 12.09 1.724 11.121 20.777 "Psychology" "2006_2012" 0
+12 21.853 10.06 13.88 63.63 "Public Administration" "2006_2012" 0
+26 38.191 13.093 28.19 93.85 "Public, Environmental & Occupational Health" "2006_2012" 0
+3 4.5 2.872 3.132 20.083 "Radiology, Nuclear Medicine & Medical Imaging" "2006_2012" 0
+22 25.102 3.634 22.502 41.18 "Remote Sensing" "2006_2012" 0
+18 28.48 10.099 20.14 69.312 "Reproductive Biology" "2006_2012" 0
+12 19.882 11.495 12.972 75.9 "Research & Experimental Medicine" "2006_2012" 0
+7 18.364 15.614 8.51 92.53 "Respiratory System" "2006_2012" 0
+10 22 16.468 11.597 100.18 "Robotics" "2006_2012" 0
+33 45.489 17.124 34.664 126.754 "Science & Technology - Other Topics" "2006_2012" 0
+9 9.98 1.839 9.088 19.882 "Social Sciences" "2006_2012" 0
+15 18.091 3.623 15.5 34.122 "Sociology" "2006_2012" 0
+24 25.992 2.637 24.277 38.312 "Soil Science" "2006_2012" 0
+3 4.5 2.872 3.132 20.083 "Spectroscopy" "2006_2012" 0
+4 4.833 1.603 4.073 13.544 "Sport Sciences" "2006_2012" 0
+18 26.886 10.05 19.5 70.638 "Statistics & Probability" "2006_2012" 0
+1 1 0.312 1 2.549 "Substance Abuse" "2006_2012" 0
+6 9.5 4.677 6.481 31.447 "Surgery" "2006_2012" 0
+12 13.094 1.729 12.122 21.804 "Telecommunications" "2006_2012" 0
+4 6.5 3.655 4.307 24.328 "Thermodynamics" "2006_2012" 0
+26 28.557 2.802 26.448 40.577 "Toxicology" "2006_2012" 0
+5 11.667 9.775 5.817 59.411 "Transplantation" "2006_2012" 0
+3 5 2.921 3.246 19.244 "Transportation" "2006_2012" 0
+22 23.119 1.761 22.125 31.975 "Tropical Medicine" "2006_2012" 0
+13 15.976 4.492 13.352 38.186 "Urban Studies" "2006_2012" 0
+28 31.587 3.839 28.647 47.879 "Veterinary Sciences" "2006_2012" 0
+31 46.982 16.474 34.016 115.699 "Virology" "2006_2012" 0
+29 34.98 6.461 30.067 62.52 "Water Resources" "2006_2012" 0
+2 2.5 1.107 2.037 8.808 "Women's Studies" "2006_2012" 0
+38 42.498 4.8 38.814 62.844 "Zoology" "2006_2012" 0
+1 0 0 1 0 "Acoustics" "2006_2012" 1
+17.441 17.616 0.423 17.441 18.445 "Agriculture" "2006_2012" 1
+18.209 18.504 0.595 18.209 19.67 "Agronomy" "2006_2012" 1
+11.536 44.722 22.375 11.536 88.576 "Allergy" "2006_2012" 1
+10.839 13.097 1.626 10.839 16.283 "Anatomy & Morphology" "2006_2012" 1
+12.492 13.103 0.837 12.492 14.745 "Anthropology" "2006_2012" 1
+9.733 12.197 2.039 9.733 16.194 "Archaeology" "2006_2012" 1
+2.828 4.891 3.33 2.828 11.417 "Architecture" "2006_2012" 1
+1.755 2.031 0.524 1.755 3.058 "Area Studies" "2006_2012" 1
+3.086 3.759 0.645 3.086 5.023 "Astronomy & Astrophysics" "2006_2012" 1
+11.463 14.748 2.438 11.463 19.526 "Automation & Control Systems" "2006_2012" 1
+13.615 15.662 1.765 13.615 19.12 "Behavioral Sciences" "2006_2012" 1
+12.719 13.356 0.738 12.719 14.801 "Biochemical Research Methods" "2006_2012" 1
+17.853 17.973 0.311 17.853 18.583 "Biochemistry & Molecular Biology" "2006_2012" 1
+13.774 13.863 0.248 13.774 14.349 "Biodiversity Conservation" "2006_2012" 1
+14.914 15.211 0.497 14.914 16.185 "Biology" "2006_2012" 1
+4.166 6.861 3.393 4.166 13.511 "Biomedical Social Sciences" "2006_2012" 1
+12.227 13.329 1.13 12.227 15.544 "Biophysics" "2006_2012" 1
+14.921 15.044 0.353 14.921 15.736 "Biotechnology & Applied Microbiology" "2006_2012" 1
+7.003 7.487 0.763 7.003 8.983 "Business" "2006_2012" 1
+2.749 3.502 1.312 2.749 6.075 "Cardiology" "2006_2012" 1
+12.922 13.446 0.705 12.922 14.828 "Cell Biology" "2006_2012" 1
+3 7.184 2.374 3 11.836 "Cell & Tissue Engineering" "2006_2012" 1
+11.829 12.125 0.477 11.829 13.059 "Chemistry" "2006_2012" 1
+2 3.375 1.12 2 5.569 "Clinical Neurology" "2006_2012" 1
+2.828 4.891 3.33 2.828 11.419 "Communication" "2006_2012" 1
+15.267 15.638 0.583 15.267 16.781 "Computer Science" "2006_2012" 1
+3.464 6.072 1.756 3.464 9.514 "Construction & Building Technology" "2006_2012" 1
+8.279 11.248 2.656 8.279 16.452 "Crystallography" "2006_2012" 1
+2 3.375 1.166 2 5.661 "Cultural Studies" "2006_2012" 1
+1.458 1.567 0.369 1.458 2.29 "Demography" "2006_2012" 1
+6.529 11.95 5.252 6.529 22.244 "Dentistry, Oral Surgery & Medicine" "2006_2012" 1
+2.586 3.699 1.624 2.586 6.882 "Dermatology" "2006_2012" 1
+12.191 13.284 1.016 12.191 15.274 "Developmental Biology" "2006_2012" 1
+14.694 14.727 0.169 14.694 15.059 "Ecology" "2006_2012" 1
+6.042 6.352 0.57 6.042 7.469 "Economics" "2006_2012" 1
+4.341 5.898 1.569 4.341 8.974 "Education" "2006_2012" 1
+5.433 9.967 4.31 5.433 18.414 "Electrochemistry" "2006_2012" 1
+7.178 10.196 2.603 7.178 15.297 "Endocrinology & Metabolism" "2006_2012" 1
+8.032 9.117 1.268 8.032 11.603 "Energy & Fuels" "2006_2012" 1
+14.924 15.48 0.813 14.924 17.073 "Engineering" "2006_2012" 1
+13.93 14.364 0.492 13.93 15.329 "Entomology" "2006_2012" 1
+7.635 7.83 0.447 7.635 8.706 "Environmental Studies" "2006_2012" 1
+1 0 0 1 0 "Ergonomics" "2006_2012" 1
+3.565 4.037 0.68 3.565 5.37 "Ethics" "2006_2012" 1
+1 0 0 1 0 "Ethnic Studies" "2006_2012" 1
+18.018 18.135 0.346 18.018 18.813 "Evolutionary Biology" "2006_2012" 1
+15.71 16.16 0.609 15.71 17.353 "Fisheries" "2006_2012" 1
+1 0 0 1 0 "Folklore" "2006_2012" 1
+13.977 14.905 1.108 13.977 17.078 "Food Science & Technology" "2006_2012" 1
+13.064 13.305 0.405 13.064 14.099 "Forestry" "2006_2012" 1
+12.196 14.133 1.663 12.196 17.391 "Gastroenterology & Hepatology" "2006_2012" 1
+3.789 8.182 4.885 3.789 17.756 "General & Internal Medicine" "2006_2012" 1
+19.564 19.708 0.337 19.564 20.368 "Genetics & Heredity" "2006_2012" 1
+5.299 13.143 6.85 5.299 26.568 "Geochemistry & Geophysics" "2006_2012" 1
+14.176 14.449 0.471 14.176 15.372 "Geography" "2006_2012" 1
+14.328 14.695 0.557 14.328 15.788 "Geology" "2006_2012" 1
+14.078 14.412 0.558 14.078 15.506 "Geosciences, Multidisciplinary" "2006_2012" 1
+1 1 0 1 1 "Geriatrics & Gerontology" "2006_2012" 1
+5.434 6.181 0.971 5.434 8.084 "Government & Law" "2006_2012" 1
+5.742 17.62 9.333 5.742 35.911 "Health Care Sciences & Services" "2006_2012" 1
+4.762 12.419 7.566 4.762 27.248 "Health Policy & Services" "2006_2012" 1
+7.044 12.747 4.353 7.044 21.278 "Hematology" "2006_2012" 1
+7.344 8.28 1.187 7.344 10.606 "History" "2006_2012" 1
+17.707 18.298 0.713 17.707 19.695 "Horticulture" "2006_2012" 1
+2.828 4.891 2.711 2.828 10.206 "Hospitality, Leisure, Sport & Tourism" "2006_2012" 1
+2.586 3.699 1.537 2.586 6.712 "Humanities, Multidisciplinary" "2006_2012" 1
+13.512 15.981 1.941 13.512 19.786 "Imaging Science & Photographic Technology" "2006_2012" 1
+12.866 13.184 0.554 12.866 14.27 "Immunology" "2006_2012" 1
+12.514 13.016 0.692 12.514 14.373 "Infectious Diseases" "2006_2012" 1
+6.727 23.793 12.388 6.727 48.072 "Information Science & Library Science" "2006_2012" 1
+6.916 10.48 3.246 6.916 16.842 "Instruments & Instrumentation" "2006_2012" 1
+6.497 7.462 1.024 6.497 9.47 "Integrative & Complementary Medicine" "2006_2012" 1
+4.834 6.105 1.251 4.834 8.556 "International Relations" "2006_2012" 1
+5.545 6.744 1.212 5.545 9.119 "Law" "2006_2012" 1
+4.371 5.62 1.272 4.371 8.114 "Legal Medicine" "2006_2012" 1
+14.914 15.211 0.491 14.914 16.174 "Life Sciences & Biomedicine - Other Topics" "2006_2012" 1
+12.402 12.974 0.84 12.402 14.62 "Limnology" "2006_2012" 1
+1 0 0 1 0 "Literature" "2006_2012" 1
+6.841 12.181 5.676 6.841 23.307 "Management" "2006_2012" 1
+14.141 14.226 0.276 14.141 14.767 "Marine & Freshwater Biology" "2006_2012" 1
+12.397 13.929 1.291 12.397 16.459 "Materials Science" "2006_2012" 1
+13.056 13.808 0.917 13.056 15.607 "Mathematical & Computational Biology" "2006_2012" 1
+1.89 2.52 1.658 1.89 5.77 "Mathematical Methods In Social Sciences" "2006_2012" 1
+13.066 14.676 1.522 13.066 17.658 "Mathematics" "2006_2012" 1
+7 34.58 10.236 14.518 54.643 "Mechanics" "2006_2012" 1
+8.345 18.798 8.057 8.345 34.59 "Medical Subscience" "2006_2012" 1
+3.789 8.182 4.851 3.789 17.689 "Medicine, General & Internal" "2006_2012" 1
+4.371 5.62 1.277 4.371 8.122 "Medicine, Legal" "2006_2012" 1
+7.935 9.139 1.301 7.935 11.689 "Medicine, Research & Experimental" "2006_2012" 1
+11.327 12.962 1.349 11.327 15.605 "Meteorology & Atmospheric Sciences" "2006_2012" 1
+14.489 14.57 0.299 14.489 15.156 "Microbiology" "2006_2012" 1
+9.076 19.807 7.71 9.076 34.919 "Microscopy" "2006_2012" 1
+1.89 2.52 1.872 1.89 6.188 "Mineralogy" "2006_2012" 1
+2 3.375 1.096 2 5.524 "Mining & Mineral Processing" "2006_2012" 1
+13.837 14.116 0.461 13.837 15.019 "Multidisciplinary Sciences" "2006_2012" 1
+11.812 12.31 0.744 11.812 13.769 "Mycology" "2006_2012" 1
+9.832 12.808 2.227 9.832 17.173 "Nanoscience & Nanotechnology" "2006_2012" 1
+13.934 15.872 1.558 13.934 18.925 "Neurosciences" "2006_2012" 1
+1 0 0 1 0 "Nuclear Science & Technology" "2006_2012" 1
+7.645 12.349 4.633 7.645 21.429 "Nutrition & Dietetics" "2006_2012" 1
+6.261 14.617 7.988 6.261 30.273 "Obstetrics & Gynecology" "2006_2012" 1
+12.899 13.18 0.484 12.899 14.13 "Oceanography" "2006_2012" 1
+10.571 11.63 1.097 10.571 13.78 "Oncology" "2006_2012" 1
+13.198 21.806 5.529 13.198 32.643 "Operations Research & Management Science" "2006_2012" 1
+7.221 14.658 6.976 7.221 28.331 "Optics" "2006_2012" 1
+13.001 14.003 1.021 13.001 16.005 "Ornithology" "2006_2012" 1
+2 3.375 1.146 2 5.622 "Orthopedics" "2006_2012" 1
+11.709 12.048 0.589 11.709 13.203 "Paleontology" "2006_2012" 1
+15.187 15.827 0.757 15.187 17.31 "Parasitology" "2006_2012" 1
+10.051 11.198 1.105 10.051 13.363 "Pathology" "2006_2012" 1
+5.467 11.107 6.175 5.467 23.21 "Pediatrics" "2006_2012" 1
+2.828 4.891 3.27 2.828 11.299 "Peripheral Vascular Disease" "2006_2012" 1
+11.07 11.709 0.846 11.07 13.367 "Pharmacology & Pharmacy" "2006_2012" 1
+2 3.375 1.101 2 5.533 "Philosophy" "2006_2012" 1
+14.883 15.206 0.584 14.883 16.35 "Physical Geography" "2006_2012" 1
+11.716 15.574 2.603 11.716 20.676 "Physics" "2006_2012" 1
+12.314 13.77 1.233 12.314 16.186 "Physiology" "2006_2012" 1
+6.191 7.856 1.867 6.191 11.515 "Planning & Development" "2006_2012" 1
+16.958 17.034 0.244 16.958 17.512 "Plant Sciences" "2006_2012" 1
+5.173 9.252 6.04 5.173 21.09 "Political Science" "2006_2012" 1
+3.681 6.601 2.184 3.681 10.881 "Polymer Science" "2006_2012" 1
+6.727 23.793 11.885 6.727 47.087 "Psychiatry" "2006_2012" 1
+8.814 10.735 1.446 8.814 13.568 "Psychology" "2006_2012" 1
+6.133 7.167 1.243 6.133 9.603 "Public Administration" "2006_2012" 1
+13.489 14.802 1.182 13.489 17.118 "Public, Environmental & Occupational Health" "2006_2012" 1
+2.828 4.891 3.004 2.828 10.78 "Radiology, Nuclear Medicine & Medical Imaging" "2006_2012" 1
+13.331 14.685 1.315 13.331 17.263 "Remote Sensing" "2006_2012" 1
+12.866 16.758 2.525 12.866 21.707 "Reproductive Biology" "2006_2012" 1
+7.935 9.139 1.265 7.935 11.619 "Research & Experimental Medicine" "2006_2012" 1
+5.858 12.677 6.495 5.858 25.406 "Respiratory System" "2006_2012" 1
+7.482 11.238 3.455 7.482 18.011 "Robotics" "2006_2012" 1
+13.891 14.162 0.487 13.891 15.116 "Science & Technology - Other Topics" "2006_2012" 1
+5.833 6.448 0.84 5.833 8.095 "Social Sciences" "2006_2012" 1
+7.52 8.351 0.872 7.52 10.059 "Sociology" "2006_2012" 1
+11.685 12.348 0.898 11.685 14.108 "Soil Science" "2006_2012" 1
+2.828 4.891 3.172 2.828 11.108 "Spectroscopy" "2006_2012" 1
+3.78 5.605 2.446 3.78 10.399 "Sport Sciences" "2006_2012" 1
+11.193 13.34 1.762 11.193 16.793 "Statistics & Probability" "2006_2012" 1
+1 0 0 1 0 "Substance Abuse" "2006_2012" 1
+5.657 10.706 5.847 5.657 22.165 "Surgery" "2006_2012" 1
+9.435 11.409 1.407 9.435 14.167 "Telecommunications" "2006_2012" 1
+3.464 6.072 1.854 3.464 9.706 "Thermodynamics" "2006_2012" 1
+13.839 15.093 1.181 13.839 17.407 "Toxicology" "2006_2012" 1
+4.762 12.419 6.798 4.762 25.744 "Transplantation" "2006_2012" 1
+3 7.184 2.391 3 11.87 "Transportation" "2006_2012" 1
+11.856 12.695 0.967 11.856 14.591 "Tropical Medicine" "2006_2012" 1
+7.578 8.088 0.7 7.578 9.46 "Urban Studies" "2006_2012" 1
+12.911 13.737 0.977 12.911 15.651 "Veterinary Sciences" "2006_2012" 1
+10.988 11.282 0.494 10.988 12.249 "Virology" "2006_2012" 1
+13.587 14.449 1.112 13.587 16.629 "Water Resources" "2006_2012" 1
+2 3.375 1.143 2 5.615 "Women's Studies" "2006_2012" 1
+13.87 14.019 0.293 13.87 14.594 "Zoology" "2006_2012" 1
+1 1 0 1 1 "Acoustics" "2006_2012" 2
+11.809 11.877 0.397 11.809 12.655 "Agriculture" "2006_2012" 2
+12.804 12.94 0.545 12.804 14.009 "Agronomy" "2006_2012" 2
+9.966 22.667 23.832 9.966 69.377 "Allergy" "2006_2012" 2
+8.32 9.455 1.618 8.32 12.626 "Anatomy & Morphology" "2006_2012" 2
+8.512 8.765 0.857 8.512 10.445 "Anthropology" "2006_2012" 2
+8.503 10.742 1.518 8.503 13.718 "Archaeology" "2006_2012" 2
+2.667 6 1.856 2.667 9.637 "Architecture" "2006_2012" 2
+1.6 2 0.743 1.6 3.456 "Area Studies" "2006_2012" 2
+2.667 3.143 0.63 2.667 4.377 "Astronomy & Astrophysics" "2006_2012" 2
+7.84 8.953 1.872 7.84 12.623 "Automation & Control Systems" "2006_2012" 2
+9.018 9.611 1.28 9.018 12.119 "Behavioral Sciences" "2006_2012" 2
+8.033 8.178 0.613 8.033 9.38 "Biochemical Research Methods" "2006_2012" 2
+12.242 12.281 0.282 12.242 12.833 "Biochemistry & Molecular Biology" "2006_2012" 2
+9.555 9.581 0.239 9.555 10.049 "Biodiversity Conservation" "2006_2012" 2
+10.099 10.173 0.394 10.099 10.944 "Biology" "2006_2012" 2
+3.522 5.143 3.062 3.522 11.144 "Biomedical Social Sciences" "2006_2012" 2
+8.972 9.469 1.162 8.972 11.747 "Biophysics" "2006_2012" 2
+8.946 8.975 0.279 8.946 9.521 "Biotechnology & Applied Microbiology" "2006_2012" 2
+4.028 4.089 0.376 4.028 4.826 "Business" "2006_2012" 2
+2.571 3.75 1.577 2.571 6.841 "Cardiology" "2006_2012" 2
+8.906 9.05 0.6 8.906 10.227 "Cell Biology" "2006_2012" 2
+3 3 0.512 3 4.003 "Cell & Tissue Engineering" "2006_2012" 2
+6.746 6.795 0.358 6.746 7.496 "Chemistry" "2006_2012" 2
+2 2 0.483 2 2.946 "Clinical Neurology" "2006_2012" 2
+2.667 6 1.856 2.667 9.637 "Communication" "2006_2012" 2
+11.209 11.406 0.618 11.209 12.618 "Computer Science" "2006_2012" 2
+3 5 2.967 3 10.815 "Construction & Building Technology" "2006_2012" 2
+6.914 9.625 2.327 6.914 14.185 "Crystallography" "2006_2012" 2
+2 2 0.478 2 2.937 "Cultural Studies" "2006_2012" 2
+1.28 1.333 0.349 1.28 2.017 "Demography" "2006_2012" 2
+5.488 8.077 4.593 5.488 17.079 "Dentistry, Oral Surgery & Medicine" "2006_2012" 2
+2.273 3.333 2.24 2.273 7.723 "Dermatology" "2006_2012" 2
+9.117 9.611 0.976 9.117 11.524 "Developmental Biology" "2006_2012" 2
+9.658 9.666 0.126 9.658 9.913 "Ecology" "2006_2012" 2
+3.651 3.704 0.4 3.651 4.488 "Economics" "2006_2012" 2
+3.903 5.5 2.113 3.903 9.641 "Education" "2006_2012" 2
+4.333 6 2.711 4.333 11.314 "Electrochemistry" "2006_2012" 2
+4.976 5.8 1.857 4.976 9.441 "Endocrinology & Metabolism" "2006_2012" 2
+5.372 5.66 0.851 5.372 7.327 "Energy & Fuels" "2006_2012" 2
+9.748 9.934 0.673 9.748 11.253 "Engineering" "2006_2012" 2
+9.949 10.042 0.4 9.949 10.826 "Entomology" "2006_2012" 2
+4.503 4.525 0.252 4.503 5.02 "Environmental Studies" "2006_2012" 2
+1 1 0 1 1 "Ergonomics" "2006_2012" 2
+3.189 3.9 0.822 3.189 5.512 "Ethics" "2006_2012" 2
+1 1 0 1 1 "Ethnic Studies" "2006_2012" 2
+13.215 13.267 0.276 13.215 13.808 "Evolutionary Biology" "2006_2012" 2
+10.74 10.882 0.538 10.74 11.937 "Fisheries" "2006_2012" 2
+1 1 0 1 1 "Folklore" "2006_2012" 2
+7.754 7.929 0.722 7.754 9.344 "Food Science & Technology" "2006_2012" 2
+8.452 8.494 0.295 8.452 9.072 "Forestry" "2006_2012" 2
+9.195 10.26 1.572 9.195 13.34 "Gastroenterology & Hepatology" "2006_2012" 2
+3.571 10 3.074 3.975 16.025 "General & Internal Medicine" "2006_2012" 2
+14.354 14.406 0.297 14.354 14.988 "Genetics & Heredity" "2006_2012" 2
+4.571 9.333 7.409 4.571 23.854 "Geochemistry & Geophysics" "2006_2012" 2
+9.043 9.111 0.426 9.043 9.946 "Geography" "2006_2012" 2
+9.209 9.288 0.439 9.209 10.149 "Geology" "2006_2012" 2
+9.093 9.182 0.488 9.093 10.14 "Geosciences, Multidisciplinary" "2006_2012" 2
+1 1 0 1 1 "Geriatrics & Gerontology" "2006_2012" 2
+4.153 4.577 0.813 4.153 6.17 "Government & Law" "2006_2012" 2
+5.444 21 6.793 7.686 34.314 "Health Care Sciences & Services" "2006_2012" 2
+4.5 15 4.735 5.72 24.28 "Health Policy & Services" "2006_2012" 2
+5.786 8.053 3.125 5.786 14.178 "Hematology" "2006_2012" 2
+4.934 5.347 1.044 4.934 7.393 "History" "2006_2012" 2
+11.889 12.163 0.879 11.889 13.885 "Horticulture" "2006_2012" 2
+2.667 6 1.807 2.667 9.542 "Hospitality, Leisure, Sport & Tourism" "2006_2012" 2
+2.273 3.333 1.786 2.273 6.834 "Humanities, Multidisciplinary" "2006_2012" 2
+9.815 10.754 1.637 9.815 13.963 "Imaging Science & Photographic Technology" "2006_2012" 2
+8.281 8.353 0.394 8.281 9.126 "Immunology" "2006_2012" 2
+8.131 8.225 0.384 8.131 8.978 "Infectious Diseases" "2006_2012" 2
+6.4 28 8.861 10.633 45.367 "Information Science & Library Science" "2006_2012" 2
+6.081 9.545 3.264 6.081 15.943 "Instruments & Instrumentation" "2006_2012" 2
+5.083 5.777 1.187 5.083 8.104 "Integrative & Complementary Medicine" "2006_2012" 2
+3.789 4.312 1.101 3.789 6.47 "International Relations" "2006_2012" 2
+4.214 4.808 1.135 4.214 7.032 "Law" "2006_2012" 2
+3.522 4.135 1.036 3.522 6.165 "Legal Medicine" "2006_2012" 2
+10.099 10.173 0.41 10.099 10.977 "Life Sciences & Biomedicine - Other Topics" "2006_2012" 2
+7.393 7.529 0.684 7.393 8.87 "Limnology" "2006_2012" 2
+1 1 0 1 1 "Literature" "2006_2012" 2
+4.57 5.7 2.861 4.57 11.308 "Management" "2006_2012" 2
+9.374 9.398 0.246 9.374 9.881 "Marine & Freshwater Biology" "2006_2012" 2
+10.047 11.514 1.735 10.047 14.915 "Materials Science" "2006_2012" 2
+8.392 8.618 0.844 8.392 10.273 "Mathematical & Computational Biology" "2006_2012" 2
+1.8 3 0.885 1.8 4.734 "Mathematical Methods In Social Sciences" "2006_2012" 2
+9.256 9.788 0.989 9.256 11.726 "Mathematics" "2006_2012" 2
+7 7 6.601 7 19.937 "Mechanics" "2006_2012" 2
+6.452 9.048 5.185 6.452 19.21 "Medical Subscience" "2006_2012" 2
+3.571 10 3.099 3.926 16.074 "Medicine, General & Internal" "2006_2012" 2
+3.522 4.135 1.124 3.522 6.338 "Medicine, Legal" "2006_2012" 2
+6.387 6.945 0.819 6.387 8.55 "Medicine, Research & Experimental" "2006_2012" 2
+8.336 9.05 1.159 8.336 11.322 "Meteorology & Atmospheric Sciences" "2006_2012" 2
+8.43 8.446 0.233 8.43 8.903 "Microbiology" "2006_2012" 2
+8.167 18.2 9.743 8.167 37.297 "Microscopy" "2006_2012" 2
+1.8 3 0.895 1.8 4.755 "Mineralogy" "2006_2012" 2
+2 2 0.485 2 2.951 "Mining & Mineral Processing" "2006_2012" 2
+9.099 9.167 0.376 9.099 9.904 "Multidisciplinary Sciences" "2006_2012" 2
+7.108 7.191 0.449 7.108 8.071 "Mycology" "2006_2012" 2
+7.51 9.429 2.205 7.51 13.751 "Nanoscience & Nanotechnology" "2006_2012" 2
+10.36 11.261 1.4 10.36 14.006 "Neurosciences" "2006_2012" 2
+1 1 0 1 1 "Nuclear Science & Technology" "2006_2012" 2
+5.538 6.9 2.001 5.538 10.822 "Nutrition & Dietetics" "2006_2012" 2
+5.556 11.25 8.764 5.556 28.428 "Obstetrics & Gynecology" "2006_2012" 2
+8.402 8.47 0.479 8.402 9.408 "Oceanography" "2006_2012" 2
+7.995 8.571 0.979 7.995 10.489 "Oncology" "2006_2012" 2
+9.89 13.019 3.783 9.89 20.433 "Operations Research & Management Science" "2006_2012" 2
+5.818 8.571 5.372 5.818 19.1 "Optics" "2006_2012" 2
+10.037 10.37 0.629 10.037 11.602 "Ornithology" "2006_2012" 2
+2 2 0.48 2 2.94 "Orthopedics" "2006_2012" 2
+7.552 7.639 0.502 7.552 8.622 "Paleontology" "2006_2012" 2
+10.201 10.401 0.6 10.201 11.576 "Parasitology" "2006_2012" 2
+7.562 8.179 0.947 7.562 10.036 "Pathology" "2006_2012" 2
+4.235 6 6.719 4.235 19.169 "Pediatrics" "2006_2012" 2
+2.667 6 1.862 2.667 9.65 "Peripheral Vascular Disease" "2006_2012" 2
+6.215 6.313 0.54 6.215 7.371 "Pharmacology & Pharmacy" "2006_2012" 2
+2 2 0.459 2 2.9 "Philosophy" "2006_2012" 2
+9.539 9.624 0.48 9.539 10.565 "Physical Geography" "2006_2012" 2
+10.293 13.875 2.217 10.293 18.22 "Physics" "2006_2012" 2
+9.408 10.143 1.077 9.408 12.255 "Physiology" "2006_2012" 2
+4.318 4.67 0.96 4.318 6.552 "Planning & Development" "2006_2012" 2
+11.567 11.595 0.243 11.567 12.071 "Plant Sciences" "2006_2012" 2
+4.545 7.5 3.142 4.545 13.659 "Political Science" "2006_2012" 2
+2.793 3.6 1.836 2.793 7.198 "Polymer Science" "2006_2012" 2
+6.4 28 9.153 10.06 45.94 "Psychiatry" "2006_2012" 2
+7.42 9.358 1.598 7.42 12.49 "Psychology" "2006_2012" 2
+4.258 4.475 0.66 4.258 5.77 "Public Administration" "2006_2012" 2
+8.998 9.36 0.935 8.998 11.193 "Public, Environmental & Occupational Health" "2006_2012" 2
+2.667 6 1.784 2.667 9.497 "Radiology, Nuclear Medicine & Medical Imaging" "2006_2012" 2
+9.236 9.826 1.357 9.236 12.487 "Remote Sensing" "2006_2012" 2
+10.314 12.372 1.755 10.314 15.813 "Reproductive Biology" "2006_2012" 2
+6.387 6.945 0.796 6.387 8.505 "Research & Experimental Medicine" "2006_2012" 2
+4.84 7.857 6.33 4.84 20.265 "Respiratory System" "2006_2012" 2
+5.841 7.317 2.417 5.841 12.053 "Robotics" "2006_2012" 2
+9.139 9.206 0.366 9.139 9.923 "Science & Technology - Other Topics" "2006_2012" 2
+4.355 4.676 0.841 4.355 6.325 "Social Sciences" "2006_2012" 2
+5.22 5.471 0.691 5.22 6.825 "Sociology" "2006_2012" 2
+7.514 7.719 0.677 7.514 9.046 "Soil Science" "2006_2012" 2
+2.667 6 1.805 2.667 9.538 "Spectroscopy" "2006_2012" 2
+3.6 7.5 3.131 3.6 13.637 "Sport Sciences" "2006_2012" 2
+7.792 8.535 1.466 7.792 11.407 "Statistics & Probability" "2006_2012" 2
+1 1 0 1 1 "Substance Abuse" "2006_2012" 2
+5.333 14 6.32 5.333 26.387 "Surgery" "2006_2012" 2
+7.624 9.403 1.726 7.624 12.786 "Telecommunications" "2006_2012" 2
+3 5 2.824 3 10.536 "Thermodynamics" "2006_2012" 2
+9.824 10.343 0.835 9.824 11.979 "Toxicology" "2006_2012" 2
+4.5 15 4.681 5.825 24.175 "Transplantation" "2006_2012" 2
+3 3 0.494 3 3.969 "Transportation" "2006_2012" 2
+7.552 7.848 0.956 7.552 9.722 "Tropical Medicine" "2006_2012" 2
+5.469 5.673 0.636 5.469 6.92 "Urban Studies" "2006_2012" 2
+8.317 8.547 0.67 8.317 9.861 "Veterinary Sciences" "2006_2012" 2
+7.407 7.461 0.317 7.407 8.083 "Virology" "2006_2012" 2
+8.745 8.977 0.768 8.745 10.482 "Water Resources" "2006_2012" 2
+2 2 0.473 2 2.927 "Women's Studies" "2006_2012" 2
+9.893 9.935 0.267 9.893 10.459 "Zoology" "2006_2012" 2
