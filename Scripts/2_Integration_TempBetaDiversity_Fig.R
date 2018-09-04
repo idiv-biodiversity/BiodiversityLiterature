@@ -41,7 +41,7 @@ bb<-ggplot(data=tempbeta_divv,aes(x=TimeWindow,y=Mean,group=BetaDiv_Components,c
   geom_point(shape=20,size=2) +
   geom_errorbar(data=tempbeta_divv,aes(ymin=Lower,ymax=Upper),width=0.1)+
   geom_line(size=0.5)+
-  scale_colour_manual(name="",labels=c("B_den"="Loss","C_den"= "Gain","D"= expression(paste("Total ",beta))),
+  scale_colour_manual(name="",labels=c("B_den"="Losses","C_den"= "Gains","D"= expression(paste("Total ",beta))),
                       values = c("D"="#67a9cf","C_den" = "#ef8a62","B_den" ="gray40"))+
   labs(x = "", y = expression(paste("Temporal ",beta," concept diversity")))+
   facet_wrap(.~TBI)

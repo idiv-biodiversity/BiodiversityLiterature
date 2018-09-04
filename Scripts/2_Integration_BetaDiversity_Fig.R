@@ -66,12 +66,4 @@ png(filename="Figures/Integr_BetaDiv_orders.png",
 
 BetaDiv
 
-tempbeta_divv$TimeWindow<-as.character(tempbeta_divv$TimeWindow)
-tempbeta_divv$TimeWindow<-ifelse(tempbeta_divv$TimeWindow=="Time1_2"," 1990/1995 -\n1996/2000",tempbeta_divv$TimeWindow)
-tempbeta_divv$TimeWindow<-ifelse(tempbeta_divv$TimeWindow=="Time2_3"," 1996/2000 -\n2001/2005",tempbeta_divv$TimeWindow)
-tempbeta_divv$TimeWindow<-ifelse(tempbeta_divv$TimeWindow=="Time3_4"," 2001/2005 -\n2006/2012",tempbeta_divv$TimeWindow)
-tempbeta_divv$TimeWindow<-as.factor(tempbeta_divv$TimeWindow)
-
-tempbeta_divv$TimeWindow <- factor(tempbeta_divv$TimeWindow, levels = c(" 1990/1995 -\n1996/2000"," 1996/2000 -\n2001/2005"," 2001/2005 -\n2006/2012"))
-
 dev.off()
