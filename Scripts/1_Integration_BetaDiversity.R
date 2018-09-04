@@ -142,6 +142,7 @@ tw4.pa.beta.out<-data.frame(tw4.pa.beta.out)
 tw4.pa.beta.out$Beta_Part<-c("JTU","JNE","JAC")
 tw4.pa.beta.out$TimeWindow<-tw4
 
-###
+## combmine results and write file
+
 betadiv_all<-rbind.data.frame(tw1.abund.beta.out,tw1.pa.beta.out,tw2.abund.beta.out,tw2.pa.beta.out,tw3.abund.beta.out,tw3.pa.beta.out,tw4.abund.beta.out,tw4.pa.beta.out)
 write.table(betadiv_all,"Cleaned_Data/Betadiv_RAstopic.csv",sep=",",row.names=F)
