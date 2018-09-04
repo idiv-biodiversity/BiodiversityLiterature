@@ -1,3 +1,19 @@
+# I have placed this function here to facilitate analyses; I have copied it without alteration from Pierre Legendre's 
+# website: http://adn.biol.umontreal.ca/~numericalecology/Rcode/ and has
+# been used in the following publications:
+# Legendre, P. A temporal beta-diversity index to identify exceptional sites in space-time surveys.
+# (Submitted manuscript).
+# Legendre, P. & M. De Cáceres. 2013. Beta diversity as the variance of community data:
+# dissimilarity coefficients and partitioning. Ecology Letters 16: 951-963.
+# Legendre, P. & E. D. Gallagher. 2001. Ecologically meaningful transformations for ordination of
+# species data. Oecologia 129: 271–280.
+# Legendre, P. & L. Legendre. 2012. Numerical Ecology. 3rd English edition. Elsevier Science
+# BV, Amsterdam.
+# van den Brink, P. J. & C. J. F. ter Braak. 1999. Principal response curves: analysis of time-
+# dependent multivariate responses of biological community to stress. Environmental Toxicology
+# and Chemistry 18: 138–148.
+
+
 TBI <- function(mat1,mat2,method="%difference", pa.tr=FALSE, nperm=99, BCD=TRUE, replace=FALSE, test.BC=TRUE, test.t.perm=FALSE, save.BC=FALSE, seed.=NULL, clock=FALSE)
 # Temporal beta diversity analysis. 
 # TBI: temporal beta diversity index.

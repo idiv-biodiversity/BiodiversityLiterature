@@ -142,5 +142,5 @@ tw4_qq<-rbind.data.frame(tw4_q0,tw4_q1,tw4_q2)
 
 alpha_div<-rbind.data.frame(tw1_qq,tw2_qq,tw3_qq,tw4_qq)
 
-write.table(alpha_div,"Cleaned_Data/integration_AlphaDiv_orders.csv",row.names=F)
+write.csv(alpha_div,"Cleaned_Data/integration_AlphaDiv_orders.csv",row.names=F)
 

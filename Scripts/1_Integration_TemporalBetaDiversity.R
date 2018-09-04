@@ -197,4 +197,4 @@ tbi_ruz$TBI<-"Ruzicka"
 
 tbi_all<-rbind.data.frame(tbi_jacc,tbi_ruz)
 
-write.table(tbi_all, "Cleaned_Data/TemporalBetaDiv_RAstopic.csv",row.names=F)
+write.csv(tbi_all, "Cleaned_Data/TemporalBetaDiv_RAstopic.csv",row.names=F)
