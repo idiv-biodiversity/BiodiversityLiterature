@@ -212,37 +212,37 @@ coss<-merge(coss, cos_w,by.y=c("Most_Probable_Topic"))
 # Make figure ###
 #################
 
-RS_bray<-ggplot(data=coss, aes(x=TimeWindow,y=RaoStirling))+
-  geom_line(data=coss, aes(x=TimeWindow,y=RaoStirling,group=Most_Probable_Topic),colour="gray80")+
-  geom_line(data=coss, aes(x=TimeWindow,y=RaoStirling,group=Most_Probable_Topic,colour=Quantile))+
-  scale_colour_manual(name="",labels=c("0"="Decreasing","1"="Stable","2"="Increasing"),
-                      values=c("1"="transparent","0"="#67a9cf","2"="#ef8a62"))+
-  
-  geom_point(data=cos_S, aes(x=TimeWindow, y=RaoStirling, group=TimeWindow), size=0.5, colour="gray30")+
-  geom_errorbar(data=cos_S,aes(ymin=l95,ymax=h95, group=TimeWindow),width = 0.05, colour="gray30")+
-  
-  labs(x="",y="Interdisciplinarity (Rao-Stirling)")+
-  scale_x_discrete(name="",expand=c(0,0.15))+
-  scale_y_continuous(limits = c(0,0.15),breaks=c(0,0.05,0.10,0.15))+
-  theme_bw()+theme(axis.title.x=element_text(colour="black",face="bold",size=6),
-                   axis.title.y=element_text(colour="black",face="bold",size=6),
-                   axis.text.x=element_text(colour=c("black"),face="bold",size=6),
-                   axis.text.y=element_text(colour=c("black"),face="bold",size=6),
-                   legend.key=element_rect(fill="transparent"),
-                   legend.text=element_text(size=6),
-                   legend.position="none",
-                   panel.background =element_rect(fill="transparent",colour="black"),panel.grid.minor=element_blank())
-
-
-ggsave(filename = file.path("Figures", 
-                            "Interdisciplinarity_RS_bray.png"), 
-       width    = 10, 
-       height   = 10, 
-       units    = "cm")
-
-RS_bray
-
-dev.off()
+# RS_bray<-ggplot(data=coss, aes(x=TimeWindow,y=RaoStirling))+
+#   geom_line(data=coss, aes(x=TimeWindow,y=RaoStirling,group=Most_Probable_Topic),colour="gray80")+
+#   geom_line(data=coss, aes(x=TimeWindow,y=RaoStirling,group=Most_Probable_Topic,colour=Quantile))+
+#   scale_colour_manual(name="",labels=c("0"="Decreasing","1"="Stable","2"="Increasing"),
+#                       values=c("1"="transparent","0"="#67a9cf","2"="#ef8a62"))+
+#   
+#   geom_point(data=cos_S, aes(x=TimeWindow, y=RaoStirling, group=TimeWindow), size=0.5, colour="gray30")+
+#   geom_errorbar(data=cos_S,aes(ymin=l95,ymax=h95, group=TimeWindow),width = 0.05, colour="gray30")+
+#   
+#   labs(x="",y="Interdisciplinarity (Rao-Stirling)")+
+#   scale_x_discrete(name="",expand=c(0,0.15))+
+#   scale_y_continuous(limits = c(0,0.15),breaks=c(0,0.05,0.10,0.15))+
+#   theme_bw()+theme(axis.title.x=element_text(colour="black",face="bold",size=6),
+#                    axis.title.y=element_text(colour="black",face="bold",size=6),
+#                    axis.text.x=element_text(colour=c("black"),face="bold",size=6),
+#                    axis.text.y=element_text(colour=c("black"),face="bold",size=6),
+#                    legend.key=element_rect(fill="transparent"),
+#                    legend.text=element_text(size=6),
+#                    legend.position="none",
+#                    panel.background =element_rect(fill="transparent",colour="black"),panel.grid.minor=element_blank())
+# 
+# 
+# ggsave(filename = file.path("Figures", 
+#                             "Interdisciplinarity_RS_bray.png"), 
+#        width    = 10, 
+#        height   = 10, 
+#        units    = "cm")
+# 
+# RS_bray
+# 
+# dev.off()
 
 #############
 # data out  #
@@ -352,7 +352,7 @@ RS_cos<-ggplot(data=coss, aes(x=TimeWindow,y=RaoStirling))+
 
 
 ggsave(filename = file.path("Figures", 
-                            "Interdisciplinarity_RS_cos_june2018.png"), 
+                            "Interdisciplinarity_RS_cos.png"), 
        width    = 10, 
        height   = 10, 
        units    = "cm")
