@@ -37,7 +37,7 @@ levels(beta_div$Index)[levels(beta_div$Index)=="Ruzicka_abund"]   <- "Abundance 
 bb<-ggplot(data=beta_div,aes(x=TimeWindow,y=Value,group=BetaDiv_Components,colour=BetaDiv_Components))+
   geom_point(shape=20,size=2) +
   geom_line(size=0.5)+
-  scale_colour_manual(name="",labels=c("Repl"="Repl.","RichDif"= "Nest.","BDtotal"= expression(paste("Total ",beta))),
+  scale_colour_manual(name="",labels=c("Repl"="Repl","RichDif"= "RichDif","BDtotal"= expression(paste("Total ",beta))),
                       values = c("BDtotal"="#67a9cf","RichDif" = "#ef8a62","Repl" ="gray40"))+
   labs(x = "", y = expression(paste(beta," concept diversity")))+
   facet_wrap(.~Index)
