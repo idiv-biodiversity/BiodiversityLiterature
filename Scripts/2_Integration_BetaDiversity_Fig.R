@@ -29,8 +29,8 @@ beta_div$BetaDiv_Components<-as.factor(beta_div$BetaDiv_Components)
 beta_div$BetaDiv_Components <- factor(beta_div$BetaDiv_Components, levels = c("BDtotal","Repl","RichDif"))
 
 beta_div$Index<-as.factor(beta_div$Index)
-levels(beta_div$Index)[levels(beta_div$Index)=="Jaccard_pa"] <- "Pres./Abs. (Jaccard)"
-levels(beta_div$Index)[levels(beta_div$Index)=="Ruzicka_abund"]   <- "Abundance (Ruzicka)"
+levels(beta_div$Index)[levels(beta_div$Index)=="Jaccard_pa"] <- "a)          Pres./Abs. (Jaccard)"
+levels(beta_div$Index)[levels(beta_div$Index)=="Ruzicka_abund"]   <- "b)          Abundance (Ruzicka)"
 
 # figure
 
@@ -53,7 +53,7 @@ BetaDiv<-bb+ theme_bw()+theme(axis.title.x=element_blank(),
                                legend.text.align = 0.5,
                                legend.position="top",legend.direction="horizontal",
                                strip.background = element_rect(fill="transparent"),
-                               strip.text = element_text(colour="black",face="bold",size=7),
+                               strip.text = element_text(colour="black",face="bold",size=7, hjust=0),
                                panel.background =element_rect(fill="transparent",colour="black"),panel.grid.minor=element_blank())
 
 png(filename="Figures/Integr_BetaDiv_orders.png", 

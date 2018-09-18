@@ -32,8 +32,8 @@ tempbeta_divv$TimeWindow <- factor(tempbeta_divv$TimeWindow, levels = c(" 1990/1
 tempbeta_divv$BetaDiv_Components<-factor(tempbeta_divv$BetaDiv_Components,levels=c("D","C_den","B_den"))
 
 tempbeta_divv$TBI<-as.factor(tempbeta_divv$TBI)
-levels(tempbeta_divv$TBI)[levels(tempbeta_divv$TBI)=="Jaccard"] <- "Pres./Abs. (Jaccard)"
-levels(tempbeta_divv$TBI)[levels(tempbeta_divv$TBI)=="Ruzicka"]   <- "Abundance (Ruzicka)"
+levels(tempbeta_divv$TBI)[levels(tempbeta_divv$TBI)=="Jaccard"] <- "a)          Pres./Abs. (Jaccard)"
+levels(tempbeta_divv$TBI)[levels(tempbeta_divv$TBI)=="Ruzicka"]   <- "b)          Abundance (Ruzicka)"
 
 # figure
 
@@ -41,7 +41,7 @@ bb<-ggplot(data=tempbeta_divv,aes(x=TimeWindow,y=Mean,group=BetaDiv_Components,c
   geom_point(shape=20,size=2) +
   geom_errorbar(data=tempbeta_divv,aes(ymin=Lower,ymax=Upper),width=0.1)+
   geom_line(size=0.5)+
-  scale_colour_manual(name="",labels=c("B_den"="Losses","C_den"= "Gains","D"= expression(paste("Total ",beta))),
+  scale_colour_manual(name="",labels=c("B_den"="Losses","C_den"= "Gains","D"= expression(paste("Temporal ",beta))),
                       values = c("D"="#67a9cf","C_den" = "#ef8a62","B_den" ="gray40"))+
   labs(x = "", y = expression(paste("Temporal ",beta," concept diversity")))+
   facet_wrap(.~TBI)
@@ -57,7 +57,7 @@ TempBetaDiv<-bb+ theme_bw()+theme(axis.title.x=element_blank(),
                               legend.text.align = 0.5,
                               legend.position="top",legend.direction="horizontal",
                               strip.background = element_rect(fill="transparent"),
-                              strip.text = element_text(colour="black",face="bold",size=7),
+                              strip.text = element_text(colour="black",face="bold",size=7,hjust=0),
                               panel.background =element_rect(fill="transparent",colour="black"),panel.grid.minor=element_blank())
 
 
