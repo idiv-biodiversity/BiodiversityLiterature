@@ -117,11 +117,13 @@ RS_jac<-ggplot(data=coss, aes(x=TimeWindow,y=RaoStirling))+
                    legend.position="none",
                    panel.background =element_rect(fill="transparent",colour="black"),panel.grid.minor=element_blank())
 
-ggsave(filename = file.path("Figures", 
-                            "Interdisciplinarity_RS_jaccard.png"), 
-       width    = 10, 
-       height   = 10, 
-       units    = "cm")
+png(filename="Figures/Interdisciplinarity_RS_jaccard.png", 
+    type="cairo",
+    units="in", 
+    width=4, 
+    height=4,  
+    pointsize=2, 
+    res=1000)
 
 RS_jac
 
@@ -133,80 +135,80 @@ dev.off()
 
 coss_jacc<-select(coss, Topic=Most_Probable_Topic, TimeWindow, Interdisciplinarity=RaoStirling, Quantile)
 
-###############
-# Bray-Curtis #
-###############
-
-top_time<-unique(select(sd_bray, Most_Probable_Topic, TimeWindow))
-top_time$PA<-1
-
-topp<-dcast(top_time, Most_Probable_Topic~TimeWindow, value.var="PA",length)
-topp<-melt(topp, id.vars="Most_Probable_Topic", measure.vars=2:5,variable.name="TimeWindow",value.name="Place_Holder")
-topp<-select(topp,-Place_Holder)
-
-##########
-
-coss<-merge(topp,sd_bray ,by.y=c("Most_Probable_Topic","TimeWindow"),all.x=TRUE)
-
-coss$RaoStirling<-ifelse(is.na(coss$RaoStirling)==TRUE, 0,coss$RaoStirling)
-
-coss$TimeWindow<-as.character(coss$TimeWindow)
-coss$TimeWindow<-ifelse(coss$TimeWindow=="1990_1995", "1990 - 1995",coss$TimeWindow)
-coss$TimeWindow<-ifelse(coss$TimeWindow=="1996_2000", "1996 - 2000",coss$TimeWindow)
-coss$TimeWindow<-ifelse(coss$TimeWindow=="2001_2005", "2001 - 2005",coss$TimeWindow)
-coss$TimeWindow<-ifelse(coss$TimeWindow=="2006_2012", "2006 - 2012",coss$TimeWindow)
-
-###############################
-# calculate bootstrapped 95%  #
-###############################
-
-outt<-list()
-
-for(i in 1:4){
-  test<-subset(coss, coss$TimeWindow==(unique(coss$TimeWindow))[i])  
-  
-  Medianboot <- boot(test$RaoStirling,
-                     function(x,i) median(x[i]),
-                     R=1000)
-  
-  a<-boot.ci(Medianboot,conf = 0.95,type = c("norm", "basic" ,"perc", "bca"))
-  aa<-cbind.data.frame(a$t0, a$percent[4],a$percent[5])
-  aa<-dplyr::select(aa,Median="a$t0",l95="a$percent[4]",h95="a$percent[5]")
-  aa$TimeWindow<-as.character(unique(test$TimeWindow))
-  
-  outt[[i]]<-rbind.data.frame(aa)
-}
-
-cos_S<-do.call(rbind.data.frame, outt)
-cos_S<-select(cos_S, TimeWindow,RaoStirling=Median,l95,h95)
-
-cos_summ_bray<-cos_S
-
-###########################################################
-# Classify topic into groups of interdisciplinarity       #
-# Groups: increasing (upper 90%), stable, and             #
-#         decreasing (lower 10 %)                         #
-###########################################################
-
-cos_w<-dcast(coss, Most_Probable_Topic~TimeWindow, value.var="RaoStirling",mean)
-
-cos_w$'2006 - 2012'<-cos_w$'2006 - 2012'+0.00000001
-cos_w$'1996 - 2000'<-cos_w$'1996 - 2000'+0.00000001
-cos_w$'2001 - 2005'<-cos_w$'2001 - 2005'+0.00000001
-cos_w$'1990 - 1995'<-cos_w$'1990 - 1995'+0.00000001
-
-cos_w$RelativeChange<- (cos_w[,5]-cos_w[,2])/cos_w[,5]
-cos_w<-arrange(cos_w, -RelativeChange)
-
-cos_w<-cos_w %>%
-  mutate(Quantile = findInterval(RelativeChange, 
-                                 quantile(RelativeChange, probs=c(0.10,0.90))))
-
-cos_w$Quantile<-as.factor(cos_w$Quantile)
-
-cos_w<-select(cos_w, Most_Probable_Topic, Quantile)
-
-coss<-merge(coss, cos_w,by.y=c("Most_Probable_Topic"))
+# ###############
+# # Bray-Curtis #
+# ###############
+# 
+# top_time<-unique(select(sd_bray, Most_Probable_Topic, TimeWindow))
+# top_time$PA<-1
+# 
+# topp<-dcast(top_time, Most_Probable_Topic~TimeWindow, value.var="PA",length)
+# topp<-melt(topp, id.vars="Most_Probable_Topic", measure.vars=2:5,variable.name="TimeWindow",value.name="Place_Holder")
+# topp<-select(topp,-Place_Holder)
+# 
+# ##########
+# 
+# coss<-merge(topp,sd_bray ,by.y=c("Most_Probable_Topic","TimeWindow"),all.x=TRUE)
+# 
+# coss$RaoStirling<-ifelse(is.na(coss$RaoStirling)==TRUE, 0,coss$RaoStirling)
+# 
+# coss$TimeWindow<-as.character(coss$TimeWindow)
+# coss$TimeWindow<-ifelse(coss$TimeWindow=="1990_1995", "1990 - 1995",coss$TimeWindow)
+# coss$TimeWindow<-ifelse(coss$TimeWindow=="1996_2000", "1996 - 2000",coss$TimeWindow)
+# coss$TimeWindow<-ifelse(coss$TimeWindow=="2001_2005", "2001 - 2005",coss$TimeWindow)
+# coss$TimeWindow<-ifelse(coss$TimeWindow=="2006_2012", "2006 - 2012",coss$TimeWindow)
+# 
+# ###############################
+# # calculate bootstrapped 95%  #
+# ###############################
+# 
+# outt<-list()
+# 
+# for(i in 1:4){
+#   test<-subset(coss, coss$TimeWindow==(unique(coss$TimeWindow))[i])  
+#   
+#   Medianboot <- boot(test$RaoStirling,
+#                      function(x,i) median(x[i]),
+#                      R=1000)
+#   
+#   a<-boot.ci(Medianboot,conf = 0.95,type = c("norm", "basic" ,"perc", "bca"))
+#   aa<-cbind.data.frame(a$t0, a$percent[4],a$percent[5])
+#   aa<-dplyr::select(aa,Median="a$t0",l95="a$percent[4]",h95="a$percent[5]")
+#   aa$TimeWindow<-as.character(unique(test$TimeWindow))
+#   
+#   outt[[i]]<-rbind.data.frame(aa)
+# }
+# 
+# cos_S<-do.call(rbind.data.frame, outt)
+# cos_S<-select(cos_S, TimeWindow,RaoStirling=Median,l95,h95)
+# 
+# cos_summ_bray<-cos_S
+# 
+# ###########################################################
+# # Classify topic into groups of interdisciplinarity       #
+# # Groups: increasing (upper 90%), stable, and             #
+# #         decreasing (lower 10 %)                         #
+# ###########################################################
+# 
+# cos_w<-dcast(coss, Most_Probable_Topic~TimeWindow, value.var="RaoStirling",mean)
+# 
+# cos_w$'2006 - 2012'<-cos_w$'2006 - 2012'+0.00000001
+# cos_w$'1996 - 2000'<-cos_w$'1996 - 2000'+0.00000001
+# cos_w$'2001 - 2005'<-cos_w$'2001 - 2005'+0.00000001
+# cos_w$'1990 - 1995'<-cos_w$'1990 - 1995'+0.00000001
+# 
+# cos_w$RelativeChange<- (cos_w[,5]-cos_w[,2])/cos_w[,5]
+# cos_w<-arrange(cos_w, -RelativeChange)
+# 
+# cos_w<-cos_w %>%
+#   mutate(Quantile = findInterval(RelativeChange, 
+#                                  quantile(RelativeChange, probs=c(0.10,0.90))))
+# 
+# cos_w$Quantile<-as.factor(cos_w$Quantile)
+# 
+# cos_w<-select(cos_w, Most_Probable_Topic, Quantile)
+# 
+# coss<-merge(coss, cos_w,by.y=c("Most_Probable_Topic"))
 
 #################
 # Make figure ###
@@ -248,7 +250,7 @@ coss<-merge(coss, cos_w,by.y=c("Most_Probable_Topic"))
 # data out  #
 #############
 
-coss_bray<-select(coss, Topic=Most_Probable_Topic, TimeWindow, Interdisciplinarity=RaoStirling, Quantile)
+# coss_bray<-select(coss, Topic=Most_Probable_Topic, TimeWindow, Interdisciplinarity=RaoStirling, Quantile)
 
 ###############
 # Cosine ######
@@ -350,12 +352,13 @@ RS_cos<-ggplot(data=coss, aes(x=TimeWindow,y=RaoStirling))+
                    legend.position="none",
                    panel.background =element_rect(fill="transparent",colour="black"),panel.grid.minor=element_blank())
 
-
-ggsave(filename = file.path("Figures", 
-                            "Interdisciplinarity_RS_cos.png"), 
-       width    = 10, 
-       height   = 10, 
-       units    = "cm")
+png(filename="Figures/Interdisciplinarity_RS_cos.png", 
+    type="cairo",
+    units="in", 
+    width=4, 
+    height=4,  
+    pointsize=2, 
+    res=1000)
 
 RS_cos
 
