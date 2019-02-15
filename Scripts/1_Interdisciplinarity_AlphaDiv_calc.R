@@ -38,7 +38,7 @@ groupss<-as.character(unique(rass$time_Topic))
 h_stats<-calc_biodiv(h_comm, groups=groupss,effort=25,extrapolate=TRUE,index=c("N","S","S_n","S_asymp","S_PIE"),return_NA=FALSE)
 h_stats$effort<-NULL
 h_statss<-spread(h_stats, index, value, fill = NA, convert = FALSE)
-h_statss$S_PIE<-ifelse(is.na(h_statss$S_PIE)==TRUE,h_statss$S,h_statss$S_PIE)
+#h_statss$S_PIE<-ifelse(is.na(h_statss$S_PIE)==TRUE,h_statss$S,h_statss$S_PIE)
 h_statss<-h_statss%>%
   separate(group, into=c("TimeWindow","Most_Probable_Topic"), sep=":",remove=FALSE, convert=FALSE)
 

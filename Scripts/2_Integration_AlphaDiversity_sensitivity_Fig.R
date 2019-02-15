@@ -57,11 +57,16 @@ Alpha_divs2$group <- factor(Alpha_divs2$group, levels = c("S","S_PIE"))
 Alpha_divs2$group<-droplevels(Alpha_divs2$group)
 Alpha_divs2$group<-as.factor(Alpha_divs2$group)
 
-bb<-ggplot(data=Alpha_divs2,aes(x=TimeWindow,y=Mean,group=group,colour=group))+
-  geom_point(shape=20,size=2) +
-  geom_errorbar(data=Alpha_divs2,aes(ymin=Lower,ymax=Upper),width=0.1)+
-  geom_line(size=0.5)+
-  scale_colour_poke(pokemon = 42, spread = 2, name="",labels=c("S"="S","S_PIE"= expression("S"[PIE])))+
+pd <- position_dodge(width = 0.1)
+
+bb<-ggplot(data=Alpha_divs2,aes(x=TimeWindow,y=Mean,group=group,colour=group,shape=group))+
+  geom_point(size=2, position = pd) +
+  geom_errorbar(data=Alpha_divs2,aes(ymin=Lower,ymax=Upper),width=0.1,position = pd)+
+  geom_line(size=0.5,position = pd)+
+  #scale_colour_poke(pokemon = 19, spread = 2, name="",labels=c("S"="S","S_PIE"= expression("S"[PIE])))+
+  #scale_colour_grey(name="",labels=c("S"="S","S_PIE"= expression("S"[PIE])), n=2, start=0.5, end=0.9)+
+  scale_colour_manual(name="",labels=c("S"="S","S_PIE"= expression("S"[PIE])), values=c("S"="black", "S_PIE"="gray70"))+
+  scale_shape_manual(name="",labels=c("S"="S","S_PIE"= expression("S"[PIE])), values=c("S"=18, "S_PIE"=20))+
   labs(x = "", y = "Concept diversity")
 
 DivParts<-bb+ theme_bw()+theme(axis.title.x=element_blank(),
@@ -94,12 +99,12 @@ dev.off()
 # just rarefied species richness   #
 ####################################
 
-cc<-ggplot(data=Sn,aes(x=TimeWindow,y=Mean,group=group,colour=group))+
-  geom_point(shape=20,size=2) +
-  geom_errorbar(data=Sn,aes(ymin=Lower,ymax=Upper),width=0.1)+
-  geom_line(size=0.5)+
-  scale_colour_poke(pokemon = 42, spread = 1, name="",labels=c("S_n"= expression("S"[25])))+
-  labs(x = "", y = "Concept diversity")
+cc<-ggplot(data=Sn,aes(x=TimeWindow,y=Mean,group=group))+
+  geom_point(shape=20,size=2,colour="black") +
+  geom_errorbar(data=Sn,aes(ymin=Lower,ymax=Upper),width=0.1, colour="black")+
+  geom_line(size=0.5,colour="black")+
+  #scale_colour_poke(pokemon = 19, spread = 1, name="",labels=c("S_n"= expression("S"[25])))+
+  labs(x = "", y ="Concept diversity")
 
 DivParts_n<-cc+ theme_bw()+theme(axis.title.x=element_blank(),
                                  axis.title.y=element_text(colour="black",face=c("bold"),size=8),
