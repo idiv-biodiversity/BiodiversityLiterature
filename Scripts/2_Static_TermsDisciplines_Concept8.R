@@ -1,9 +1,10 @@
 ##################### 
-## Figure S3        #
+## Figs. 5 & 6      #
 # Show how terms    #
 # and subdisciplines#
 # change over time  #
 #####################
+# Selected topics: 8 (increasing) & 18 (decreasing)
 
 require(dplyr)
 require(reshape2)
@@ -140,12 +141,15 @@ topic_8$term = with(topic_8, factor(term, levels = rev(levels(term))))
 
 f8_s <- ggplot(topic_8, aes(y=term, x=TimeWindow, fill=Relevance_allTW))+
   geom_tile(color="white", size=0.1) +
-  scale_fill_gradientn(name=expression(italic(paste(phi["kw"]))),colours=c("blue", "red"))+labs(x="",y="Terms",title="")+
-  #scale_fill_viridis(name="p(Term)|Concept") 
+  #scale_fill_gradientn(name=expression(italic(paste(phi["kw"]))),colours=c("blue", "red"))
+  scale_fill_viridis(name="p(Term)|Concept", option="D") +
+  labs(x="",y="Terms",title="")+
   theme_tufte(base_family = "serif")+theme(axis.title.y=element_text(face="bold"),
                                            plot.title=element_text(face="bold",size=8),
                                            axis.text.y=element_text(colour="black",face="plain",size=6),
-                                           legend.position="right",legend.key.height=unit(1.5,"cm"),legend.key.width=unit(0.5,"cm"))
+                                           legend.position="right",legend.key.height=unit(1.5,"cm"),
+                                           legend.key.width=unit(0.5,"cm"),
+                                           legend.text = element_text(size=7))
 
 ### Concept 8: disciplines
 
@@ -156,12 +160,18 @@ topic_8s$Discipline <- with(topic_8s, factor(Discipline, levels = rev(levels(Dis
 
 f8_d <- ggplot(topic_8s, aes(y=Discipline, x=TimeWindow, fill=sWeight))+
   geom_tile(color="white", size=0.1) +
-  scale_fill_gradientn(name="Articles",colours=c("blue", "red"))+labs(x="",y="Disciplines",title="")+
-  #scale_fill_viridis(name="p(Term)|Concept") 
-  theme_tufte(base_family = "serif")+theme(axis.title.y=element_text(face="bold"),axis.text.x=element_text(size=8),
-                                           plot.title=element_text(face="bold",size=8),
-                                           legend.position="right",legend.key.height=unit(1.5,"cm"),legend.key.width=unit(0.5,"cm"))
+  #scale_fill_gradientn(name="Articles",colours=c("blue", "red"))
+  scale_fill_viridis(name="Articles",option="D") + 
+  labs(x="",y="Subdisciplines",title="")+
+  theme_tufte(base_family = "serif")+
+  theme(axis.title.y=element_text(face="bold"),
+        axis.text.x=element_text(size=8),
+        plot.title=element_text(face="bold",size=8),
+        legend.position="right",
+        legend.key.height=unit(1.5,"cm"),legend.key.width=unit(0.5,"cm"),
+        legend.text = element_text(size=7))
 
+####
 
 require(cowplot)
 
@@ -169,10 +179,68 @@ png(filename="Figures/StaticFigure_Concepts_Disci_t8.png",
     type="cairo",
     units="in", 
     width=6, 
-    height=8.2, 
+    height=7.1, 
     pointsize=2, 
     res=700)
 
-plot_grid(f8_s, f8_d, labels=c("a)","b)"),label_size=8,ncol=1,align="h",rel_widths=c(1,1))
+plot_grid(f8_s, f8_d, labels=c("a)","b)"),label_size=8,ncol=1,align="h",rel_widths=c(1.2,0.8))
 
 dev.off()
+
+#############################
+#  concept 18: decreasing   #
+#############################
+
+topic_18<-filter(togg7, Most_Probable_Topic==18  & rank_rel <51)
+
+topic_18$term<-as.factor(topic_18$term)
+topic_18$term = with(topic_18, factor(term, levels = rev(levels(term))))
+
+f18_s <- ggplot(topic_18, aes(y=term, x=TimeWindow, fill=Relevance_allTW))+
+  geom_tile(color="white", size=0.1) +
+  #scale_fill_gradientn(name=expression(italic(paste(phi["kw"]))),colours=c("blue", "red"))
+  scale_fill_viridis(name="p(Term)|Concept", option="D") +
+  labs(x="",y="Terms",title="")+
+  theme_tufte(base_family = "serif")+theme(axis.title.y=element_text(face="bold"),
+                                           plot.title=element_text(face="bold",size=8),
+                                           axis.text.y=element_text(colour="black",face="plain",size=6),
+                                           legend.position="right",legend.key.height=unit(1.5,"cm"),
+                                           legend.key.width=unit(0.5,"cm"),
+                                           legend.text = element_text(size=7))
+
+### Concept 8: disciplines
+
+topic_18s<-filter(diss2,Topic==18 & rank_w<26)
+
+topic_18s$Discipline<-as.factor(topic_18s$Discipline)
+topic_18s$Discipline <- with(topic_18s, factor(Discipline, levels = rev(levels(Discipline))))
+
+f18_d <- ggplot(topic_18s, aes(y=Discipline, x=TimeWindow, fill=sWeight))+
+  geom_tile(color="white", size=0.1) +
+  #scale_fill_gradientn(name="Articles",colours=c("blue", "red"))
+  scale_fill_viridis(name="Articles",option="D") + 
+  labs(x="",y="Subdisciplines",title="")+
+  theme_tufte(base_family = "serif")+
+  theme(axis.title.y=element_text(face="bold"),
+        axis.text.x=element_text(size=8),
+        plot.title=element_text(face="bold",size=8),
+        legend.position="right",
+        legend.key.height=unit(1.5,"cm"),legend.key.width=unit(0.5,"cm"),
+        legend.text = element_text(size=7))
+
+####
+
+require(cowplot)
+
+png(filename="Figures/StaticFigure_Concepts_Disci_t18.png", 
+    type="cairo",
+    units="in", 
+    width=6, 
+    height=7.1, 
+    pointsize=2, 
+    res=700)
+
+plot_grid(f18_s, f18_d, labels=c("a)","b)"),label_size=8,ncol=1,align="h",rel_widths=c(1.3,0.6))
+
+dev.off()
+  

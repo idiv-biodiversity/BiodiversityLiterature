@@ -84,7 +84,7 @@ cc<-ggplot(data=Sn,aes(x=TimeWindow,y=Mean,group=group))+
   geom_line(size=0.5,colour="black")+
   labs(x = "", y = expression(paste("Concept diversity (S"[25],")")))
        
-DivParts_n<-cc+ theme_bw()+theme(axis.title.x=element_blank(),
+DivParts_integr<-cc+ theme_bw()+theme(axis.title.x=element_blank(),
                                axis.title.y=element_text(colour="black",face=c("bold"),size=8),
                                axis.text.y=element_text(colour="black",face="bold",size=8),
                                axis.text.x=element_text(colour="black",face="bold",size=7),
@@ -106,7 +106,9 @@ png(filename="Figures/Integr_Alpha_RarefiedRichness_final.png",
     pointsize=2, 
     res=1000)
 
-DivParts_n
+DivParts_integr
 
 
 dev.off()
+
+save(DivParts_integr, file="Cleaned_Data/Integr_Rare.RData")

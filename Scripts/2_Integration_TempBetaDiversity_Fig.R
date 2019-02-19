@@ -116,7 +116,7 @@ cc<-ggplot(data=tempbeta_interr,aes(x=TimeWindow,y=Mean,group=BetaDiv_Components
   scale_y_continuous(limits=c(0.10, 0.81),breaks=c(0.2,0.4,0.6,0.8))+
   
   
-  labs(x = "", y = expression(paste("Temporal ",beta," interdisciplinarity")))+
+  labs(x = "", y = expression(paste("Temporal ",beta," subdiscipline diversity")))+
   facet_wrap(.~TBI)
 
 TempBetaDiv_inter<-cc+ theme_bw()+theme(axis.title.x=element_blank(),
