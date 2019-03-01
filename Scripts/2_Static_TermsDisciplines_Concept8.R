@@ -142,14 +142,15 @@ topic_8$term = with(topic_8, factor(term, levels = rev(levels(term))))
 f8_s <- ggplot(topic_8, aes(y=term, x=TimeWindow, fill=Relevance_allTW))+
   geom_tile(color="white", size=0.1) +
   #scale_fill_gradientn(name=expression(italic(paste(phi["kw"]))),colours=c("blue", "red"))
-  scale_fill_viridis(name="p(Term)|Concept", option="D") +
+  scale_fill_viridis(name="p(Term)", option="D") +
   labs(x="",y="Terms",title="")+
-  theme_tufte(base_family = "serif")+theme(axis.title.y=element_text(face="bold"),
-                                           plot.title=element_text(face="bold",size=8),
-                                           axis.text.y=element_text(colour="black",face="plain",size=6),
-                                           legend.position="right",legend.key.height=unit(1.5,"cm"),
-                                           legend.key.width=unit(0.5,"cm"),
-                                           legend.text = element_text(size=7))
+  theme_tufte(base_family = "serif")+
+  theme(axis.title.y=element_text(face="bold"),
+        plot.title=element_text(face="bold",size=8),
+        axis.text.y=element_text(colour="black",face="plain",size=6),
+        legend.position="right",legend.key.height=unit(1.5,"cm"),
+        legend.key.width=unit(0.5,"cm"),
+        legend.text = element_text(size=7))
 
 ### Concept 8: disciplines
 
@@ -165,8 +166,9 @@ f8_d <- ggplot(topic_8s, aes(y=Discipline, x=TimeWindow, fill=sWeight))+
   labs(x="",y="Subdisciplines",title="")+
   theme_tufte(base_family = "serif")+
   theme(axis.title.y=element_text(face="bold"),
-        axis.text.x=element_text(size=8),
-        plot.title=element_text(face="bold",size=8),
+        axis.text.x=element_text(size=6),
+        axis.text.y=element_text(size=6),
+        plot.title=element_text(face="bold",size=6),
         legend.position="right",
         legend.key.height=unit(1.5,"cm"),legend.key.width=unit(0.5,"cm"),
         legend.text = element_text(size=7))
@@ -183,7 +185,7 @@ png(filename="Figures/StaticFigure_Concepts_Disci_t8.png",
     pointsize=2, 
     res=700)
 
-plot_grid(f8_s, f8_d, labels=c("a)","b)"),label_size=8,ncol=1,align="h",rel_widths=c(1.2,0.8))
+plot_grid(f8_s, f8_d, labels=c("a)","b)"),label_size=7,ncol=1,align="h",vjust=c(2,1.5),rel_widths=c(2,0.8), rel_heights = c(1.25,0.9))
 
 dev.off()
 
@@ -199,7 +201,7 @@ topic_18$term = with(topic_18, factor(term, levels = rev(levels(term))))
 f18_s <- ggplot(topic_18, aes(y=term, x=TimeWindow, fill=Relevance_allTW))+
   geom_tile(color="white", size=0.1) +
   #scale_fill_gradientn(name=expression(italic(paste(phi["kw"]))),colours=c("blue", "red"))
-  scale_fill_viridis(name="p(Term)|Concept", option="D") +
+  scale_fill_viridis(name="p(Term)", option="D") +
   labs(x="",y="Terms",title="")+
   theme_tufte(base_family = "serif")+theme(axis.title.y=element_text(face="bold"),
                                            plot.title=element_text(face="bold",size=8),
@@ -222,11 +224,13 @@ f18_d <- ggplot(topic_18s, aes(y=Discipline, x=TimeWindow, fill=sWeight))+
   labs(x="",y="Subdisciplines",title="")+
   theme_tufte(base_family = "serif")+
   theme(axis.title.y=element_text(face="bold"),
-        axis.text.x=element_text(size=8),
-        plot.title=element_text(face="bold",size=8),
+        axis.text.x=element_text(size=6),
+        axis.text.y=element_text(size=6),
+        plot.title=element_text(face="bold",size=6),
         legend.position="right",
         legend.key.height=unit(1.5,"cm"),legend.key.width=unit(0.5,"cm"),
         legend.text = element_text(size=7))
+
 
 ####
 
@@ -240,7 +244,8 @@ png(filename="Figures/StaticFigure_Concepts_Disci_t18.png",
     pointsize=2, 
     res=700)
 
-plot_grid(f18_s, f18_d, labels=c("a)","b)"),label_size=8,ncol=1,align="h",rel_widths=c(1.3,0.6))
+plot_grid(f18_s, f18_d, labels=c("a)","b)"),label_size=7,ncol=1,align="h",vjust=c(2,1.5),
+          rel_widths=c(2,0.8), rel_heights = c(1.25,0.9))
 
 dev.off()
   
