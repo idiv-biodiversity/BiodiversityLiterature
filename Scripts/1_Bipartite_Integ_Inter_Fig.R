@@ -22,7 +22,7 @@ nett$TimeWindow<-ifelse(nett$TimeWindow=="2006_2012","2006 - 2012",nett$TimeWind
 nett$TimeWindow<-as.factor(nett$TimeWindow)
 
 nett$TimeWindow <- factor(nett$TimeWindow, levels = c("1990 - 1995","1996 - 2000","2001 - 2005","2006 - 2012"))
-nett$TrophicLevel <- factor(nett$TrophicLevel, levels = c("ResArea_Orig","Most_Probable_Topic"))
+nett$TrophicLevel <- factor(nett$TrophicLevel, levels = c("Most_Probable_Topic","ResArea_Orig"))
 
 #################
 # Niche overlap #
@@ -55,9 +55,9 @@ Niche<-ee+ theme_bw()+theme(axis.title.x=element_blank(),
 ff<-ggplot(data=nett,aes(x=TimeWindow,y=gen.vul,group=TrophicLevel, colour=TrophicLevel,shape=TrophicLevel))+
   geom_line(size=1)+
   geom_point(size=3)+
-  scale_colour_colorblind(name="",labels=c("ResArea_Orig"="Subdisciplines","Most_Probable_Topic"= "Concepts"))+
+  scale_colour_colorblind(name="",labels=c("ResArea_Orig"="Subdisciplines (Generality)","Most_Probable_Topic"= "Concepts (Vulnerability)"))+
   
-  scale_shape_manual(name="",labels=c("ResArea_Orig"="Subdisciplines","Most_Probable_Topic"= "Concepts"),
+  scale_shape_manual(name="",labels=c("ResArea_Orig"="Subdisciplines (Generality)","Most_Probable_Topic"= "Concepts (Vulnerability)"),
                      values=c("ResArea_Orig"=17, "Most_Probable_Topic"=19))+
   labs(x = "", y = "Generality / Vulnerability")
 
@@ -68,13 +68,11 @@ GenVuln<-ff+ theme_bw()+theme(axis.title.x=element_blank(),
                             axis.ticks.y=element_line(colour="transparent"),
                             legend.background=element_rect(fill="transparent"),
                             legend.key=element_rect(fill="transparent"),legend.key.size = unit(0.25, "cm"),
-                            legend.text=element_text(size=9),
+                            legend.text=element_text(size=7),
                             legend.text.align = 0.5,
-                            legend.position=c(0.92,0.95),legend.direction="vertical",
+                            legend.position=c(0.27,0.95),legend.direction="vertical",
                             panel.background =element_rect(fill="transparent",colour="black"),
                             panel.grid.minor=element_blank())
-
-
 
 ###################
 # combine figures #
@@ -85,12 +83,12 @@ require(cowplot)
 bipartite_tog<-plot_grid(Niche + theme(legend.position="none", 
                                     panel.background = element_blank(),
                                     panel.grid.major = element_blank()),
-                   GenVuln +theme(legend.position="none", 
-                                         panel.background = element_blank(),
+                   GenVuln +theme(panel.background = element_blank(),
                                          panel.grid.major = element_blank()),
                    labels=c("a)","b)"),label_size=6,align="vh",ncol=2)
 
-legend <- get_legend(Niche + theme(legend.position="top",legend.direction="horizontal", legend.text=element_text(size=6)))
+legend <- get_legend(Niche + theme(legend.position="top",legend.direction="horizontal", 
+                                   legend.text=element_text(size=7)))
 
 bipartite_togg <- plot_grid(legend, bipartite_tog,rel_heights =c(0.27,5),ncol=1)
 
