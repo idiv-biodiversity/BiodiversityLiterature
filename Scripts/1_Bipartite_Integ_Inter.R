@@ -60,28 +60,29 @@ m_b4<-as.matrix(m_b4)
 # Bi-partite network indices (for each time window)   #
 #######################################################
 
-net_indd_null<-null.t.test(m_b1,index=c("niche overlap", "generality","vulnerability"),
+net_indd_null<-null.t.test(m_b1,index=c("niche overlap","discrepancy"),
                            weighted=TRUE,N=1000)
+
 net_indd_null<-data.frame(net_indd_null)
 net_indd_null$Index<-rownames(net_indd_null)
 net_indd_null<-select(net_indd_null, obs,Index, P)
 net_indd_null$TimeWindow<-"1990_1995"
 
-net_indd_null_2<-null.t.test(m_b2,index=c("niche overlap", "generality","vulnerability"),
+net_indd_null_2<-null.t.test(m_b2,index=c("niche overlap","discrepancy"),
                            weighted=TRUE,N=1000)
 net_indd_null_2<-data.frame(net_indd_null_2)
 net_indd_null_2$Index<-rownames(net_indd_null_2)
 net_indd_null_2<-select(net_indd_null_2, obs,Index,P)
 net_indd_null_2$TimeWindow<-"1996_2000"
 
-net_indd_null_3<-null.t.test(m_b3,index=c("niche overlap", "generality","vulnerability"),
+net_indd_null_3<-null.t.test(m_b3,index=c("niche overlap","discrepancy"),
                              weighted=TRUE,N=1000)
 net_indd_null_3<-data.frame(net_indd_null_3)
 net_indd_null_3$Index<-rownames(net_indd_null_3)
 net_indd_null_3<-select(net_indd_null_3, obs,Index,P)
 net_indd_null_3$TimeWindow<-"2001_2005"
 
-net_indd_null_4<-null.t.test(m_b4,index=c("niche overlap","generality","vulnerability"),
+net_indd_null_4<-null.t.test(m_b4,index=c("niche overlap","discrepancy"),
                              weighted=TRUE,N=1000)
 net_indd_null_4<-data.frame(net_indd_null_4)
 net_indd_null_4$Index<-rownames(net_indd_null_4)
@@ -91,18 +92,26 @@ net_indd_null_4$TimeWindow<-"2006_2012"
 # combine results and tidy up
 
 net_bipart<-rbind.data.frame(net_indd_null,net_indd_null_2,net_indd_null_3,net_indd_null_4)
-stri_sub(net_bipart$Index, -3, -3) <- "_"
 
-net_bipart$Index<-ifelse(net_bipart$Index=="generality_HL","gen.vul_HL",net_bipart$Index)
-net_bipart$Index<-ifelse(net_bipart$Index=="vulnerability_LL","gen.vul_LL",net_bipart$Index)
+stri_sub(net_bipart$Index, -3, -3) <- "_"
 
 net_bipart<-net_bipart%>%
   separate(Index, into=c("Index","TrophicLevel"), sep="_",remove=TRUE, convert=FALSE)
 
+net_bipart<-filter(net_bipart, Index!="discrepancy") # just calculated to get niche overlap for both levels
+
+#######################################
+# Note  ###############################      
+# removed p-values [all significant] ##
+#######################################
+
+net_bipart<-select(net_bipart, Index, TrophicLevel, TimeWindow, Value=obs)
+
 net_bipartt<-net_bipart%>%
-  spread(Index, obs, fill=NA, convert=FALSE)
+  spread(Index, Value, fill=NA, convert=FALSE)
+
 net_bipartt$TrophicLevel<-ifelse(net_bipartt$TrophicLevel=="HL", "ResArea_Orig","Most_Probable_Topic")
 
-net_bipartt<-select(net_bipartt, TimeWindow, TrophicLevel, gen.vul, niche.overlap, nullP=P)
+net_bipartt<-select(net_bipartt, TimeWindow, TrophicLevel, niche.overlap)
 
 write.csv(net_bipartt,"Cleaned_Data/group_bipartite_indices.csv",row.names=F)
