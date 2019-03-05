@@ -4,7 +4,7 @@
 # and subdisciplines#
 # change over time  #
 #####################
-# Selected topics: 8 (increasing) & 18 (decreasing)
+# Selected topics: 8 (increasing) & 19 (decreasing)
 
 require(dplyr)
 require(reshape2)
@@ -190,10 +190,10 @@ plot_grid(f8_s, f8_d, labels=c("a)","b)"),label_size=7,ncol=1,align="h",vjust=c(
 dev.off()
 
 #############################
-#  concept 18: decreasing   #
+#  concept 19: decreasing   #
 #############################
 
-topic_18<-filter(togg7, Most_Probable_Topic==18  & rank_rel <51)
+topic_18<-filter(togg7, Most_Probable_Topic==19  & rank_rel <51)
 
 topic_18$term<-as.factor(topic_18$term)
 topic_18$term = with(topic_18, factor(term, levels = rev(levels(term))))
@@ -210,9 +210,9 @@ f18_s <- ggplot(topic_18, aes(y=term, x=TimeWindow, fill=Relevance_allTW))+
                                            legend.key.width=unit(0.5,"cm"),
                                            legend.text = element_text(size=7))
 
-### Concept 8: disciplines
+### Concept 19: disciplines
 
-topic_18s<-filter(diss2,Topic==18 & rank_w<26)
+topic_18s<-filter(diss2,Topic==19 & rank_w<26)
 
 topic_18s$Discipline<-as.factor(topic_18s$Discipline)
 topic_18s$Discipline <- with(topic_18s, factor(Discipline, levels = rev(levels(Discipline))))
@@ -236,7 +236,7 @@ f18_d <- ggplot(topic_18s, aes(y=Discipline, x=TimeWindow, fill=sWeight))+
 
 require(cowplot)
 
-png(filename="Figures/StaticFigure_Concepts_Disci_t18.png", 
+png(filename="Figures/StaticFigure_Concepts_Disci_t19.png", 
     type="cairo",
     units="in", 
     width=6, 
