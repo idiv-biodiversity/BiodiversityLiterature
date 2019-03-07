@@ -4,21 +4,22 @@
 ###############################################
 
 require(cowplot)
+require(ggplot2)
 
-load(file="Cleaned_Data/Integration_Div.RData")
-load(file="Cleaned_Data/Interdisc_Div.RData")
+integ_plot <- readRDS("Cleaned_Data/Integration_Div.rds")
+inter_plot <- readRDS("Cleaned_Data/Interdisc_Div.rds")
 
 # merge figures
 
-int_tog<-plot_grid(DivParts + theme(legend.position="none", 
+int_tog<-plot_grid(integ_plot + theme(legend.position="none", 
                                     panel.background = element_blank(),
                                     panel.grid.major = element_blank()),
-                   Inter_DivParts +theme(legend.position="none", 
+                   inter_plot +theme(legend.position="none", 
                                          panel.background = element_blank(),
                                          panel.grid.major = element_blank()),
                    labels=c("a)","b)"),label_size=6,align="vh",ncol=2)
 
-legend <- get_legend(DivParts + theme(legend.position="top",legend.direction="horizontal", legend.text=element_text(size=6)))
+legend <- get_legend(integ_plot + theme(legend.position="top",legend.direction="horizontal", legend.text=element_text(size=6)))
 
 int_togg <- plot_grid(legend,int_tog,rel_heights = c(0.27,5),ncol=1)
 

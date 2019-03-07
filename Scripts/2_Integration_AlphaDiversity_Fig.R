@@ -72,7 +72,7 @@ DivParts<-bb+ theme_bw()+theme(axis.title.x=element_blank(),
                                panel.background =element_rect(fill="transparent",colour="black"),
                                panel.grid.minor=element_blank())
 
-save(DivParts, file="Cleaned_Data/Integration_Div.RData")
+saveRDS(DivParts, file="Cleaned_Data/Integration_Div.rds")
 
 ####################################
 # just rarefied species richness   #
@@ -111,4 +111,5 @@ DivParts_integr
 
 dev.off()
 
-save(DivParts_integr, file="Cleaned_Data/Integr_Rare.RData")
+
+saveRDS(DivParts_integr, file="Cleaned_Data/Integr_Rare.rds")

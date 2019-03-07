@@ -58,7 +58,7 @@ bb<-ggplot(data=Alpha_divs2,aes(x=TimeWindow,y=Mean,group=group,colour=group,sha
                           labels=c("S"="Species Richness","S_PIE"= expression("ENS"[PIE])))+
   scale_shape_manual(name="", values=c("S"=17, "S_PIE"=19),
                      labels=c("S"="Species Richness","S_PIE"= expression("ENS"[PIE])))+
-  labs(x = "", y = "Subsdiscipline diversity")
+  labs(x = "", y = "Subdiscipline diversity")
 
 Inter_DivParts<-bb+ theme_bw()+theme(axis.title.x=element_blank(),
                                axis.title.y=element_text(colour="black",face=c("bold"),size=8),
@@ -72,7 +72,8 @@ Inter_DivParts<-bb+ theme_bw()+theme(axis.title.x=element_blank(),
                                legend.position=c(0.92,0.95),legend.direction="vertical",
                                panel.background =element_rect(fill="transparent",colour="black"),
                                panel.grid.minor=element_blank())
-save(Inter_DivParts, file="Cleaned_Data/Interdisc_Div.RData")
+
+saveRDS(Inter_DivParts, file="Cleaned_Data/Interdisc_Div.rds")
 
 ####################################
 # just rarefied species richness   #
@@ -82,7 +83,7 @@ cc<-ggplot(data=Sn,aes(x=TimeWindow,y=Mean,group=group))+
   geom_point(shape=20,size=2,colour="black") +
   geom_errorbar(data=Sn,aes(ymin=Lower,ymax=Upper),width=0.1, colour="black")+
   geom_line(size=0.5,colour="black")+
-  labs(x = "", y = expression(paste("Subsdiscipline diversity (S"[25],")")))
+  labs(x = "", y = expression(paste("Subdiscipline diversity (S"[25],")")))
 
 DivParts_n<-cc+ theme_bw()+theme(axis.title.x=element_blank(),
                                  axis.title.y=element_text(colour="black",face=c("bold"),size=8),
@@ -111,4 +112,4 @@ DivParts_n
 
 dev.off()
 
-save(DivParts_n, file="Cleaned_Data/Interdisc_Rare.RData")
+saveRDS(DivParts_n, file="Cleaned_Data/Interdisc_Rare.rds")

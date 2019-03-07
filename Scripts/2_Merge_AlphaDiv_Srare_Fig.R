@@ -4,9 +4,11 @@
 ###############################################
 
 require(cowplot)
+require(ggplot2)
 
-load(file="Cleaned_Data/Interdisc_Rare.RData")
-load(file="Cleaned_Data/Integr_Rare.RData")
+DivParts_integr<-readRDS("Cleaned_Data/Integr_Rare.rds")
+DivParts_n<-readRDS("Cleaned_Data/Interdisc_Rare.rds")
+
 
 # merge figures
 
